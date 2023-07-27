@@ -1,0 +1,51 @@
+User Agreement and Declaration for Open Source Text Software
+
+This User Agreement ("Agreement") is a legal agreement between you ("User") and the developers of [Open Source Text Software] ("Software"). By using the Software, the User agrees to the terms and conditions set forth in this Agreement.
+
+1. Grant of License
+The Software is licensed under the GNU General Public License version 3 or any later version (the "License"). The License grants the User the right to use, distribute, and modify the Software freely for any purpose, subject to the terms and conditions of the License.
+
+2. Disclaimer of Warranty and Liability
+The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Software or the use or other dealings in the Software.
+
+3. Acceptable Use
+The User may not use the Software to engage in any activity that violates any law or regulation, infringes any intellectual property right or other proprietary right of any third party, or interferes with or disrupts any networks connected to the Software.
+
+4. Intellectual Property
+All copyright, trademark, patent, trade secret, and all other forms of proprietary rights in and to the Software are owned by the developers of the Software or their respective owners. The User acknowledges and agrees that they shall not acquire any ownership rights in or to the Software.
+
+5. Termination
+The License granted pursuant to this Agreement shall automatically terminate if the User breaches any term of this Agreement or materially breaches any other license agreement related to the Software.
+
+6. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of [Country], without regard to its conflict of laws provisions.
+
+7. Entire Agreement
+This Agreement constitutes the entire agreement between the User and developers of the Software with respect to the use of the Software and supersedes all prior or contemporaneous understandings or agreements, whether written or oral, regarding the subject matter of this Agreement.
+
+中文翻译：
+
+开源文本软件用户协议和声明
+
+本用户协议（“协议”）是您（“用户”）与《开源文本软件》（“软件”）的开发者之间的合法协议。用户使用该软件即表示同意遵守本协议所述的条款和条件。
+
+1. 许可证授权
+该软件根据GNU普通公共许可证第三版或更高版本（“许可证”）授权。该许可证授予用户在遵守许可证的条款和条件的前提下，自由使用、分发和修改该软件的权利。
+
+2. 免责声明
+该软件按“原样”提供，不作任何明示或暗示的保证，包括但不限于商业适用性、特定用途的适用性和非侵权性的保证。无论在任何情况下，作者或版权所有者均不对任何索赔、损害或其他责任承担任何责任，无论是合同行为、侵权还是其他方式引起的与该软件有关或使用或其他交易中的责任。
+
+3. 合理使用
+用户不得使用该软件从事任何违反法律法规、侵犯任何第三方知识产权或其他专有权利或干扰或破坏与该软件连接的任何网络的活动。
+
+4. 知识产权
+该软件的版权、商标、专利、商业秘密和所有其他形式的所有专有权利均属于该软件的开发者或其各自的所有者。用户承认并同意，他们不会获得该软件的任何所有权。
+
+5. 终止
+根据本协议授予的许可证将自动终止，如果用户违反本协议的任何条款或实质性违反与该软件相关的任何其他许可证协议。
+
+6. 适用法律
+本协议应受[国家]法律管辖并按照其条例进行解释。
+
+7. 整个协议
+本协议构成用户和该软件的开发者就使用该软件达成的全部协议，并取代任何口头或书面的前后协议。

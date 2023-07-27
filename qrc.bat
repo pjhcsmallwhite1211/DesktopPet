@@ -1,0 +1,1 @@
+D:\Desktop\python\DesktopPet\venv\Scripts\pyrcc5.exe -o test_rc.py ./resources/test.qrc

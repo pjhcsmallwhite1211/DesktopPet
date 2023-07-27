@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>116</width>
+    <height>64</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Block</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="resources/test.qrc">
+    <normaloff>:/icon/image/icon.png</normaloff>:/icon/image/icon.png</iconset>
+  </property>
+  <widget class="QLabel" name="item">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>64</width>
+     <height>64</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>黑体</family>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="resources/test.qrc">:/image/image/cookie.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
+  <include location="C:/Users/feibai/.designer/backup/resources/test.qrc"/>
+ </resources>
+ <connections/>
+</ui>

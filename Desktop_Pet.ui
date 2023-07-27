@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>703</width>
+    <height>745</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>黑体</family>
+    <pointsize>10</pointsize>
+    <weight>75</weight>
+    <bold>true</bold>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>DesktopPet</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="resources/test.qrc">
+    <normaloff>:/icon/image/icon.png</normaloff>:/icon/image/icon.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout_3">
+    <property name="leftMargin">
+     <number>0</number>
+    </property>
+    <property name="rightMargin">
+     <number>0</number>
+    </property>
+    <property name="bottomMargin">
+     <number>0</number>
+    </property>
+    <item row="0" column="0">
+     <layout class="QVBoxLayout" name="Box" stretch="2,1">
+      <item>
+       <widget class="QGroupBox" name="Pet">
+        <property name="title">
+         <string>Pet</string>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout">
+         <item>
+          <widget class="QFrame" name="frame">
+           <property name="frameShape">
+            <enum>QFrame::StyledPanel</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Raised</enum>
+           </property>
+           <widget class="QToolBox" name="toolBox">
+            <property name="geometry">
+             <rect>
+              <x>0</x>
+              <y>10</y>
+              <width>681</width>
+              <height>381</height>
+             </rect>
+            </property>
+            <property name="currentIndex">
+             <number>3</number>
+            </property>
+            <widget class="QWidget" name="Slime">
+             <property name="geometry">
+              <rect>
+               <x>0</x>
+               <y>0</y>
+               <width>681</width>
+               <height>136</height>
+              </rect>
+             </property>
+             <attribute name="icon">
+              <iconset resource="resources/test.qrc">
+               <normaloff>:/icon/image/icon.png</normaloff>:/icon/image/icon.png</iconset>
+             </attribute>
+             <attribute name="label">
+              <string>Slime</string>
+             </attribute>
+             <widget class="QFrame" name="frame_2">
+              <property name="geometry">
+               <rect>
+                <x>130</x>
+                <y>0</y>
+                <width>120</width>
+                <height>80</height>
+               </rect>
+              </property>
+              <property name="frameShape">
+               <enum>QFrame::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Raised</enum>
+              </property>
+              <widget class="QLabel" name="pet">
+               <property name="geometry">
+                <rect>
+                 <x>40</x>
+                 <y>0</y>
+                 <width>80</width>
+                 <height>80</height>
+                </rect>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/icon/image/icon.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+              <widget class="QLabel" name="item">
+               <property name="geometry">
+                <rect>
+                 <x>0</x>
+                 <y>20</y>
+                 <width>48</width>
+                 <height>48</height>
+                </rect>
+               </property>
+               <property name="font">
+                <font>
+                 <family>黑体</family>
+                 <pointsize>10</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/image/image/cookie.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="red">
+             <property name="geometry">
+              <rect>
+               <x>0</x>
+               <y>0</y>
+               <width>681</width>
+               <height>136</height>
+              </rect>
+             </property>
+             <attribute name="icon">
+              <iconset resource="resources/test.qrc">
+               <normaloff>:/icon/image/icon1.png</normaloff>:/icon/image/icon1.png</iconset>
+             </attribute>
+             <attribute name="label">
+              <string>red</string>
+             </attribute>
+             <widget class="QFrame" name="frame_3">
+              <property name="geometry">
+               <rect>
+                <x>130</x>
+                <y>10</y>
+                <width>131</width>
+                <height>91</height>
+               </rect>
+              </property>
+              <property name="frameShape">
+               <enum>QFrame::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Raised</enum>
+              </property>
+              <widget class="QLabel" name="pet_2">
+               <property name="geometry">
+                <rect>
+                 <x>50</x>
+                 <y>10</y>
+                 <width>80</width>
+                 <height>80</height>
+                </rect>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/icon/image/icon1.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+              <widget class="QLabel" name="item_2">
+               <property name="geometry">
+                <rect>
+                 <x>10</x>
+                 <y>30</y>
+                 <width>48</width>
+                 <height>48</height>
+                </rect>
+               </property>
+               <property name="font">
+                <font>
+                 <family>黑体</family>
+                 <pointsize>10</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/image/image/cookie.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="orange">
+             <property name="geometry">
+              <rect>
+               <x>0</x>
+               <y>0</y>
+               <width>681</width>
+               <height>136</height>
+              </rect>
+             </property>
+             <attribute name="icon">
+              <iconset resource="resources/test.qrc">
+               <normaloff>:/icon/image/icon2.png</normaloff>:/icon/image/icon2.png</iconset>
+             </attribute>
+             <attribute name="label">
+              <string>orange</string>
+             </attribute>
+             <widget class="QFrame" name="frame_4">
+              <property name="geometry">
+               <rect>
+                <x>140</x>
+                <y>20</y>
+                <width>131</width>
+                <height>91</height>
+               </rect>
+              </property>
+              <property name="frameShape">
+               <enum>QFrame::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Raised</enum>
+              </property>
+              <widget class="QLabel" name="pet_3">
+               <property name="geometry">
+                <rect>
+                 <x>50</x>
+                 <y>10</y>
+                 <width>80</width>
+                 <height>80</height>
+                </rect>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/icon/image/icon2.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+              <widget class="QLabel" name="item_3">
+               <property name="geometry">
+                <rect>
+                 <x>10</x>
+                 <y>30</y>
+                 <width>48</width>
+                 <height>48</height>
+                </rect>
+               </property>
+               <property name="font">
+                <font>
+                 <family>黑体</family>
+                 <pointsize>10</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/image/image/cookie.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="yellow">
+             <property name="geometry">
+              <rect>
+               <x>0</x>
+               <y>0</y>
+               <width>681</width>
+               <height>136</height>
+              </rect>
+             </property>
+             <attribute name="icon">
+              <iconset resource="resources/test.qrc">
+               <normaloff>:/icon/image/icon3.png</normaloff>:/icon/image/icon3.png</iconset>
+             </attribute>
+             <attribute name="label">
+              <string>yellow</string>
+             </attribute>
+             <widget class="QFrame" name="frame_5">
+              <property name="geometry">
+               <rect>
+                <x>180</x>
+                <y>30</y>
+                <width>131</width>
+                <height>91</height>
+               </rect>
+              </property>
+              <property name="frameShape">
+               <enum>QFrame::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Raised</enum>
+              </property>
+              <widget class="QLabel" name="pet_4">
+               <property name="geometry">
+                <rect>
+                 <x>50</x>
+                 <y>10</y>
+                 <width>80</width>
+                 <height>80</height>
+                </rect>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/icon/image/icon3.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+              <widget class="QLabel" name="item_4">
+               <property name="geometry">
+                <rect>
+                 <x>10</x>
+                 <y>30</y>
+                 <width>48</width>
+                 <height>48</height>
+                </rect>
+               </property>
+               <property name="font">
+                <font>
+                 <family>黑体</family>
+                 <pointsize>10</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/image/image/cookie.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="green">
+             <property name="geometry">
+              <rect>
+               <x>0</x>
+               <y>0</y>
+               <width>681</width>
+               <height>136</height>
+              </rect>
+             </property>
+             <attribute name="icon">
+              <iconset resource="resources/test.qrc">
+               <normaloff>:/icon/image/icon4.png</normaloff>:/icon/image/icon4.png</iconset>
+             </attribute>
+             <attribute name="label">
+              <string>green</string>
+             </attribute>
+             <widget class="QFrame" name="frame_6">
+              <property name="geometry">
+               <rect>
+                <x>180</x>
+                <y>30</y>
+                <width>131</width>
+                <height>91</height>
+               </rect>
+              </property>
+              <property name="frameShape">
+               <enum>QFrame::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Raised</enum>
+              </property>
+              <widget class="QLabel" name="pet_5">
+               <property name="geometry">
+                <rect>
+                 <x>50</x>
+                 <y>10</y>
+                 <width>80</width>
+                 <height>80</height>
+                </rect>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/icon/image/icon4.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+              <widget class="QLabel" name="item_5">
+               <property name="geometry">
+                <rect>
+                 <x>10</x>
+                 <y>30</y>
+                 <width>48</width>
+                 <height>48</height>
+                </rect>
+               </property>
+               <property name="font">
+                <font>
+                 <family>黑体</family>
+                 <pointsize>10</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/image/image/cookie.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="blue">
+             <property name="geometry">
+              <rect>
+               <x>0</x>
+               <y>0</y>
+               <width>681</width>
+               <height>136</height>
+              </rect>
+             </property>
+             <attribute name="icon">
+              <iconset resource="resources/test.qrc">
+               <normaloff>:/icon/image/icon5.png</normaloff>:/icon/image/icon5.png</iconset>
+             </attribute>
+             <attribute name="label">
+              <string>blue</string>
+             </attribute>
+             <widget class="QFrame" name="frame_7">
+              <property name="geometry">
+               <rect>
+                <x>180</x>
+                <y>30</y>
+                <width>131</width>
+                <height>91</height>
+               </rect>
+              </property>
+              <property name="frameShape">
+               <enum>QFrame::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Raised</enum>
+              </property>
+              <widget class="QLabel" name="pet_6">
+               <property name="geometry">
+                <rect>
+                 <x>50</x>
+                 <y>10</y>
+                 <width>80</width>
+                 <height>80</height>
+                </rect>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/icon/image/icon5.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+              <widget class="QLabel" name="item_6">
+               <property name="geometry">
+                <rect>
+                 <x>10</x>
+                 <y>30</y>
+                 <width>48</width>
+                 <height>48</height>
+                </rect>
+               </property>
+               <property name="font">
+                <font>
+                 <family>黑体</family>
+                 <pointsize>10</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/image/image/cookie.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </widget>
+            </widget>
+            <widget class="QWidget" name="purple">
+             <property name="geometry">
+              <rect>
+               <x>0</x>
+               <y>0</y>
+               <width>681</width>
+               <height>136</height>
+              </rect>
+             </property>
+             <attribute name="icon">
+              <iconset resource="resources/test.qrc">
+               <normaloff>:/icon/image/icon6.png</normaloff>:/icon/image/icon6.png</iconset>
+             </attribute>
+             <attribute name="label">
+              <string>purple</string>
+             </attribute>
+             <widget class="QFrame" name="frame_8">
+              <property name="geometry">
+               <rect>
+                <x>170</x>
+                <y>40</y>
+                <width>131</width>
+                <height>91</height>
+               </rect>
+              </property>
+              <property name="frameShape">
+               <enum>QFrame::StyledPanel</enum>
+              </property>
+              <property name="frameShadow">
+               <enum>QFrame::Raised</enum>
+              </property>
+              <widget class="QLabel" name="pet_7">
+               <property name="geometry">
+                <rect>
+                 <x>50</x>
+                 <y>10</y>
+                 <width>80</width>
+                 <height>80</height>
+                </rect>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/icon/image/icon6.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+              <widget class="QLabel" name="item_7">
+               <property name="geometry">
+                <rect>
+                 <x>10</x>
+                 <y>30</y>
+                 <width>48</width>
+                 <height>48</height>
+                </rect>
+               </property>
+               <property name="font">
+                <font>
+                 <family>黑体</family>
+                 <pointsize>10</pointsize>
+                 <weight>75</weight>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="resources/test.qrc">:/image/image/cookie.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </widget>
+            </widget>
+           </widget>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QGroupBox" name="Ctrl_Panel">
+        <property name="title">
+         <string>Ctrl Panel</string>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_7">
+         <property name="leftMargin">
+          <number>0</number>
+         </property>
+         <property name="topMargin">
+          <number>0</number>
+         </property>
+         <property name="rightMargin">
+          <number>0</number>
+         </property>
+         <property name="bottomMargin">
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QTabWidget" name="tabs">
+           <property name="currentIndex">
+            <number>2</number>
+           </property>
+           <widget class="QWidget" name="BiaoQing_zh_2">
+            <attribute name="title">
+             <string>物品</string>
+            </attribute>
+            <layout class="QGridLayout" name="gridLayout">
+             <item row="0" column="2">
+              <widget class="QPushButton" name="compass">
+               <property name="text">
+                <string>compass</string>
+               </property>
+              </widget>
+             </item>
+             <item row="2" column="0">
+              <widget class="QPushButton" name="bread">
+               <property name="text">
+                <string>bread</string>
+               </property>
+              </widget>
+             </item>
+             <item row="0" column="0">
+              <widget class="QPushButton" name="pickaxe">
+               <property name="text">
+                <string>pickaxe</string>
+               </property>
+              </widget>
+             </item>
+             <item row="4" column="2">
+              <widget class="QPushButton" name="random">
+               <property name="text">
+                <string>random</string>
+               </property>
+              </widget>
+             </item>
+             <item row="2" column="2">
+              <widget class="QPushButton" name="apple">
+               <property name="text">
+                <string>apple</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+           <widget class="QWidget" name="move_en">
+            <attribute name="title">
+             <string>移动</string>
+            </attribute>
+            <layout class="QGridLayout" name="gridLayout_2">
+             <item row="0" column="0">
+              <widget class="QPushButton" name="moveToHome_Button">
+               <property name="text">
+                <string>home</string>
+               </property>
+              </widget>
+             </item>
+             <item row="1" column="0">
+              <widget class="QPushButton" name="moveToTheBottomOfTheScreen_button">
+               <property name="text">
+                <string>bottom</string>
+               </property>
+              </widget>
+             </item>
+             <item row="1" column="1">
+              <widget class="QPushButton" name="moveToRandomPos_button">
+               <property name="text">
+                <string>random</string>
+               </property>
+              </widget>
+             </item>
+             <item row="0" column="1">
+              <widget class="QPushButton" name="moveToTheCenterOfTheScreen_button">
+               <property name="text">
+                <string>center</string>
+               </property>
+              </widget>
+             </item>
+             <item row="3" column="0" colspan="2">
+              <widget class="Line" name="line">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+              </widget>
+             </item>
+             <item row="5" column="0" colspan="2">
+              <layout class="QGridLayout" name="gridLayout_4">
+               <item row="0" column="1">
+                <widget class="QPushButton" name="south">
+                 <property name="text">
+                  <string>south</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="0" column="0">
+                <widget class="QPushButton" name="east">
+                 <property name="text">
+                  <string>east</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="1" column="0">
+                <widget class="QPushButton" name="north">
+                 <property name="text">
+                  <string>north</string>
+                 </property>
+                </widget>
+               </item>
+               <item row="1" column="1">
+                <widget class="QPushButton" name="west">
+                 <property name="text">
+                  <string>west</string>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </item>
+             <item row="4" column="0" colspan="2">
+              <layout class="QHBoxLayout" name="horizontalLayout">
+               <item>
+                <widget class="QLineEdit" name="nSteps">
+                 <property name="inputMethodHints">
+                  <set>Qt::ImhDigitsOnly</set>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </item>
+            </layout>
+           </widget>
+           <widget class="QWidget" name="Settings_en">
+            <attribute name="title">
+             <string>设置</string>
+            </attribute>
+            <layout class="QGridLayout" name="gridLayout_5">
+             <item row="0" column="0">
+              <widget class="QPushButton" name="goHome">
+               <property name="text">
+                <string>回家</string>
+               </property>
+              </widget>
+             </item>
+             <item row="1" column="0">
+              <widget class="QPushButton" name="goOut">
+               <property name="text">
+                <string>出来溜溜</string>
+               </property>
+              </widget>
+             </item>
+             <item row="2" column="0">
+              <widget class="QFrame" name="frame_9">
+               <property name="frameShape">
+                <enum>QFrame::StyledPanel</enum>
+               </property>
+               <property name="frameShadow">
+                <enum>QFrame::Raised</enum>
+               </property>
+               <layout class="QGridLayout" name="gridLayout_6">
+                <property name="leftMargin">
+                 <number>0</number>
+                </property>
+                <property name="topMargin">
+                 <number>0</number>
+                </property>
+                <property name="rightMargin">
+                 <number>0</number>
+                </property>
+                <property name="bottomMargin">
+                 <number>0</number>
+                </property>
+                <item row="2" column="0">
+                 <widget class="QComboBox" name="status">
+                  <item>
+                   <property name="text">
+                    <string>原地站立</string>
+                   </property>
+                  </item>
+                  <item>
+                   <property name="text">
+                    <string>工作模式</string>
+                   </property>
+                  </item>
+                  <item>
+                   <property name="text">
+                    <string>玩耍状态</string>
+                   </property>
+                  </item>
+                 </widget>
+                </item>
+               </layout>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>703</width>
+     <height>23</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <tabstops>
+  <tabstop>tabs</tabstop>
+  <tabstop>pickaxe</tabstop>
+  <tabstop>bread</tabstop>
+  <tabstop>compass</tabstop>
+  <tabstop>apple</tabstop>
+  <tabstop>random</tabstop>
+  <tabstop>moveToHome_Button</tabstop>
+  <tabstop>moveToTheCenterOfTheScreen_button</tabstop>
+  <tabstop>moveToTheBottomOfTheScreen_button</tabstop>
+  <tabstop>moveToRandomPos_button</tabstop>
+ </tabstops>
+ <resources>
+  <include location="resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
+  <include location="C:/Users/feibai/.designer/backup/resources/test.qrc"/>
+ </resources>
+ <connections/>
+</ui>
