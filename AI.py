@@ -9,6 +9,9 @@ import signalBin
 class generator(object):
 
     def __init__(self):
+        pass
+
+    def init(self):
         self.model_name = "Helsinki-NLP/opus-mt-en-zh"
         self.model_translator = AutoModelForSeq2SeqLM.from_pretrained(self.model_name,
                                                                       cache_dir='D:\\Desktop\\python\\huggingface_cache')
@@ -25,6 +28,7 @@ class generator(object):
                                    tokenizer=self.tokenizer_translator)
 
     def generateText(self, prompt="creat a 'dict' with python.tell me how to write it"):
+        print("s")
         # 设置生成随机文本的提示
         prompt = prompt
 
@@ -39,27 +43,27 @@ class generator(object):
         translated_text = self.translator([output_text], max_length=400)[0]['translation_text']
 
         # 打印生成的随机文本（英文版本）
-        logger.info(f"Generated Text (in English): {output_text}")
+        print(f"Generated Text (in English): {output_text}")
 
         # 打印翻译后的随机文本（中文版本）
-        logger.info(f"\nTranslated Text (in Chinese): {translated_text}")
+        print(f"\nTranslated Text (in Chinese): {translated_text}")
 
 
 class AI(object):
     def __init__(self, parent):
         self.main = None
         signalBin.signalBin.getMain.emit(self)
-        self.parent=parent
-        self.actuatorList=[]
-        self.id=self.parent.id+f"_AI"
+        self.parent = parent
+        self.actuatorList = []
+        self.id = self.parent.id + f"_AI"
         logger.info(f"{self.parent.id}'s AI init")
         logger.info("infos:")
         logger.info(f"    -id: {self.id}")
 
-
-    def add(self,actuator):
+    def add(self, actuator):
         self.actuatorList.append(actuator)
-        return len(self.actuatorList)-1
+        return len(self.actuatorList) - 1
+
     def makeDecisions(self):
         # logger.info(f"makeDecisions runnning--- {self.id} time: {time.time()}")
         for actuators in self.actuatorList:
@@ -67,13 +71,12 @@ class AI(object):
         # logger.info(f"makeDecisions done--- {self.id} time: {time.time()}")
 
 
-class Actuators(object): # 执行器
-    def __init__(self,action,condition,parent:AI):
-
+class Actuators(object):  # 执行器
+    def __init__(self, action, condition, parent: AI):
         self.action = action
         self.condition = condition
         self.parent = parent
-        self.id=self.parent.id+f"_Actuators{len(self.parent.actuatorList)}"
+        self.id = self.parent.id + f"_Actuators{len(self.parent.actuatorList)}"
 
     def run(self):
         if self.condition(self):

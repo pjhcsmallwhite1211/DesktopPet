@@ -1,4 +1,5 @@
 import random
+import threading
 import time
 from dataclasses import dataclass
 
@@ -279,7 +280,8 @@ class Pet(object):
 
     def speak(self, actuator):
         logger.info(f"{self.id} speaking")
-        self.main.generator.generateText("hello")
+        threadSpeak = self.main.threadPool.submit(self.main.generator.generateText,"hello")
+
 
     def initAI(self):
         logger.info(f"{self.id} initAI running")

@@ -1,5 +1,6 @@
 # 一个pyqt程序
 import sys
+from concurrent.futures import ThreadPoolExecutor
 
 from PyQt5.QtCore import QObject, QTimer
 from PyQt5.QtGui import QIcon
@@ -11,17 +12,21 @@ import ctrlWindow
 import petC
 import signalBin
 from loguru import logger
+
 logger.add("out.log", backtrace=True, diagnose=True)
+
 
 class Main(QWidget):
     class Func(object):
-        def __init__(self,func,parent):
-            self.func=func
-            self.parent=parent
+        def __init__(self, func, parent):
+            self.func = func
+            self.parent = parent
+
     def __init__(self):
         logger.info("all init start")
         self.app = QApplication(sys.argv)
         QtWidgets.QWidget.__init__(self)
+        self.threadPool = ThreadPoolExecutor(max_workers=10)
 
         self.pets = []
         self.setGetSignal()
@@ -30,11 +35,15 @@ class Main(QWidget):
         self.initCtrlWindow()
         self.initSysMenu()
         self.initGenerator()
+
     def initGenerator(self):
         self.generator = AI.generator()
+        threadInitGenerator=self.threadPool.submit(self.generator.init)
+
+
     def initTimer(self):
         self.timer = QTimer(self)
-        self.timerFuncs=[]
+        self.timerFuncs = []
         self.timer.timeout.connect(self.runTimer)
 
         self.timer.start(200)
@@ -46,6 +55,7 @@ class Main(QWidget):
             if func.parent.active:
                 # logger.info("func run")
                 func.func()
+
     def aboutInfo(self):
         pass
 
