@@ -1,0 +1,6 @@
+venv
+example
+.idea
+.vscode
+.git
+__pycache__
