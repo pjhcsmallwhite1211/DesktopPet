@@ -1,7 +1,0 @@
-{
-    "editor.tabCompletion": "on",
-    "diffEditor.codeLens": true,
-    "MutableAI.upsell": true,
-    "editor.suggest.snippetsPreventQuickSuggestions": false,
-    "aiXcoder.showTrayIcon": false
-}
