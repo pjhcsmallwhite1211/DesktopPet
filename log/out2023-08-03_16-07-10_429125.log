@@ -1,0 +1,62 @@
+2023-08-03 16:07:10.431 | INFO     | __main__:__init__:26 - all init start
+2023-08-03 16:07:10.557 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- slime
+2023-08-03 16:07:10.558 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:07:10.560 | INFO     | petC:initAI:326 - slime initAI running
+2023-08-03 16:07:10.562 | INFO     | AI:__init__:60 - slime's AI init
+2023-08-03 16:07:10.563 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:07:10.564 | INFO     | AI:__init__:62 -     -id: slime_AI
+2023-08-03 16:07:10.582 | INFO     | petC:hide:174 - slime hide
+2023-08-03 16:07:10.600 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- red
+2023-08-03 16:07:10.602 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:07:10.604 | INFO     | petC:initAI:326 - red initAI running
+2023-08-03 16:07:10.605 | INFO     | AI:__init__:60 - red's AI init
+2023-08-03 16:07:10.607 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:07:10.609 | INFO     | AI:__init__:62 -     -id: red_AI
+2023-08-03 16:07:10.611 | INFO     | petC:hide:174 - red hide
+2023-08-03 16:07:10.635 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- orange
+2023-08-03 16:07:10.637 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:07:10.640 | INFO     | petC:initAI:326 - orange initAI running
+2023-08-03 16:07:10.642 | INFO     | AI:__init__:60 - orange's AI init
+2023-08-03 16:07:10.643 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:07:10.645 | INFO     | AI:__init__:62 -     -id: orange_AI
+2023-08-03 16:07:10.649 | INFO     | petC:hide:174 - orange hide
+2023-08-03 16:07:10.676 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- yellow
+2023-08-03 16:07:10.680 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:07:10.686 | INFO     | petC:initAI:326 - yellow initAI running
+2023-08-03 16:07:10.688 | INFO     | AI:__init__:60 - yellow's AI init
+2023-08-03 16:07:10.691 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:07:10.696 | INFO     | AI:__init__:62 -     -id: yellow_AI
+2023-08-03 16:07:10.700 | INFO     | petC:hide:174 - yellow hide
+2023-08-03 16:07:10.725 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- green
+2023-08-03 16:07:10.728 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:07:10.733 | INFO     | petC:initAI:326 - green initAI running
+2023-08-03 16:07:10.738 | INFO     | AI:__init__:60 - green's AI init
+2023-08-03 16:07:10.740 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:07:10.742 | INFO     | AI:__init__:62 -     -id: green_AI
+2023-08-03 16:07:10.745 | INFO     | petC:hide:174 - green hide
+2023-08-03 16:07:10.770 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- blue
+2023-08-03 16:07:10.773 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:07:10.778 | INFO     | petC:initAI:326 - blue initAI running
+2023-08-03 16:07:10.786 | INFO     | AI:__init__:60 - blue's AI init
+2023-08-03 16:07:10.791 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:07:10.795 | INFO     | AI:__init__:62 -     -id: blue_AI
+2023-08-03 16:07:10.801 | INFO     | petC:hide:174 - blue hide
+2023-08-03 16:07:10.820 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- purple
+2023-08-03 16:07:10.822 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:07:10.827 | INFO     | petC:initAI:326 - purple initAI running
+2023-08-03 16:07:10.830 | INFO     | AI:__init__:60 - purple's AI init
+2023-08-03 16:07:10.835 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:07:10.837 | INFO     | AI:__init__:62 -     -id: purple_AI
+2023-08-03 16:07:10.840 | INFO     | petC:hide:174 - purple hide
+2023-08-03 16:07:10.844 | INFO     | __main__:initCtrlWindow:64 - init CtrlWindow
+2023-08-03 16:07:11.487 | INFO     | ctrlWindow:__init__:21 - <__main__.Main object at 0x000001A964DA1000>
+2023-08-03 16:07:11.489 | INFO     | ctrlWindow:initEvents:31 - init Events
+2023-08-03 16:07:11.491 | INFO     | __main__:initSysMenu:74 - initSysMenu
+2023-08-03 16:07:11.527 | WARNING  | __main__:initGenerator:43 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~

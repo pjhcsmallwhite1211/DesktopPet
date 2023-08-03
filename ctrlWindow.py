@@ -56,7 +56,7 @@ class CtrlWindow(object):
         self.ui.goHome.clicked.connect(lambda: self.nowPet.hide())
         self.ui.goOut.clicked.connect(lambda: self.nowPet.show())
         self.ui.status.activated.connect(lambda: self.nowPet.changeStatus(
-            {"原地站立": "stand", "工作模式": "workingMode", "玩耍状态": "playMode"}[self.ui.status.currentText()]))
+            {"原地站立": "stand", "工作模式": "workingMode", "玩耍状态": "playMode","站着":"stop"}[self.ui.status.currentText()]))
 
     def randomItem(self):
         """

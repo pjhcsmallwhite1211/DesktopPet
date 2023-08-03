@@ -3,6 +3,7 @@ import threading
 import time
 from dataclasses import dataclass
 
+from PyQt5.QtCore import pyqtSignal, QObject
 from PyQt5.QtGui import QCursor, QMouseEvent
 from PyQt5.QtWidgets import QMainWindow
 from loguru import logger
@@ -11,9 +12,32 @@ from PyQt5 import Qt, QtGui  # PyQt5 相关
 import pet
 import signalBin
 import AI
+import speak_box
 
 
-class Pet(object):
+class SpeakBox(object):
+    def __init__(self, str, parent):
+        self.mainWindow = QMainWindow()
+        self.ui = speak_box.Ui_Form()
+        self.ui.setupUi(self.mainWindow)
+        self.parent = parent
+        self.mainWindow.setWindowFlags(Qt.Qt.FramelessWindowHint)
+        self.mainWindow.setAttribute(Qt.Qt.WA_TranslucentBackground)
+        self.ui.text.setText(str)
+        self.mainWindow.closeEvent=self.hide
+    def alignment(self):
+
+        self.mainWindow.move(int(self.parent.nowPos.x),
+                             int(self.parent.nowPos.y - self.mainWindow.height()))
+    def show(self):
+        self.alignment()
+        self.mainWindow.show()
+
+    def hide(self,a=0):
+        self.mainWindow.hide()
+
+
+class Pet(QObject):
     # 使用 dataclass 装饰器来定义一个简单的类，包含 x 和 y 属性
     @dataclass
     class pos:
@@ -29,8 +53,10 @@ class Pet(object):
         left_top_y: float
         right_bottom_x: float
         right_bottom_y: float
+    returnSignal = pyqtSignal(str)
 
     def __init__(self):
+        super().__init__()
         self.mainWindow = QMainWindow()
         self.ui = pet.Ui_Form()
         self.ui.setupUi(self.mainWindow)
@@ -71,7 +97,8 @@ class Pet(object):
         self.rect_top_right = self.rect(self.top_right.x - 180, self.top_right.y, self.top_right.x,
                                         self.top_right.y + 180)
         self.all = self.rect(0, 0, self.width, self.height)
-
+        self.speakBox = SpeakBox("", self)
+        self.isSpeaking=False
     def changeStatus(self, status):
         self.now_status = status
 
@@ -141,11 +168,13 @@ class Pet(object):
     def hide(self):
         logger.info(f"{self.id} hide")
         self.mainWindow.hide()
+        self.speakBox.hide()
         self.active = False
 
     def show(self):
         logger.info(f"{self.id} show")
         self.mainWindow.show()
+        self.speakBox.show()
         self.active = True
 
     def moveMainWindow(self, pos):
@@ -258,6 +287,9 @@ class Pet(object):
             else:
                 self.moveStep("south", (self.height - 120) - self.nowPos.y, 'w4')
                 self.moveStep("west", self.nowPos.x, 'w5')
+        elif self.now_status=='stop':
+            pass
+        self.speakBox.alignment()
 
     #
     # @dataclass
@@ -275,13 +307,19 @@ class Pet(object):
             return True
 
     def speak_condition(self, actuator):
-        if random.randint(0, 10) == 0:
+        logger.debug(f"isSpeaking:{self.isSpeaking},isGeneratorOK:{self.main.isGeneratorOK}")
+        if random.randint(0, 50) == 0 and not self.isSpeaking and self.main.isGeneratorOK:
             return True
 
     def speak(self, actuator):
         logger.info(f"{self.id} speaking")
-        threadSpeak = self.main.threadPool.submit(self.main.generator.generateText,"hello")
-
+        self.isSpeaking=True
+        # self.threadSpeak = self.main.threadPool.submit(self.main.generator.generateText, self,"hello")
+        self.speak_UI(self.main.generator.generateText(self, "hello"))
+    def speak_UI(self, str):
+        logger.info(f"{self.id} speak_UI,\033[7;44m{str}\033[0m")
+        self.speakBox.ui.text.setText(str)
+        self.speakBox.show()
 
     def initAI(self):
         logger.info(f"{self.id} initAI running")
@@ -289,3 +327,4 @@ class Pet(object):
         self.AI.add(AI.Actuators(self.walk, self.walk_condition, self.AI))
         self.AI.add(AI.Actuators(self.speak, self.speak_condition, self.AI))
         self.main.timerFuncs.append(self.main.Func(self.AI.makeDecisions, self))
+        self.returnSignal.connect(self.speak_UI)

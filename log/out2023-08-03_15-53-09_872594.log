@@ -1,0 +1,506 @@
+2023-08-03 15:53:09.875 | INFO     | __main__:__init__:26 - all init start
+2023-08-03 15:53:09.996 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- slime
+2023-08-03 15:53:09.997 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:53:09.999 | INFO     | petC:initAI:322 - slime initAI running
+2023-08-03 15:53:10.000 | INFO     | AI:__init__:60 - slime's AI init
+2023-08-03 15:53:10.001 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:53:10.002 | INFO     | AI:__init__:62 -     -id: slime_AI
+2023-08-03 15:53:10.003 | INFO     | petC:hide:171 - slime hide
+2023-08-03 15:53:10.012 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- red
+2023-08-03 15:53:10.014 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:53:10.015 | INFO     | petC:initAI:322 - red initAI running
+2023-08-03 15:53:10.016 | INFO     | AI:__init__:60 - red's AI init
+2023-08-03 15:53:10.017 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:53:10.019 | INFO     | AI:__init__:62 -     -id: red_AI
+2023-08-03 15:53:10.022 | INFO     | petC:hide:171 - red hide
+2023-08-03 15:53:10.034 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- orange
+2023-08-03 15:53:10.036 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:53:10.038 | INFO     | petC:initAI:322 - orange initAI running
+2023-08-03 15:53:10.040 | INFO     | AI:__init__:60 - orange's AI init
+2023-08-03 15:53:10.041 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:53:10.042 | INFO     | AI:__init__:62 -     -id: orange_AI
+2023-08-03 15:53:10.043 | INFO     | petC:hide:171 - orange hide
+2023-08-03 15:53:10.053 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- yellow
+2023-08-03 15:53:10.054 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:53:10.056 | INFO     | petC:initAI:322 - yellow initAI running
+2023-08-03 15:53:10.057 | INFO     | AI:__init__:60 - yellow's AI init
+2023-08-03 15:53:10.058 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:53:10.059 | INFO     | AI:__init__:62 -     -id: yellow_AI
+2023-08-03 15:53:10.061 | INFO     | petC:hide:171 - yellow hide
+2023-08-03 15:53:10.076 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- green
+2023-08-03 15:53:10.078 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:53:10.080 | INFO     | petC:initAI:322 - green initAI running
+2023-08-03 15:53:10.083 | INFO     | AI:__init__:60 - green's AI init
+2023-08-03 15:53:10.085 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:53:10.087 | INFO     | AI:__init__:62 -     -id: green_AI
+2023-08-03 15:53:10.090 | INFO     | petC:hide:171 - green hide
+2023-08-03 15:53:10.104 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- blue
+2023-08-03 15:53:10.107 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:53:10.109 | INFO     | petC:initAI:322 - blue initAI running
+2023-08-03 15:53:10.110 | INFO     | AI:__init__:60 - blue's AI init
+2023-08-03 15:53:10.114 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:53:10.115 | INFO     | AI:__init__:62 -     -id: blue_AI
+2023-08-03 15:53:10.118 | INFO     | petC:hide:171 - blue hide
+2023-08-03 15:53:10.130 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- purple
+2023-08-03 15:53:10.131 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:53:10.133 | INFO     | petC:initAI:322 - purple initAI running
+2023-08-03 15:53:10.135 | INFO     | AI:__init__:60 - purple's AI init
+2023-08-03 15:53:10.136 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:53:10.138 | INFO     | AI:__init__:62 -     -id: purple_AI
+2023-08-03 15:53:10.140 | INFO     | petC:hide:171 - purple hide
+2023-08-03 15:53:10.144 | INFO     | __main__:initCtrlWindow:63 - init CtrlWindow
+2023-08-03 15:53:10.756 | INFO     | ctrlWindow:__init__:21 - <__main__.Main object at 0x000002AC6FB28F70>
+2023-08-03 15:53:10.758 | INFO     | ctrlWindow:initEvents:31 - init Events
+2023-08-03 15:53:10.760 | INFO     | __main__:initSysMenu:73 - initSysMenu
+2023-08-03 15:53:10.793 | WARNING  | __main__:initGenerator:42 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-03 15:53:13.694 | WARNING  | AI:init:19 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-03 15:53:19.058 | INFO     | petC:show:176 - yellow show
+2023-08-03 15:53:19.229 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:19.421 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:19.624 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:19.827 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:19.830 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:20.593 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:20.596 | DEBUG    | petC:show:31 - hide:False
+2023-08-03 15:53:20.641 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:20.842 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:21.045 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:21.248 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:21.453 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:21.657 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:21.860 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:22.060 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:22.264 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:22.467 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:22.672 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:22.877 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:23.080 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:23.281 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:23.488 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:23.689 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:23.895 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:24.098 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:24.301 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:24.303 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:25.061 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:25.063 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:25.069 | INFO     | petC:mainWindow_re__mousePressEvent:129 - mainWindow_re__mousePressEvent running--- yellow
+2023-08-03 15:53:25.072 | INFO     | petC:mainWindow_re__mousePressEvent:135 - yellow mouseButtonDown changed: True, mousePos_toWindow changed: Pet.pos(x=65, y=55)
+
+2023-08-03 15:53:25.075 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.077 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (957, 521) id: yellow
+2023-08-03 15:53:25.078 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.080 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (892, 466) id: yellow
+2023-08-03 15:53:25.084 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.087 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.089 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (957, 522) id: yellow
+2023-08-03 15:53:25.090 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.092 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (892, 467) id: yellow
+2023-08-03 15:53:25.094 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.097 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.100 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (958, 525) id: yellow
+2023-08-03 15:53:25.102 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.103 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (893, 470) id: yellow
+2023-08-03 15:53:25.105 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.107 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.108 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (958, 526) id: yellow
+2023-08-03 15:53:25.109 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.110 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (893, 471) id: yellow
+2023-08-03 15:53:25.112 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.115 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:25.117 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.118 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (958, 528) id: yellow
+2023-08-03 15:53:25.119 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.121 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (893, 473) id: yellow
+2023-08-03 15:53:25.123 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.128 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.130 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (959, 529) id: yellow
+2023-08-03 15:53:25.131 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.132 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (894, 474) id: yellow
+2023-08-03 15:53:25.134 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.136 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.138 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (959, 530) id: yellow
+2023-08-03 15:53:25.139 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.140 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (894, 475) id: yellow
+2023-08-03 15:53:25.142 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.145 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.147 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (959, 531) id: yellow
+2023-08-03 15:53:25.148 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.149 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (894, 476) id: yellow
+2023-08-03 15:53:25.151 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.160 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.162 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (959, 532) id: yellow
+2023-08-03 15:53:25.164 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.165 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (894, 477) id: yellow
+2023-08-03 15:53:25.168 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.170 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.172 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (960, 532) id: yellow
+2023-08-03 15:53:25.174 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.176 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (895, 477) id: yellow
+2023-08-03 15:53:25.178 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.192 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.194 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (960, 533) id: yellow
+2023-08-03 15:53:25.195 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.197 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (895, 478) id: yellow
+2023-08-03 15:53:25.199 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.232 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.234 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (960, 534) id: yellow
+2023-08-03 15:53:25.235 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.236 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (895, 479) id: yellow
+2023-08-03 15:53:25.238 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.318 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:25.424 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.427 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (960, 532) id: yellow
+2023-08-03 15:53:25.428 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.429 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (895, 477) id: yellow
+2023-08-03 15:53:25.431 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.433 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.434 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (960, 531) id: yellow
+2023-08-03 15:53:25.435 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.437 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (895, 476) id: yellow
+2023-08-03 15:53:25.438 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.441 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.442 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (960, 529) id: yellow
+2023-08-03 15:53:25.443 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.444 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (895, 474) id: yellow
+2023-08-03 15:53:25.447 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.449 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.450 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (959, 526) id: yellow
+2023-08-03 15:53:25.451 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.452 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (894, 471) id: yellow
+2023-08-03 15:53:25.454 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.456 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.457 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (958, 524) id: yellow
+2023-08-03 15:53:25.458 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.459 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (893, 469) id: yellow
+2023-08-03 15:53:25.461 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.464 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.466 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (957, 521) id: yellow
+2023-08-03 15:53:25.467 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.468 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (892, 466) id: yellow
+2023-08-03 15:53:25.470 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.473 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.474 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (956, 519) id: yellow
+2023-08-03 15:53:25.475 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.476 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (891, 464) id: yellow
+2023-08-03 15:53:25.479 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.486 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.488 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (956, 518) id: yellow
+2023-08-03 15:53:25.489 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.490 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (891, 463) id: yellow
+2023-08-03 15:53:25.491 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.493 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.494 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (955, 515) id: yellow
+2023-08-03 15:53:25.495 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.497 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (890, 460) id: yellow
+2023-08-03 15:53:25.498 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.501 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.502 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (954, 514) id: yellow
+2023-08-03 15:53:25.503 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.505 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (889, 459) id: yellow
+2023-08-03 15:53:25.506 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.508 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.511 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (954, 513) id: yellow
+2023-08-03 15:53:25.511 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.513 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (889, 458) id: yellow
+2023-08-03 15:53:25.514 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.516 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:25.517 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.518 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (954, 512) id: yellow
+2023-08-03 15:53:25.519 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.520 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (889, 457) id: yellow
+2023-08-03 15:53:25.522 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.525 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.526 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (953, 511) id: yellow
+2023-08-03 15:53:25.527 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.528 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (888, 456) id: yellow
+2023-08-03 15:53:25.530 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.532 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.533 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (953, 510) id: yellow
+2023-08-03 15:53:25.534 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.536 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (888, 455) id: yellow
+2023-08-03 15:53:25.537 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.541 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.542 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (953, 509) id: yellow
+2023-08-03 15:53:25.543 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.544 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (888, 454) id: yellow
+2023-08-03 15:53:25.546 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.552 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.554 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (952, 508) id: yellow
+2023-08-03 15:53:25.556 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.557 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (887, 453) id: yellow
+2023-08-03 15:53:25.559 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.577 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.578 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (952, 507) id: yellow
+2023-08-03 15:53:25.579 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.581 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (887, 452) id: yellow
+2023-08-03 15:53:25.583 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.612 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.615 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (952, 506) id: yellow
+2023-08-03 15:53:25.616 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.617 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (887, 451) id: yellow
+2023-08-03 15:53:25.620 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.730 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:25.808 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.811 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (952, 508) id: yellow
+2023-08-03 15:53:25.812 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.814 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (887, 453) id: yellow
+2023-08-03 15:53:25.815 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.818 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.819 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (953, 510) id: yellow
+2023-08-03 15:53:25.820 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.821 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (888, 455) id: yellow
+2023-08-03 15:53:25.823 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.832 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.834 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (955, 512) id: yellow
+2023-08-03 15:53:25.835 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.836 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (890, 457) id: yellow
+2023-08-03 15:53:25.838 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.840 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.842 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (957, 515) id: yellow
+2023-08-03 15:53:25.843 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.844 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (892, 460) id: yellow
+2023-08-03 15:53:25.846 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.849 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.850 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (958, 516) id: yellow
+2023-08-03 15:53:25.851 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.852 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (893, 461) id: yellow
+2023-08-03 15:53:25.854 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.856 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.860 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (960, 517) id: yellow
+2023-08-03 15:53:25.861 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.862 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (895, 462) id: yellow
+2023-08-03 15:53:25.864 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.865 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.867 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (961, 518) id: yellow
+2023-08-03 15:53:25.868 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.869 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (896, 463) id: yellow
+2023-08-03 15:53:25.871 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.874 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.876 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (962, 518) id: yellow
+2023-08-03 15:53:25.877 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.878 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (897, 463) id: yellow
+2023-08-03 15:53:25.880 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.881 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:25.882 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (962, 519) id: yellow
+2023-08-03 15:53:25.883 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (65, 55) id: yellow
+2023-08-03 15:53:25.884 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (897, 464) id: yellow
+2023-08-03 15:53:25.886 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.890 | INFO     | petC:mainWindow_re__mouseReleaseEvent:139 - mainWindow_re__mouseReleaseEvent running--- yellow
+2023-08-03 15:53:25.892 | INFO     | petC:mainWindow_re__mouseReleaseEvent:147 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:25.920 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:26.126 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:26.333 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:26.536 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:26.537 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:27.303 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:27.306 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:27.308 | INFO     | petC:mainWindow_re__mousePressEvent:129 - mainWindow_re__mousePressEvent running--- yellow
+2023-08-03 15:53:27.310 | INFO     | petC:mainWindow_re__mousePressEvent:135 - yellow mouseButtonDown changed: True, mousePos_toWindow changed: Pet.pos(x=84, y=45)
+
+2023-08-03 15:53:27.311 | INFO     | petC:mainWindow_re__mouseMoveEvent:150 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 15:53:27.313 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos: (858, 723) id: yellow
+2023-08-03 15:53:27.314 | INFO     | petC:mainWindow_re__mouseMoveEvent:156 - mouse pos window: (84, 45) id: yellow
+2023-08-03 15:53:27.316 | INFO     | petC:mainWindow_re__mouseMoveEvent:157 - mouse pos move to: (774, 678) id: yellow
+2023-08-03 15:53:27.317 | INFO     | petC:mainWindow_re__mouseMoveEvent:160 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:27.319 | INFO     | petC:mainWindow_re__mouseReleaseEvent:139 - mainWindow_re__mouseReleaseEvent running--- yellow
+2023-08-03 15:53:27.320 | INFO     | petC:mainWindow_re__mouseReleaseEvent:147 - yellow mouseButtonDown changed: False
+
+2023-08-03 15:53:27.342 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:27.545 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:27.750 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:27.953 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:28.162 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:28.163 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:29.128 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:29.171 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:29.374 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:29.586 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:29.788 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:29.993 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:29.995 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:29.996 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:30.193 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:30.195 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:30.956 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:30.959 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:31.016 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:31.223 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:31.426 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:31.627 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:31.629 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:31.630 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:31.831 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:32.035 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:32.238 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:32.444 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:32.445 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:32.446 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:32.648 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:32.852 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:33.055 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:33.255 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:33.257 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:33.258 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:33.260 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:34.050 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:34.052 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:34.067 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:34.273 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:34.477 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:34.679 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:34.882 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:35.086 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:35.290 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:35.492 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:35.694 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:35.899 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:36.103 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:36.306 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:36.512 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:36.714 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:36.905 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:37.108 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:37.109 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:37.870 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:37.872 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:37.932 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:38.125 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:38.331 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:38.534 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:38.742 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:38.938 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:39.145 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:39.346 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:39.545 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:39.546 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:39.547 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:39.748 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:39.953 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:40.156 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:40.158 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:40.160 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:40.161 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:40.962 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:40.964 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:40.977 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:41.184 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:41.186 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:41.187 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:41.376 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:41.576 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:41.779 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:41.781 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:41.782 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:41.997 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:42.199 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:42.399 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:42.401 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:43.148 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:43.150 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:43.204 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:43.206 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:44.025 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:44.027 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:44.219 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:44.421 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:44.627 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:44.832 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:45.035 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:45.242 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:45.244 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:45.245 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:45.449 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:45.641 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:45.846 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:45.848 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:46.595 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:46.597 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:46.662 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:46.870 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:47.061 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:47.062 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:47.063 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:47.064 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:47.845 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:47.847 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:47.885 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:47.887 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:47.888 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:48.086 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:48.279 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:48.496 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:48.499 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:49.250 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:49.252 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:49.309 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:49.311 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:50.280 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:50.282 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:50.316 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:50.317 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:50.318 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:50.515 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:50.727 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:50.931 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:51.137 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:51.328 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:51.535 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:51.538 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:53:52.477 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:53:52.478 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:53:52.545 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:53:52.547 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:53:52.550 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:52.756 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:52.957 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:53.161 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:53:53.370 | DEBUG    | petC:speak_condition:307 - isSpeaking:False

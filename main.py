@@ -13,7 +13,7 @@ import petC
 import signalBin
 from loguru import logger
 
-logger.add("out.log", backtrace=True, diagnose=True)
+logger.add("./log/out{time}.log", backtrace=True, diagnose=True)
 
 
 class Main(QWidget):
@@ -37,9 +37,10 @@ class Main(QWidget):
         self.initGenerator()
 
     def initGenerator(self):
-        self.generator = AI.generator()
-        threadInitGenerator=self.threadPool.submit(self.generator.init)
-
+        self.isGeneratorOK=False
+        self.generator = AI.generator(self)
+        self.threadInitGenerator=self.threadPool.submit(self.generator.init)
+        logger.warning("generator \033[96minited\033[0m~~~~~~~~~~~~~~~~~~~~~")
 
     def initTimer(self):
         self.timer = QTimer(self)

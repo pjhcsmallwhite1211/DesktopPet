@@ -8,6 +8,11 @@
     <file>image/icon6.png</file>
     <file>image/icon.png</file>
   </qresource>
+  <qresource prefix="ui">
+    <file>image/speak_box_l_h.png</file>
+    <file>image/speak_box_r_h.png</file>
+    <file>image/speak_box.png</file>
+  </qresource>
   <qresource prefix="face">
     <file>image/face___.png</file>
     <file>image/face_happy.png</file>

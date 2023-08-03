@@ -1,0 +1,263 @@
+2023-08-03 15:51:56.238 | INFO     | __main__:__init__:26 - all init start
+2023-08-03 15:51:56.351 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- slime
+2023-08-03 15:51:56.353 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:51:56.354 | INFO     | petC:initAI:322 - slime initAI running
+2023-08-03 15:51:56.355 | INFO     | AI:__init__:60 - slime's AI init
+2023-08-03 15:51:56.356 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:51:56.357 | INFO     | AI:__init__:62 -     -id: slime_AI
+2023-08-03 15:51:56.359 | INFO     | petC:hide:171 - slime hide
+2023-08-03 15:51:56.369 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- red
+2023-08-03 15:51:56.370 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:51:56.371 | INFO     | petC:initAI:322 - red initAI running
+2023-08-03 15:51:56.372 | INFO     | AI:__init__:60 - red's AI init
+2023-08-03 15:51:56.375 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:51:56.376 | INFO     | AI:__init__:62 -     -id: red_AI
+2023-08-03 15:51:56.377 | INFO     | petC:hide:171 - red hide
+2023-08-03 15:51:56.386 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- orange
+2023-08-03 15:51:56.388 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:51:56.390 | INFO     | petC:initAI:322 - orange initAI running
+2023-08-03 15:51:56.392 | INFO     | AI:__init__:60 - orange's AI init
+2023-08-03 15:51:56.393 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:51:56.394 | INFO     | AI:__init__:62 -     -id: orange_AI
+2023-08-03 15:51:56.395 | INFO     | petC:hide:171 - orange hide
+2023-08-03 15:51:56.406 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- yellow
+2023-08-03 15:51:56.407 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:51:56.409 | INFO     | petC:initAI:322 - yellow initAI running
+2023-08-03 15:51:56.410 | INFO     | AI:__init__:60 - yellow's AI init
+2023-08-03 15:51:56.411 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:51:56.412 | INFO     | AI:__init__:62 -     -id: yellow_AI
+2023-08-03 15:51:56.414 | INFO     | petC:hide:171 - yellow hide
+2023-08-03 15:51:56.426 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- green
+2023-08-03 15:51:56.428 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:51:56.430 | INFO     | petC:initAI:322 - green initAI running
+2023-08-03 15:51:56.431 | INFO     | AI:__init__:60 - green's AI init
+2023-08-03 15:51:56.432 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:51:56.434 | INFO     | AI:__init__:62 -     -id: green_AI
+2023-08-03 15:51:56.437 | INFO     | petC:hide:171 - green hide
+2023-08-03 15:51:56.446 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- blue
+2023-08-03 15:51:56.447 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:51:56.450 | INFO     | petC:initAI:322 - blue initAI running
+2023-08-03 15:51:56.453 | INFO     | AI:__init__:60 - blue's AI init
+2023-08-03 15:51:56.454 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:51:56.456 | INFO     | AI:__init__:62 -     -id: blue_AI
+2023-08-03 15:51:56.457 | INFO     | petC:hide:171 - blue hide
+2023-08-03 15:51:56.468 | INFO     | petC:setMouseEvent:163 - setMouseEvent running--- purple
+2023-08-03 15:51:56.470 | INFO     | petC:setMouseEvent:168 - 
+
+2023-08-03 15:51:56.472 | INFO     | petC:initAI:322 - purple initAI running
+2023-08-03 15:51:56.473 | INFO     | AI:__init__:60 - purple's AI init
+2023-08-03 15:51:56.474 | INFO     | AI:__init__:61 - infos:
+2023-08-03 15:51:56.475 | INFO     | AI:__init__:62 -     -id: purple_AI
+2023-08-03 15:51:56.477 | INFO     | petC:hide:171 - purple hide
+2023-08-03 15:51:56.479 | INFO     | __main__:initCtrlWindow:63 - init CtrlWindow
+2023-08-03 15:51:57.022 | INFO     | ctrlWindow:__init__:21 - <__main__.Main object at 0x000001ABC3A08F70>
+2023-08-03 15:51:57.024 | INFO     | ctrlWindow:initEvents:31 - init Events
+2023-08-03 15:51:57.026 | INFO     | __main__:initSysMenu:73 - initSysMenu
+2023-08-03 15:51:57.060 | WARNING  | __main__:initGenerator:42 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-03 15:51:59.393 | WARNING  | AI:init:19 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-03 15:52:09.541 | INFO     | petC:show:176 - yellow show
+2023-08-03 15:52:09.676 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:09.878 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:10.082 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:10.283 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:10.485 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:10.687 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:52:10.690 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:52:12.221 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:12.318 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:12.520 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:12.723 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:12.931 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:13.134 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:13.331 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:13.530 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:13.531 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:14.448 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:14.451 | DEBUG    | petC:show:31 - hide:False
+2023-08-03 15:52:14.546 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:14.762 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:14.953 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:15.168 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:15.171 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:16.012 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:16.014 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:52:16.177 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:16.384 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:16.589 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:16.791 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:16.993 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:17.197 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:17.398 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:17.603 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:17.808 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:18.010 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:18.213 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:18.416 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:18.616 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:18.821 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:18.823 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:19.602 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:19.604 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:52:19.628 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:19.835 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:19.837 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:20.596 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:20.597 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:52:20.650 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:20.856 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:52:20.859 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:52:20.860 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:21.060 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:21.249 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:21.453 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:21.658 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:21.863 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:22.068 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:22.270 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:22.471 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:22.676 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:22.678 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:23.448 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:23.449 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:52:23.489 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:23.695 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:23.898 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:24.100 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:24.305 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:24.507 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:24.713 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:24.918 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:25.107 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:25.311 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:25.515 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:25.517 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:26.344 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:26.346 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:52:26.543 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:26.747 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:26.935 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:27.139 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:52:27.140 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:52:27.141 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:27.345 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:27.560 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:27.749 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:27.967 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:27.968 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:28.812 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:28.814 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:52:28.968 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:29.171 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:29.374 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:29.581 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:29.783 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:29.987 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:30.189 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:30.392 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:30.592 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:30.798 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:31.003 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:31.207 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:31.409 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:31.612 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:31.817 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:52:31.819 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:52:31.820 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:32.023 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:32.226 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:32.429 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:32.430 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:33.201 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:33.203 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:52:33.238 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:33.443 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:33.646 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:52:33.648 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:52:33.649 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:33.848 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:34.048 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:34.250 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:34.453 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:34.658 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:34.660 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:35.499 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:35.501 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:52:35.674 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:35.877 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:36.082 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:36.281 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:36.489 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:36.691 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:36.893 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:37.098 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:37.301 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:37.505 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:37.705 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:37.912 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:38.116 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:38.320 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:38.519 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:38.723 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:38.921 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:39.128 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:39.331 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:39.538 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:39.745 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:52:39.747 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:52:39.748 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:39.938 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:40.152 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:40.354 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:40.557 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 15:52:40.559 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 15:52:40.560 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:40.753 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:40.963 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:41.162 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:41.361 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:41.561 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:41.769 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:41.976 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:41.978 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:42.840 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:42.842 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:52:42.984 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:43.185 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:43.389 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:43.593 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:43.800 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:44.002 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:44.210 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:44.407 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:44.619 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:44.811 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:45.019 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:45.223 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:45.428 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:45.634 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:45.840 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:45.842 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:46.779 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:46.781 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:52:46.841 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:47.045 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:47.249 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:47.466 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:47.671 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:47.879 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:47.881 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:48.745 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:48.747 | DEBUG    | petC:show:31 - hide:True
+2023-08-03 15:52:48.891 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:49.097 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:49.296 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:49.512 | DEBUG    | petC:speak_condition:307 - isSpeaking:False
+2023-08-03 15:52:49.514 | INFO     | petC:speak:312 - yellow speaking
+2023-08-03 15:52:50.420 | INFO     | petC:speak_UI:317 - yellow speak_UI
+2023-08-03 15:52:50.421 | DEBUG    | petC:show:31 - hide:True

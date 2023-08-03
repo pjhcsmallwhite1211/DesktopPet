@@ -1,0 +1,127 @@
+2023-08-03 16:08:46.509 | INFO     | __main__:__init__:26 - all init start
+2023-08-03 16:08:46.632 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- slime
+2023-08-03 16:08:46.633 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:08:46.635 | INFO     | petC:initAI:326 - slime initAI running
+2023-08-03 16:08:46.636 | INFO     | AI:__init__:60 - slime's AI init
+2023-08-03 16:08:46.638 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:08:46.639 | INFO     | AI:__init__:62 -     -id: slime_AI
+2023-08-03 16:08:46.656 | INFO     | petC:hide:174 - slime hide
+2023-08-03 16:08:46.674 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- red
+2023-08-03 16:08:46.678 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:08:46.680 | INFO     | petC:initAI:326 - red initAI running
+2023-08-03 16:08:46.681 | INFO     | AI:__init__:60 - red's AI init
+2023-08-03 16:08:46.682 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:08:46.683 | INFO     | AI:__init__:62 -     -id: red_AI
+2023-08-03 16:08:46.686 | INFO     | petC:hide:174 - red hide
+2023-08-03 16:08:46.709 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- orange
+2023-08-03 16:08:46.711 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:08:46.712 | INFO     | petC:initAI:326 - orange initAI running
+2023-08-03 16:08:46.714 | INFO     | AI:__init__:60 - orange's AI init
+2023-08-03 16:08:46.715 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:08:46.716 | INFO     | AI:__init__:62 -     -id: orange_AI
+2023-08-03 16:08:46.719 | INFO     | petC:hide:174 - orange hide
+2023-08-03 16:08:46.738 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- yellow
+2023-08-03 16:08:46.740 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:08:46.745 | INFO     | petC:initAI:326 - yellow initAI running
+2023-08-03 16:08:46.747 | INFO     | AI:__init__:60 - yellow's AI init
+2023-08-03 16:08:46.749 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:08:46.750 | INFO     | AI:__init__:62 -     -id: yellow_AI
+2023-08-03 16:08:46.753 | INFO     | petC:hide:174 - yellow hide
+2023-08-03 16:08:46.778 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- green
+2023-08-03 16:08:46.779 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:08:46.787 | INFO     | petC:initAI:326 - green initAI running
+2023-08-03 16:08:46.790 | INFO     | AI:__init__:60 - green's AI init
+2023-08-03 16:08:46.792 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:08:46.793 | INFO     | AI:__init__:62 -     -id: green_AI
+2023-08-03 16:08:46.795 | INFO     | petC:hide:174 - green hide
+2023-08-03 16:08:46.819 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- blue
+2023-08-03 16:08:46.821 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:08:46.827 | INFO     | petC:initAI:326 - blue initAI running
+2023-08-03 16:08:46.829 | INFO     | AI:__init__:60 - blue's AI init
+2023-08-03 16:08:46.831 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:08:46.834 | INFO     | AI:__init__:62 -     -id: blue_AI
+2023-08-03 16:08:46.837 | INFO     | petC:hide:174 - blue hide
+2023-08-03 16:08:46.858 | INFO     | petC:setMouseEvent:166 - setMouseEvent running--- purple
+2023-08-03 16:08:46.860 | INFO     | petC:setMouseEvent:171 - 
+
+2023-08-03 16:08:46.867 | INFO     | petC:initAI:326 - purple initAI running
+2023-08-03 16:08:46.869 | INFO     | AI:__init__:60 - purple's AI init
+2023-08-03 16:08:46.870 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:08:46.872 | INFO     | AI:__init__:62 -     -id: purple_AI
+2023-08-03 16:08:46.875 | INFO     | petC:hide:174 - purple hide
+2023-08-03 16:08:46.884 | INFO     | __main__:initCtrlWindow:64 - init CtrlWindow
+2023-08-03 16:08:47.478 | INFO     | ctrlWindow:__init__:21 - <__main__.Main object at 0x00000225C5001000>
+2023-08-03 16:08:47.481 | INFO     | ctrlWindow:initEvents:31 - init Events
+2023-08-03 16:08:47.483 | INFO     | __main__:initSysMenu:74 - initSysMenu
+2023-08-03 16:08:47.528 | WARNING  | __main__:initGenerator:43 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-03 16:08:50.277 | INFO     | petC:show:179 - yellow show
+2023-08-03 16:08:50.381 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:False
+2023-08-03 16:08:50.584 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:False
+2023-08-03 16:08:50.787 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:False
+2023-08-03 16:08:50.906 | WARNING  | AI:init:19 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-03 16:08:50.992 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:50.993 | INFO     | petC:speak:316 - yellow speaking
+2023-08-03 16:08:52.728 | INFO     | petC:speak_UI:321 - yellow speak_UI,[7;34mhello."
+
+If the city could only get the project built, the project would provide some form of transportation for workers and pedestrians in downtown Chicago, the state of Michigan and at the intersection of East Main St. and Fifth Avenue, where a separate[0m
+2023-08-03 16:08:52.731 | DEBUG    | petC:show:34 - hide:False
+2023-08-03 16:08:52.812 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:53.020 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:53.228 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:53.432 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:53.636 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:53.837 | INFO     | petC:walk:268 - yellow walking
+2023-08-03 16:08:53.839 | DEBUG    | petC:walk:273 - standing still,stand
+2023-08-03 16:08:55.150 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:55.248 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:55.465 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:55.655 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:55.857 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:56.076 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:56.276 | INFO     | petC:walk:268 - yellow walking
+2023-08-03 16:08:56.278 | DEBUG    | petC:walk:273 - standing still,stand
+2023-08-03 16:08:56.279 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:56.477 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:56.682 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:56.684 | INFO     | petC:speak:316 - yellow speaking
+2023-08-03 16:08:58.403 | INFO     | petC:speak_UI:321 - yellow speak_UI,[7;34mhello.com/news/local-news/tulsa/sabotage-in-a-car-involved-in-j-vehicle-involved-in-m-vehicle-crash-31466613[0m
+2023-08-03 16:08:58.406 | DEBUG    | petC:show:34 - hide:True
+2023-08-03 16:08:58.507 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:08:58.509 | INFO     | petC:speak:316 - yellow speaking
+2023-08-03 16:09:00.252 | INFO     | petC:speak_UI:321 - yellow speak_UI,[7;34mhello: 'This is not like what you expected. The game looks nice, but has a couple of weird issues I had to fix,' says David Martin
+
+He said the game looked fine in the dark. Once installed, the game would switch[0m
+2023-08-03 16:09:00.255 | DEBUG    | petC:show:34 - hide:True
+2023-08-03 16:09:00.326 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:09:00.539 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:09:00.746 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:09:00.935 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:09:00.936 | INFO     | petC:speak:316 - yellow speaking
+2023-08-03 16:09:02.665 | INFO     | petC:speak_UI:321 - yellow speak_UI,[7;34mhello, OK, June 13, 1999)
+
+You said that the two cases were different. Did you think they were separate, or did they have different opinions? "We could be in agreement." But we were all in agreement. The defense[0m
+2023-08-03 16:09:02.667 | DEBUG    | petC:show:34 - hide:True
+2023-08-03 16:09:02.785 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:09:02.990 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:09:03.195 | INFO     | petC:walk:268 - yellow walking
+2023-08-03 16:09:03.196 | DEBUG    | petC:walk:273 - standing still,stand
+2023-08-03 16:09:03.198 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:09:03.402 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:09:03.606 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:09:03.810 | INFO     | petC:walk:268 - yellow walking
+2023-08-03 16:09:03.812 | DEBUG    | petC:walk:273 - standing still,stand
+2023-08-03 16:09:03.813 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:09:03.998 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:09:03.999 | INFO     | petC:speak:316 - yellow speaking
+2023-08-03 16:09:05.784 | INFO     | petC:speak_UI:321 - yellow speak_UI,[7;34mhello is an employee at the Leland Baskerville hotel and two others were injured Saturday evening in the aftermath of a fight between an officer and a suspect, police confirm.
+
+A 22-year-old man suffered a head injury in the[0m
+2023-08-03 16:09:05.786 | DEBUG    | petC:show:34 - hide:True
+2023-08-03 16:09:05.853 | DEBUG    | petC:speak_condition:311 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:09:05.855 | INFO     | petC:speak:316 - yellow speaking

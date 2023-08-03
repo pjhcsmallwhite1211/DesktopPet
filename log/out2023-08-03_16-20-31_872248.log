@@ -1,0 +1,140 @@
+2023-08-03 16:20:31.875 | INFO     | __main__:__init__:26 - all init start
+2023-08-03 16:20:31.989 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- slime
+2023-08-03 16:20:31.991 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:20:31.992 | INFO     | petC:initAI:325 - slime initAI running
+2023-08-03 16:20:31.992 | INFO     | AI:__init__:60 - slime's AI init
+2023-08-03 16:20:31.994 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:20:31.995 | INFO     | AI:__init__:62 -     -id: slime_AI
+2023-08-03 16:20:32.011 | INFO     | petC:hide:169 - slime hide
+2023-08-03 16:20:32.020 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- red
+2023-08-03 16:20:32.021 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:20:32.023 | INFO     | petC:initAI:325 - red initAI running
+2023-08-03 16:20:32.024 | INFO     | AI:__init__:60 - red's AI init
+2023-08-03 16:20:32.025 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:20:32.026 | INFO     | AI:__init__:62 -     -id: red_AI
+2023-08-03 16:20:32.028 | INFO     | petC:hide:169 - red hide
+2023-08-03 16:20:32.038 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- orange
+2023-08-03 16:20:32.039 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:20:32.040 | INFO     | petC:initAI:325 - orange initAI running
+2023-08-03 16:20:32.041 | INFO     | AI:__init__:60 - orange's AI init
+2023-08-03 16:20:32.042 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:20:32.043 | INFO     | AI:__init__:62 -     -id: orange_AI
+2023-08-03 16:20:32.045 | INFO     | petC:hide:169 - orange hide
+2023-08-03 16:20:32.055 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- yellow
+2023-08-03 16:20:32.056 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:20:32.058 | INFO     | petC:initAI:325 - yellow initAI running
+2023-08-03 16:20:32.059 | INFO     | AI:__init__:60 - yellow's AI init
+2023-08-03 16:20:32.060 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:20:32.062 | INFO     | AI:__init__:62 -     -id: yellow_AI
+2023-08-03 16:20:32.064 | INFO     | petC:hide:169 - yellow hide
+2023-08-03 16:20:32.072 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- green
+2023-08-03 16:20:32.073 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:20:32.075 | INFO     | petC:initAI:325 - green initAI running
+2023-08-03 16:20:32.076 | INFO     | AI:__init__:60 - green's AI init
+2023-08-03 16:20:32.077 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:20:32.078 | INFO     | AI:__init__:62 -     -id: green_AI
+2023-08-03 16:20:32.081 | INFO     | petC:hide:169 - green hide
+2023-08-03 16:20:32.089 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- blue
+2023-08-03 16:20:32.090 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:20:32.092 | INFO     | petC:initAI:325 - blue initAI running
+2023-08-03 16:20:32.093 | INFO     | AI:__init__:60 - blue's AI init
+2023-08-03 16:20:32.094 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:20:32.098 | INFO     | AI:__init__:62 -     -id: blue_AI
+2023-08-03 16:20:32.100 | INFO     | petC:hide:169 - blue hide
+2023-08-03 16:20:32.110 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- purple
+2023-08-03 16:20:32.114 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:20:32.115 | INFO     | petC:initAI:325 - purple initAI running
+2023-08-03 16:20:32.117 | INFO     | AI:__init__:60 - purple's AI init
+2023-08-03 16:20:32.117 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:20:32.119 | INFO     | AI:__init__:62 -     -id: purple_AI
+2023-08-03 16:20:32.121 | INFO     | petC:hide:169 - purple hide
+2023-08-03 16:20:32.123 | INFO     | __main__:initCtrlWindow:64 - init CtrlWindow
+2023-08-03 16:20:32.673 | INFO     | ctrlWindow:__init__:21 - <__main__.Main object at 0x0000016140181000>
+2023-08-03 16:20:32.675 | INFO     | ctrlWindow:initEvents:31 - init Events
+2023-08-03 16:20:32.677 | INFO     | __main__:initSysMenu:74 - initSysMenu
+2023-08-03 16:20:32.710 | WARNING  | __main__:initGenerator:43 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-03 16:20:34.991 | INFO     | petC:show:175 - yellow show
+2023-08-03 16:20:35.123 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:False
+2023-08-03 16:20:35.334 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:20:35.335 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:20:36.653 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:False
+2023-08-03 16:20:36.771 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:False
+2023-08-03 16:20:36.896 | WARNING  | AI:init:19 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-03 16:20:36.968 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:37.171 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:37.374 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:37.582 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:37.782 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:37.983 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:38.197 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:38.399 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:38.400 | INFO     | petC:speak:315 - yellow speaking
+2023-08-03 16:20:40.127 | INFO     | petC:speak_UI:320 - yellow speak_UI,[7;44mhello, PA)
+
+With the second-best average home run rate in the AL in 2014, the Cardinals are tied for fourth in homers. This means that this year they rank third in runs per game in the AL, fourth in stolen bases[0m
+2023-08-03 16:20:40.158 | INFO     | petC:mainWindow_re__mousePressEvent:127 - mainWindow_re__mousePressEvent running--- yellow
+2023-08-03 16:20:40.160 | INFO     | petC:mainWindow_re__mousePressEvent:133 - yellow mouseButtonDown changed: True, mousePos_toWindow changed: Pet.pos(x=91, y=35)
+
+2023-08-03 16:20:40.162 | INFO     | petC:mainWindow_re__mouseMoveEvent:148 - mainWindow_re__mouseMoveEvent running--- yellow
+2023-08-03 16:20:40.163 | INFO     | petC:mainWindow_re__mouseMoveEvent:153 - mouse pos: (1022, 552) id: yellow
+2023-08-03 16:20:40.164 | INFO     | petC:mainWindow_re__mouseMoveEvent:154 - mouse pos window: (91, 35) id: yellow
+2023-08-03 16:20:40.166 | INFO     | petC:mainWindow_re__mouseMoveEvent:155 - mouse pos move to: (931, 517) id: yellow
+2023-08-03 16:20:40.169 | INFO     | petC:mainWindow_re__mouseMoveEvent:158 - yellow mouseButtonDown changed: False
+
+2023-08-03 16:20:40.171 | INFO     | petC:mainWindow_re__mouseReleaseEvent:137 - mainWindow_re__mouseReleaseEvent running--- yellow
+2023-08-03 16:20:40.172 | INFO     | petC:mainWindow_re__mouseReleaseEvent:145 - yellow mouseButtonDown changed: False
+
+2023-08-03 16:20:40.227 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:40.422 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:40.631 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:40.838 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:41.040 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:41.244 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:41.451 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:41.639 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:41.843 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:42.046 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:42.250 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:42.453 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:42.454 | INFO     | petC:speak:315 - yellow speaking
+2023-08-03 16:20:44.152 | INFO     | petC:speak_UI:320 - yellow speak_UI,[7;44mhello
+
+The video of the shooting, posted online, shows at least five people, including a man in their 50s, holding a knife to the head of a woman as she walks through the intersection of North and South Adams streets in downtown Oakland[0m
+2023-08-03 16:20:44.284 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:44.489 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:20:44.490 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:20:45.703 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:45.911 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:46.110 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:46.315 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:46.519 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:46.718 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:46.920 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:47.127 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:47.327 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:47.531 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:47.733 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:47.937 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:48.140 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:48.349 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:48.351 | INFO     | petC:speak:315 - yellow speaking
+2023-08-03 16:20:50.051 | INFO     | petC:speak_UI:320 - yellow speak_UI,[7;44mhello of his wife-to-be, Jennifer, when they returned to their apartment in South Boston Tuesday night to pick up a book while there were people on the boat.
+
+They came across the "S.T.A.L.[0m
+2023-08-03 16:20:50.173 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:50.381 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:50.586 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:50.795 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:20:50.796 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:20:50.797 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:50.983 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:20:51.190 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:20:51.191 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:20:51.192 | DEBUG    | petC:speak_condition:310 - isSpeaking:False,isGeneratorOK:True

@@ -1,0 +1,451 @@
+2023-08-03 16:17:53.885 | INFO     | __main__:__init__:26 - all init start
+2023-08-03 16:17:54.006 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- slime
+2023-08-03 16:17:54.008 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:17:54.009 | INFO     | petC:initAI:323 - slime initAI running
+2023-08-03 16:17:54.010 | INFO     | AI:__init__:60 - slime's AI init
+2023-08-03 16:17:54.011 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:17:54.012 | INFO     | AI:__init__:62 -     -id: slime_AI
+2023-08-03 16:17:54.028 | INFO     | petC:hide:169 - slime hide
+2023-08-03 16:17:54.038 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- red
+2023-08-03 16:17:54.039 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:17:54.041 | INFO     | petC:initAI:323 - red initAI running
+2023-08-03 16:17:54.042 | INFO     | AI:__init__:60 - red's AI init
+2023-08-03 16:17:54.044 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:17:54.045 | INFO     | AI:__init__:62 -     -id: red_AI
+2023-08-03 16:17:54.047 | INFO     | petC:hide:169 - red hide
+2023-08-03 16:17:54.057 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- orange
+2023-08-03 16:17:54.059 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:17:54.061 | INFO     | petC:initAI:323 - orange initAI running
+2023-08-03 16:17:54.063 | INFO     | AI:__init__:60 - orange's AI init
+2023-08-03 16:17:54.064 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:17:54.065 | INFO     | AI:__init__:62 -     -id: orange_AI
+2023-08-03 16:17:54.067 | INFO     | petC:hide:169 - orange hide
+2023-08-03 16:17:54.079 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- yellow
+2023-08-03 16:17:54.081 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:17:54.083 | INFO     | petC:initAI:323 - yellow initAI running
+2023-08-03 16:17:54.084 | INFO     | AI:__init__:60 - yellow's AI init
+2023-08-03 16:17:54.085 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:17:54.087 | INFO     | AI:__init__:62 -     -id: yellow_AI
+2023-08-03 16:17:54.089 | INFO     | petC:hide:169 - yellow hide
+2023-08-03 16:17:54.100 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- green
+2023-08-03 16:17:54.102 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:17:54.104 | INFO     | petC:initAI:323 - green initAI running
+2023-08-03 16:17:54.106 | INFO     | AI:__init__:60 - green's AI init
+2023-08-03 16:17:54.110 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:17:54.111 | INFO     | AI:__init__:62 -     -id: green_AI
+2023-08-03 16:17:54.114 | INFO     | petC:hide:169 - green hide
+2023-08-03 16:17:54.125 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- blue
+2023-08-03 16:17:54.127 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:17:54.129 | INFO     | petC:initAI:323 - blue initAI running
+2023-08-03 16:17:54.131 | INFO     | AI:__init__:60 - blue's AI init
+2023-08-03 16:17:54.132 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:17:54.133 | INFO     | AI:__init__:62 -     -id: blue_AI
+2023-08-03 16:17:54.135 | INFO     | petC:hide:169 - blue hide
+2023-08-03 16:17:54.147 | INFO     | petC:setMouseEvent:161 - setMouseEvent running--- purple
+2023-08-03 16:17:54.148 | INFO     | petC:setMouseEvent:166 - 
+
+2023-08-03 16:17:54.151 | INFO     | petC:initAI:323 - purple initAI running
+2023-08-03 16:17:54.153 | INFO     | AI:__init__:60 - purple's AI init
+2023-08-03 16:17:54.156 | INFO     | AI:__init__:61 - infos:
+2023-08-03 16:17:54.157 | INFO     | AI:__init__:62 -     -id: purple_AI
+2023-08-03 16:17:54.159 | INFO     | petC:hide:169 - purple hide
+2023-08-03 16:17:54.162 | INFO     | __main__:initCtrlWindow:64 - init CtrlWindow
+2023-08-03 16:17:54.703 | INFO     | ctrlWindow:__init__:21 - <__main__.Main object at 0x000002079AB51090>
+2023-08-03 16:17:54.705 | INFO     | ctrlWindow:initEvents:31 - init Events
+2023-08-03 16:17:54.707 | INFO     | __main__:initSysMenu:74 - initSysMenu
+2023-08-03 16:17:54.741 | WARNING  | __main__:initGenerator:43 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-03 16:17:57.447 | WARNING  | AI:init:19 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-03 16:17:59.016 | INFO     | petC:show:175 - yellow show
+2023-08-03 16:17:59.187 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:17:59.394 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:17:59.597 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:17:59.799 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:00.002 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:00.203 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:00.407 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:00.609 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:00.816 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:01.023 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:01.217 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:01.424 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:01.632 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:01.838 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:01.839 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:03.276 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:03.453 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:03.660 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:03.865 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:04.068 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:04.265 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:04.472 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:04.678 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:04.680 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:06.409 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello: What do you think about the idea of one-offs in games?
+
+Clementine: Well, I have just started taking part Revenue, I've been taking part the game of Destiny. And I'm also doing some other things[0m
+2023-08-03 16:18:06.503 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:06.707 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:06.709 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:06.710 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:06.908 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:07.112 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:07.316 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:07.518 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:07.720 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:07.922 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:08.125 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:08.327 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:08.531 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:08.736 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:08.738 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:10.436 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello-nebraska-1 (1933-36) at North Carolina Baptist University – New Braunfels, NC (1936-37). The Huskies won a national championship while advancing to the NCAA Tournament. After being shut out by eventual[0m
+2023-08-03 16:18:10.565 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:10.566 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:10.567 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:10.764 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:10.968 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:11.172 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:11.374 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:11.580 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:11.783 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:11.984 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:12.189 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:12.389 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:12.604 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:12.807 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:13.014 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:13.202 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:13.204 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:13.205 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:13.419 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:13.621 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:13.826 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:14.015 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:14.220 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:14.423 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:14.625 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:14.829 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:14.831 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:14.832 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:15.030 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:15.233 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:15.438 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:15.643 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:15.847 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:16.051 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:16.253 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:16.254 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:16.255 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:16.458 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:16.661 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:16.863 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:16.864 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:18.545 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello, Texas)
+
+This is the same team that made its team win the championship last time out and now it's in contention for the fourth consecutive time. It's hard to imagine a team without a chance like that. How would you be[0m
+2023-08-03 16:18:18.687 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:18.895 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:19.096 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:19.299 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:19.502 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:19.705 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:19.914 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:20.120 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:20.312 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:20.516 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:20.517 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:22.719 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello.mil
+
+A third report, however, was received. This time, she explained, it was a case of a man being chased away "from his home...on several occasions." She also revealed that the man had a "lack[0m
+2023-08-03 16:18:22.761 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:22.966 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:23.167 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:23.168 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:24.954 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello.com The Daily Caller News Foundation is working to expand its reach to include issues of national interest. In addition to developing digital content, we produce a wide variety of national content to make you a more complete and complete citizen. Please take a moment[0m
+2023-08-03 16:18:25.008 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:25.206 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:25.405 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:25.609 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:25.821 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:26.014 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:26.217 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:26.219 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:26.220 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:26.437 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:26.441 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:26.442 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:26.653 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:26.856 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:27.059 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:27.254 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:27.256 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:27.257 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:27.454 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:27.666 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:27.862 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:28.070 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:28.270 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:28.272 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:30.038 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello/chris jordan.
+
+When The News-Gazette published its coverage, some were incredulous.
+
+Others noted that neither reporters nor editors are given time to take photos while in court, or that at least some of[0m
+2023-08-03 16:18:30.092 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:30.094 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:30.095 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:30.299 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:30.503 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:30.703 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:30.705 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:30.706 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:30.905 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:31.109 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:31.311 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:31.514 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:31.717 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:31.933 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:32.137 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:32.335 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:32.336 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:33.491 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello.com/news/local/minnesota/city-and-newmmet.aspx?tid=1&id=2214257930)[0m
+2023-08-03 16:18:33.547 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:33.548 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:35.196 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello the other morning, my first reaction was "What? You're mad so much he got mad?"
+
+She says he laughed like a madman, went into the bathroom, threw up, and then he'd start laughing again. At this[0m
+2023-08-03 16:18:35.380 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:35.584 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:35.783 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:35.785 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:37.470 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello, N.Y.-based real estate consultant and developer Steven Johnson, who has worked in Toronto's Toronto Land Registry for 29 years.
+
+The company will offer a range of property loans to homeowners through its site, for up to a $[0m
+2023-08-03 16:18:37.610 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:37.816 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:37.819 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:39.191 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello.com and a Facebook page where you can follow us to receive the latest from the Bay Area news:
+
+Facebook
+
+Twitter
+
+Google
+
+Pinterest
+
+LinkedIn
+
+Email[0m
+2023-08-03 16:18:39.253 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:39.454 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:39.664 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:39.862 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:40.067 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:40.267 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:40.474 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:40.677 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:40.878 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:41.081 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:41.280 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:41.487 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:41.688 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:41.892 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:42.094 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:42.296 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:42.498 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:42.500 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:44.250 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello from his job.
+
+"It was a big disappointment to see how badly he's done," Sanders told a room full of reporters. "And I am so glad that he is on the stump with us, as you know, but he[0m
+2023-08-03 16:18:44.336 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:44.540 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:44.541 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:44.542 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:44.740 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:44.946 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:44.947 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:44.949 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:45.150 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:45.152 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:46.858 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello-newman-saint-newtown-a-new-guy-i-gave-this-home-new-town-a-new-town-new-with-a-new-town-a-new-[0m
+2023-08-03 16:18:46.974 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:46.976 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:48.724 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello, New Hampshire)
+
+The family has also been asked to pay more than $70,000 in medical bills.
+
+A spokesman for the federal Drug Enforcement Administration said, "We have no way of knowing how much they are actually paying[0m
+2023-08-03 16:18:48.807 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:49.006 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:49.215 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:49.406 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:49.408 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:51.113 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello, CA.
+
+"To be honest with you, at first they tried to blame you," she said. "This can really piss off the parents, like you do."
+
+When she arrived, Ms. Taylor said she felt like[0m
+2023-08-03 16:18:51.235 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:51.237 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:51.238 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:51.441 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:51.646 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:51.846 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:52.050 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:52.253 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:52.255 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:53.986 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello, the same as every other new year in the U.S.
+
+The list of bills for 2017 is:
+
+A bill to repeal "a prohibition on the use of guns under licensees"
+
+A bill to require state[0m
+2023-08-03 16:18:54.077 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:54.079 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:54.185 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello.com[0m
+2023-08-03 16:18:54.279 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:54.281 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:54.285 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:54.489 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:54.696 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:54.895 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:54.896 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:54.897 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:55.101 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:55.301 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:55.503 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:55.702 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:55.911 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:56.107 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:56.108 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:57.884 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello of their home in the middle of the woods. The car came across the house, crashed down on the porch, as K.J. started going to talk to him.
+
+"Do you think we could solve that?" K.J[0m
+2023-08-03 16:18:57.936 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:18:57.937 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:18:57.938 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:57.939 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:18:58.528 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello.com/
+
+For more on the 2016-2017 campaign click here.[0m
+2023-08-03 16:18:58.549 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:18:58.551 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:19:00.268 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello! We have a great lineup of products from our trusted, trusted manufacturers. And we look forward to serving you at our signature locations in Louisville, Louisville, Louisville, and Atlanta. Don't wait too long until you see our signature beers in your[0m
+2023-08-03 16:19:00.378 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:00.577 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:00.786 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:00.788 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:19:02.512 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello.com. He's here on a visit to your favorite city and says, "People were wondering about this city. Why did you decide to take this city in and build this?"
+
+People have become very aware of Detroit's city's[0m
+2023-08-03 16:19:02.610 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:19:02.612 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:19:02.613 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:02.819 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:03.015 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:03.220 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:03.427 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:03.634 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:03.830 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:04.036 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:04.039 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:19:05.763 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello.
+
+While I'd be interested in working with this guy, I would be more likely to be able to work in business if he was willing to do it for me.
+
+I want to know your experiences and your thoughts regarding this[0m
+2023-08-03 16:19:05.859 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:06.060 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:06.279 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:06.468 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:06.672 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:06.875 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:07.079 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:07.081 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:19:08.760 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello-marvel-cl-saga-the-ultimate-bruises-to-our-heart-bruises-to-the-great-beauty-of-gorgeous-beauty-a-a-[0m
+2023-08-03 16:19:08.911 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:09.116 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:09.322 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:09.527 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:09.718 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:09.926 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:10.134 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:10.330 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:10.331 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:19:12.064 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello, WA)
+
+Brock Hill, LA (Los Angeles County)
+
+Carnival, LA (San Francisco)
+
+Cabaret, CA (Santa Barbara County)
+
+Cambria, CA (Los Angeles County[0m
+2023-08-03 16:19:12.161 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:12.364 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:12.567 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:12.767 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:12.974 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:13.178 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:13.374 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:19:13.375 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:19:13.376 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:13.578 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:13.580 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:19:15.293 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello.com), the home of theAbiogenesis Science Center at Baylor College of Medicine and former director of the Baylor Cancer Center in Houston. I've had a couple of visits with a number of colleagues, both of whom have been working with the[0m
+2023-08-03 16:19:15.405 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:15.608 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:15.821 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:16.022 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:19:16.024 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:19:16.025 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:16.231 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:16.422 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:19:16.425 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:19:16.426 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:16.624 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:16.833 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:17.030 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:17.238 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:17.240 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:19:19.022 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello.com/grizzly/
+
+Rudeness of action:
+
+Here's how much weight you should put the car over your shoulders and keep it upright:
+
+If you've done this, have you ever had ANY[0m
+2023-08-03 16:19:19.061 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:19.267 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:19.471 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:19:19.473 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:19:19.474 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:19.675 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:19.879 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:20.079 | INFO     | petC:walk:265 - yellow walking
+2023-08-03 16:19:20.080 | DEBUG    | petC:walk:270 - standing still,stand
+2023-08-03 16:19:20.081 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:20.282 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:20.285 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:19:21.975 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello/2016, 8:14:12 (id d5t6wj8) 704306 (474306) from atomicimploder at 2016-09-01 16:22:17 (id d5t6xa0)[0m
+2023-08-03 16:19:22.110 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:22.322 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:22.525 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:22.728 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:22.928 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:23.126 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:23.332 | DEBUG    | petC:speak_condition:308 - isSpeaking:False,isGeneratorOK:True
+2023-08-03 16:19:23.334 | INFO     | petC:speak:313 - yellow speaking
+2023-08-03 16:19:25.035 | INFO     | petC:speak_UI:318 - yellow speak_UI,[7;44mhello this is a long story that we'll discuss in what follows.
+
+So what were the biggest mistakes that were made by the team to keep us on this path?
+
+In a way there were not that many. It was a big[0m

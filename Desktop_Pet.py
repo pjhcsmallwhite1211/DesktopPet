@@ -338,6 +338,7 @@ class Ui_MainWindow(object):
         self.status.addItem("")
         self.status.addItem("")
         self.status.addItem("")
+        self.status.addItem("")
         self.gridLayout_6.addWidget(self.status, 2, 0, 1, 1)
         self.gridLayout_5.addWidget(self.frame_9, 2, 0, 1, 1)
         self.tabs.addTab(self.Settings_en, "")
@@ -356,7 +357,7 @@ class Ui_MainWindow(object):
         MainWindow.setStatusBar(self.statusbar)
 
         self.retranslateUi(MainWindow)
-        self.toolBox.setCurrentIndex(3)
+        self.toolBox.setCurrentIndex(4)
         self.tabs.setCurrentIndex(2)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
         MainWindow.setTabOrder(self.tabs, self.pickaxe)
@@ -399,7 +400,8 @@ class Ui_MainWindow(object):
         self.goHome.setText(_translate("MainWindow", "回家"))
         self.goOut.setText(_translate("MainWindow", "出来溜溜"))
         self.status.setItemText(0, _translate("MainWindow", "原地站立"))
-        self.status.setItemText(1, _translate("MainWindow", "工作模式"))
-        self.status.setItemText(2, _translate("MainWindow", "玩耍状态"))
+        self.status.setItemText(1, _translate("MainWindow", "站着"))
+        self.status.setItemText(2, _translate("MainWindow", "工作模式"))
+        self.status.setItemText(3, _translate("MainWindow", "玩耍状态"))
         self.tabs.setTabText(self.tabs.indexOf(self.Settings_en), _translate("MainWindow", "设置"))
 import test_rc

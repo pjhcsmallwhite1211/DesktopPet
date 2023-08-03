@@ -1,4 +1,6 @@
 import time
+from PyQt5.QtCore import pyqtSignal
+
 from loguru import logger
 
 from transformers import pipeline, AutoModelForSeq2SeqLM, AutoTokenizer, GPT2LMHeadModel, GPT2Tokenizer
@@ -8,45 +10,44 @@ import signalBin
 
 class generator(object):
 
-    def __init__(self):
-        pass
+    def __init__(self,main):
+        self.main = main
 
     def init(self):
-        self.model_name = "Helsinki-NLP/opus-mt-en-zh"
-        self.model_translator = AutoModelForSeq2SeqLM.from_pretrained(self.model_name,
-                                                                      cache_dir='D:\\Desktop\\python\\huggingface_cache')
-        self.tokenizer_translator = AutoTokenizer.from_pretrained(self.model_name,
-                                                                  cache_dir='D:\\Desktop\\python\\huggingface_cache')
-
-        # 选择模型和分词器
-        self.model = GPT2LMHeadModel.from_pretrained("gpt2", cache_dir='D:\\Desktop\\python\\huggingface_cache')
-        self.tokenizer = GPT2Tokenizer.from_pretrained("gpt2", cache_dir='D:\\Desktop\\python\\huggingface_cache')
-
-        # 创建生成器和翻译器的pipeline
-        self.generator = pipeline("text-generation", model=self.model, tokenizer=self.tokenizer)
-        self.translator = pipeline("translation_en_to_zh", model=self.model_translator,
-                                   tokenizer=self.tokenizer_translator)
-
-    def generateText(self, prompt="creat a 'dict' with python.tell me how to write it"):
-        print("s")
-        # 设置生成随机文本的提示
-        prompt = prompt
-
-        # 使用生成器生成随机文本（英文）
-        output_text = self.generator(prompt, max_length=400, num_return_sequences=1, do_sample=True)[0][
-            'generated_text']
-
-        # 将换行符替换为特殊字符<n>
-        output_text = output_text.replace('\n', '<n>')
-
-        # 将随机文本翻译成中文,并设置换行
-        translated_text = self.translator([output_text], max_length=400)[0]['translation_text']
-
-        # 打印生成的随机文本（英文版本）
-        print(f"Generated Text (in English): {output_text}")
-
-        # 打印翻译后的随机文本（中文版本）
-        print(f"\nTranslated Text (in Chinese): {translated_text}")
+        self.model = 'gpt2'
+        self._generateText = pipeline("text-generation", model=self.model)  # 文本生成
+        logger.warning("generator \033[96minited\033[0m~~~~~~~~~~~~~~~~~~~~~")
+        self.main.isGeneratorOK=True
+    def generateText(self,parent,prompt):
+        result=self._generateText(prompt)
+        # parent.returnSignal.emit(result[0]['generated_text'])
+        parent.isSpeaking=False
+        return result[0]['generated_text']
+    # def generateText(self, parent, prompt="creat a 'dict' with python.tell me how to write it"):
+    #     logger.debug("s")
+    #     try:
+    #         # 设置生成随机文本的提示
+    #         prompt = prompt
+    #         logger.warning("1")
+    #         # 使用生成器生成随机文本（英文）
+    #         output_text = self.generator(prompt, max_length=400, num_return_sequences=1, do_sample=True)[0][
+    #             'generated_text']
+    #         logger.warning("2")
+    #         # 将换行符替换为特殊字符<n>
+    #         output_text = output_text.replace('\n', '<n>')
+    #         logger.warning("3")
+    #         # 将随机文本翻译成中文,并设置换行
+    #         translated_text = self.translator([output_text], max_length=400)[0]['translation_text']
+    #         logger.warning("4")
+    #         # 打印生成的随机文本（英文版本）
+    #         logger.debug(f"Generated Text (in English): {output_text}")
+    #         logger.warning("5")
+    #         # 打印翻译后的随机文本（中文版本）
+    #         logger.debug(f"\nTranslated Text (in Chinese): {translated_text}")
+    #         parent.returnSignal.emit(translated_text)
+    #         parent.isSpeaking=False
+    #     except Exception as e:
+    #         raise e
 
 
 class AI(object):

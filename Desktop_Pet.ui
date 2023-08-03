@@ -62,7 +62,7 @@
              </rect>
             </property>
             <property name="currentIndex">
-             <number>3</number>
+             <number>4</number>
             </property>
             <widget class="QWidget" name="Slime">
              <property name="geometry">
@@ -822,6 +822,11 @@
                   </item>
                   <item>
                    <property name="text">
+                    <string>站着</string>
+                   </property>
+                  </item>
+                  <item>
+                   <property name="text">
                     <string>工作模式</string>
                    </property>
                   </item>
@@ -871,6 +876,9 @@
   <tabstop>moveToRandomPos_button</tabstop>
  </tabstops>
  <resources>
+  <include location="resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
   <include location="resources/test.qrc"/>
   <include location="resources/test.qrc"/>
   <include location="resources/test.qrc"/>
