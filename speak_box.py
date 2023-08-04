@@ -14,7 +14,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_Form(object):
     def setupUi(self, Form):
         Form.setObjectName("Form")
-        Form.resize(291, 125)
+        Form.resize(268, 134)
         icon = QtGui.QIcon()
         icon.addPixmap(QtGui.QPixmap(":/icon/image/icon.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         Form.setWindowIcon(icon)
@@ -49,6 +49,9 @@ class Ui_Form(object):
         self.text.setAlignment(QtCore.Qt.AlignLeading|QtCore.Qt.AlignLeft|QtCore.Qt.AlignTop)
         self.text.setWordWrap(True)
         self.text.setObjectName("text")
+        self.textEdit = QtWidgets.QLineEdit(Form)
+        self.textEdit.setGeometry(QtCore.QRect(20, 100, 241, 31))
+        self.textEdit.setObjectName("textEdit")
 
         self.retranslateUi(Form)
         QtCore.QMetaObject.connectSlotsByName(Form)

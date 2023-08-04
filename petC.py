@@ -25,6 +25,20 @@ class SpeakBox(object):
         self.mainWindow.setAttribute(Qt.Qt.WA_TranslucentBackground)
         self.ui.text.setText(str)
         self.mainWindow.closeEvent=self.hide
+        self.ui.textEdit.textChanged.connect(lambda :self.input(self.ui.textEdit.text()))
+    def getText(self):
+
+        if "/end/" in self.ui.textEdit.text():
+            return self.ui.textEdit.text().replace("/end/","")
+        return self.ui.textEdit.text()
+
+    def input(self,text):
+        if "/end/" in text:
+            self.parent.speak(0, text=text.replace("/end/", ""))
+            logger.info(f"type:{type(text)},text:{text}")
+            return
+        logger.info(f"type:{type(text)},text:{text}")
+
     def alignment(self):
 
         self.mainWindow.move(int(self.parent.nowPos.x),
@@ -97,7 +111,7 @@ class Pet(QObject):
         self.rect_top_right = self.rect(self.top_right.x - 180, self.top_right.y, self.top_right.x,
                                         self.top_right.y + 180)
         self.all = self.rect(0, 0, self.width, self.height)
-        self.speakBox = SpeakBox("", self)
+        self.speakBox = SpeakBox("hello /end/", self)
         self.isSpeaking=False
     def changeStatus(self, status):
         self.now_status = status
@@ -311,11 +325,13 @@ class Pet(QObject):
         if random.randint(0, 50) == 0 and not self.isSpeaking and self.main.isGeneratorOK:
             return True
 
-    def speak(self, actuator):
-        logger.info(f"{self.id} speaking")
+    def speak(self, actuator,**text):
+        if text=={}:
+            text['text']=self.speakBox.getText()
+        logger.info(f"{self.id} speaking,text:{text}")
         self.isSpeaking=True
         # self.threadSpeak = self.main.threadPool.submit(self.main.generator.generateText, self,"hello")
-        self.speak_UI(self.main.generator.generateText(self, "hello"))
+        self.speak_UI(self.main.generator.generateText(self, text['text']))
     def speak_UI(self, str):
         logger.info(f"{self.id} speak_UI,\033[7;44m{str}\033[0m")
         self.speakBox.ui.text.setText(str)

@@ -1,0 +1,109 @@
+2023-08-04 17:12:23.449 | INFO     | __main__:__init__:26 - all init start
+2023-08-04 17:12:23.723 | INFO     | petC:setMouseEvent:165 - setMouseEvent running--- slime
+2023-08-04 17:12:23.730 | INFO     | petC:setMouseEvent:170 - 
+
+2023-08-04 17:12:23.734 | INFO     | petC:initAI:329 - slime initAI running
+2023-08-04 17:12:23.737 | INFO     | AI:__init__:60 - slime's AI init
+2023-08-04 17:12:23.740 | INFO     | AI:__init__:61 - infos:
+2023-08-04 17:12:23.748 | INFO     | AI:__init__:62 -     -id: slime_AI
+2023-08-04 17:12:23.815 | INFO     | petC:hide:173 - slime hide
+2023-08-04 17:12:23.835 | INFO     | petC:setMouseEvent:165 - setMouseEvent running--- red
+2023-08-04 17:12:23.845 | INFO     | petC:setMouseEvent:170 - 
+
+2023-08-04 17:12:23.848 | INFO     | petC:initAI:329 - red initAI running
+2023-08-04 17:12:23.850 | INFO     | AI:__init__:60 - red's AI init
+2023-08-04 17:12:23.852 | INFO     | AI:__init__:61 - infos:
+2023-08-04 17:12:23.856 | INFO     | AI:__init__:62 -     -id: red_AI
+2023-08-04 17:12:23.861 | INFO     | petC:hide:173 - red hide
+2023-08-04 17:12:23.884 | INFO     | petC:setMouseEvent:165 - setMouseEvent running--- orange
+2023-08-04 17:12:23.889 | INFO     | petC:setMouseEvent:170 - 
+
+2023-08-04 17:12:23.893 | INFO     | petC:initAI:329 - orange initAI running
+2023-08-04 17:12:23.895 | INFO     | AI:__init__:60 - orange's AI init
+2023-08-04 17:12:23.898 | INFO     | AI:__init__:61 - infos:
+2023-08-04 17:12:23.901 | INFO     | AI:__init__:62 -     -id: orange_AI
+2023-08-04 17:12:23.908 | INFO     | petC:hide:173 - orange hide
+2023-08-04 17:12:23.935 | INFO     | petC:setMouseEvent:165 - setMouseEvent running--- yellow
+2023-08-04 17:12:23.942 | INFO     | petC:setMouseEvent:170 - 
+
+2023-08-04 17:12:23.948 | INFO     | petC:initAI:329 - yellow initAI running
+2023-08-04 17:12:23.953 | INFO     | AI:__init__:60 - yellow's AI init
+2023-08-04 17:12:23.955 | INFO     | AI:__init__:61 - infos:
+2023-08-04 17:12:23.958 | INFO     | AI:__init__:62 -     -id: yellow_AI
+2023-08-04 17:12:23.964 | INFO     | petC:hide:173 - yellow hide
+2023-08-04 17:12:23.988 | INFO     | petC:setMouseEvent:165 - setMouseEvent running--- green
+2023-08-04 17:12:23.991 | INFO     | petC:setMouseEvent:170 - 
+
+2023-08-04 17:12:23.996 | INFO     | petC:initAI:329 - green initAI running
+2023-08-04 17:12:23.999 | INFO     | AI:__init__:60 - green's AI init
+2023-08-04 17:12:24.001 | INFO     | AI:__init__:61 - infos:
+2023-08-04 17:12:24.003 | INFO     | AI:__init__:62 -     -id: green_AI
+2023-08-04 17:12:24.007 | INFO     | petC:hide:173 - green hide
+2023-08-04 17:12:24.034 | INFO     | petC:setMouseEvent:165 - setMouseEvent running--- blue
+2023-08-04 17:12:24.037 | INFO     | petC:setMouseEvent:170 - 
+
+2023-08-04 17:12:24.041 | INFO     | petC:initAI:329 - blue initAI running
+2023-08-04 17:12:24.043 | INFO     | AI:__init__:60 - blue's AI init
+2023-08-04 17:12:24.046 | INFO     | AI:__init__:61 - infos:
+2023-08-04 17:12:24.048 | INFO     | AI:__init__:62 -     -id: blue_AI
+2023-08-04 17:12:24.053 | INFO     | petC:hide:173 - blue hide
+2023-08-04 17:12:24.078 | INFO     | petC:setMouseEvent:165 - setMouseEvent running--- purple
+2023-08-04 17:12:24.081 | INFO     | petC:setMouseEvent:170 - 
+
+2023-08-04 17:12:24.086 | INFO     | petC:initAI:329 - purple initAI running
+2023-08-04 17:12:24.095 | INFO     | AI:__init__:60 - purple's AI init
+2023-08-04 17:12:24.107 | INFO     | AI:__init__:61 - infos:
+2023-08-04 17:12:24.109 | INFO     | AI:__init__:62 -     -id: purple_AI
+2023-08-04 17:12:24.115 | INFO     | petC:hide:173 - purple hide
+2023-08-04 17:12:24.121 | INFO     | __main__:initCtrlWindow:64 - init CtrlWindow
+2023-08-04 17:12:25.345 | INFO     | ctrlWindow:__init__:21 - <__main__.Main object at 0x000001E2097E5090>
+2023-08-04 17:12:25.349 | INFO     | ctrlWindow:initEvents:31 - init Events
+2023-08-04 17:12:25.352 | INFO     | __main__:initSysMenu:74 - initSysMenu
+2023-08-04 17:12:25.428 | WARNING  | __main__:initGenerator:43 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-04 17:12:29.850 | INFO     | petC:show:179 - green show
+2023-08-04 17:12:29.976 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:30.172 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:30.375 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:30.580 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:30.789 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:30.995 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:31.185 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:31.389 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:31.594 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:31.801 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:32.006 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:32.211 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:32.413 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:32.622 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:32.825 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:False
+2023-08-04 17:12:32.925 | WARNING  | AI:init:19 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-04 17:12:33.014 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:33.219 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:33.423 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:33.638 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:33.842 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:34.046 | INFO     | petC:walk:269 - green walking
+2023-08-04 17:12:34.049 | DEBUG    | petC:walk:274 - standing still,stand
+2023-08-04 17:12:37.196 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:37.307 | INFO     | petC:walk:269 - green walking
+2023-08-04 17:12:37.310 | DEBUG    | petC:walk:274 - standing still,stand
+2023-08-04 17:12:37.313 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:37.513 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:37.708 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:37.911 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:38.116 | INFO     | petC:walk:269 - green walking
+2023-08-04 17:12:38.119 | DEBUG    | petC:walk:274 - standing still,stand
+2023-08-04 17:12:38.121 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:38.313 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:38.525 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:38.528 | INFO     | petC:speak:319 - green speaking
+2023-08-04 17:12:40.972 | INFO     | petC:speak_UI:324 - green speak_UI,[7;44mhello.gov/james.mackenzie.j.c.simmons-in-globe-office-press-releases/
+
+
+-- (7) On July 31, the FBI announced that there was no probable cause[0m
+2023-08-04 17:12:41.175 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:41.381 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:41.585 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:41.793 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:41.997 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
+2023-08-04 17:12:42.187 | DEBUG    | petC:speak_condition:314 - isSpeaking:False,isGeneratorOK:True
