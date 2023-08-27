@@ -1,0 +1,149 @@
+2023-08-09 15:07:23.376 | INFO     | __main__:__init__:133 - all init start
+2023-08-09 15:07:23.389 | INFO     | __main__:initTimerThread:164 - timer started
+2023-08-09 15:07:23.498 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- slime
+2023-08-09 15:07:23.499 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 15:07:23.500 | INFO     | petC:initAI:448 - slime initAI running
+2023-08-09 15:07:23.501 | INFO     | AI:__init__:57 - slime's AI init
+2023-08-09 15:07:23.503 | INFO     | AI:__init__:58 - infos:
+2023-08-09 15:07:23.504 | INFO     | AI:__init__:59 -     -id: slime_AI
+2023-08-09 15:07:23.520 | INFO     | petC:hide:199 - slime hide
+2023-08-09 15:07:23.531 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- red
+2023-08-09 15:07:23.533 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 15:07:23.534 | INFO     | petC:initAI:448 - red initAI running
+2023-08-09 15:07:23.536 | INFO     | AI:__init__:57 - red's AI init
+2023-08-09 15:07:23.537 | INFO     | AI:__init__:58 - infos:
+2023-08-09 15:07:23.538 | INFO     | AI:__init__:59 -     -id: red_AI
+2023-08-09 15:07:23.540 | INFO     | petC:hide:199 - red hide
+2023-08-09 15:07:23.552 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- orange
+2023-08-09 15:07:23.554 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 15:07:23.555 | INFO     | petC:initAI:448 - orange initAI running
+2023-08-09 15:07:23.557 | INFO     | AI:__init__:57 - orange's AI init
+2023-08-09 15:07:23.559 | INFO     | AI:__init__:58 - infos:
+2023-08-09 15:07:23.560 | INFO     | AI:__init__:59 -     -id: orange_AI
+2023-08-09 15:07:23.562 | INFO     | petC:hide:199 - orange hide
+2023-08-09 15:07:23.572 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- yellow
+2023-08-09 15:07:23.574 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 15:07:23.576 | INFO     | petC:initAI:448 - yellow initAI running
+2023-08-09 15:07:23.577 | INFO     | AI:__init__:57 - yellow's AI init
+2023-08-09 15:07:23.579 | INFO     | AI:__init__:58 - infos:
+2023-08-09 15:07:23.582 | INFO     | AI:__init__:59 -     -id: yellow_AI
+2023-08-09 15:07:23.584 | INFO     | petC:hide:199 - yellow hide
+2023-08-09 15:07:23.595 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- green
+2023-08-09 15:07:23.600 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 15:07:23.602 | INFO     | petC:initAI:448 - green initAI running
+2023-08-09 15:07:23.603 | INFO     | AI:__init__:57 - green's AI init
+2023-08-09 15:07:23.604 | INFO     | AI:__init__:58 - infos:
+2023-08-09 15:07:23.605 | INFO     | AI:__init__:59 -     -id: green_AI
+2023-08-09 15:07:23.607 | INFO     | petC:hide:199 - green hide
+2023-08-09 15:07:23.619 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- blue
+2023-08-09 15:07:23.621 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 15:07:23.623 | INFO     | petC:initAI:448 - blue initAI running
+2023-08-09 15:07:23.624 | INFO     | AI:__init__:57 - blue's AI init
+2023-08-09 15:07:23.625 | INFO     | AI:__init__:58 - infos:
+2023-08-09 15:07:23.627 | INFO     | AI:__init__:59 -     -id: blue_AI
+2023-08-09 15:07:23.629 | INFO     | petC:hide:199 - blue hide
+2023-08-09 15:07:23.641 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- purple
+2023-08-09 15:07:23.644 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 15:07:23.646 | INFO     | petC:initAI:448 - purple initAI running
+2023-08-09 15:07:23.647 | INFO     | AI:__init__:57 - purple's AI init
+2023-08-09 15:07:23.649 | INFO     | AI:__init__:58 - infos:
+2023-08-09 15:07:23.650 | INFO     | AI:__init__:59 -     -id: purple_AI
+2023-08-09 15:07:23.652 | INFO     | petC:hide:199 - purple hide
+2023-08-09 15:07:23.655 | INFO     | __main__:initMoveThread:157 - Move started
+2023-08-09 15:07:23.657 | INFO     | __main__:initGenerator:151 - NLP started
+2023-08-09 15:07:23.665 | INFO     | __main__:initCtrlWindow:170 - init CtrlWindow
+2023-08-09 15:07:24.265 | INFO     | ctrlWindow:__init__:21 - <__main__.Main object at 0x000001D1CB5216C0>
+2023-08-09 15:07:24.268 | INFO     | ctrlWindow:initEvents:31 - init Events
+2023-08-09 15:07:24.269 | INFO     | __main__:initSysMenu:184 - initSysMenu
+2023-08-09 15:07:26.344 | WARNING  | AI:init:17 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-09 15:07:29.953 | INFO     | petC:show:205 - green show
+2023-08-09 15:07:30.287 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:30.289 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:32.112 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:32.113 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:32.932 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:32.935 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:33.132 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:33.135 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:34.758 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:34.760 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:34.955 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:34.956 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:36.381 | INFO     | petC:speak:437 - green speaking,text:{'text': ''}
+2023-08-09 15:07:37.596 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:37.598 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:40.642 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:40.645 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:41.663 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:41.664 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:42.267 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:42.270 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:42.884 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:42.886 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:46.737 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:46.738 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:47.357 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:47.359 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:51.226 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:51.228 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:53.464 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:53.467 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:57.316 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:57.317 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:07:59.156 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:07:59.159 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:01.794 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:01.797 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:02.396 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:02.398 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:03.207 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:03.209 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:07.281 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:07.283 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:11.129 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:11.131 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:11.953 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:11.957 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:12.351 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:12.353 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:13.361 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:13.362 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:15.195 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:15.198 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:16.827 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:16.829 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:17.224 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:17.226 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:17.635 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:17.637 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:23.933 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:23.935 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:24.953 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:24.956 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:25.144 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:25.146 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:26.174 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:26.175 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:31.061 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:31.062 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:33.291 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:33.294 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:33.897 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:33.899 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:39.179 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:39.181 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:41.423 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:41.427 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:43.052 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:43.054 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:45.489 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:45.491 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 15:08:48.138 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 15:08:48.139 | WARNING  | petC:inRect:294 - in rect

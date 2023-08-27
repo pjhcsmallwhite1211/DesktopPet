@@ -785,14 +785,7 @@
                </property>
               </widget>
              </item>
-             <item row="1" column="0">
-              <widget class="QPushButton" name="goOut">
-               <property name="text">
-                <string>出来溜溜</string>
-               </property>
-              </widget>
-             </item>
-             <item row="2" column="0">
+             <item row="3" column="0">
               <widget class="QFrame" name="frame_9">
                <property name="frameShape">
                 <enum>QFrame::StyledPanel</enum>
@@ -840,6 +833,20 @@
                </layout>
               </widget>
              </item>
+             <item row="1" column="0">
+              <widget class="QPushButton" name="goOut">
+               <property name="text">
+                <string>出来溜溜</string>
+               </property>
+              </widget>
+             </item>
+             <item row="2" column="0">
+              <widget class="QPushButton" name="clearTask">
+               <property name="text">
+                <string>Debug:清空任务</string>
+               </property>
+              </widget>
+             </item>
             </layout>
            </widget>
           </widget>
@@ -884,7 +891,7 @@
   <include location="resources/test.qrc"/>
   <include location="resources/test.qrc"/>
   <include location="resources/test.qrc"/>
-  <include location="C:/Users/feibai/.designer/backup/resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
  </resources>
  <connections/>
 </ui>

@@ -1,0 +1,63 @@
+2023-08-08 16:55:58.482 | INFO     | __main__:__init__:124 - all init start
+2023-08-08 16:55:58.666 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- slime
+2023-08-08 16:55:58.668 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 16:55:58.670 | INFO     | petC:initAI:445 - slime initAI running
+2023-08-08 16:55:58.672 | INFO     | AI:__init__:57 - slime's AI init
+2023-08-08 16:55:58.673 | INFO     | AI:__init__:58 - infos:
+2023-08-08 16:55:58.675 | INFO     | AI:__init__:59 -     -id: slime_AI
+2023-08-08 16:55:58.703 | INFO     | petC:hide:199 - slime hide
+2023-08-08 16:55:58.720 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- red
+2023-08-08 16:55:58.722 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 16:55:58.725 | INFO     | petC:initAI:445 - red initAI running
+2023-08-08 16:55:58.728 | INFO     | AI:__init__:57 - red's AI init
+2023-08-08 16:55:58.730 | INFO     | AI:__init__:58 - infos:
+2023-08-08 16:55:58.731 | INFO     | AI:__init__:59 -     -id: red_AI
+2023-08-08 16:55:58.734 | INFO     | petC:hide:199 - red hide
+2023-08-08 16:55:58.752 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- orange
+2023-08-08 16:55:58.755 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 16:55:58.758 | INFO     | petC:initAI:445 - orange initAI running
+2023-08-08 16:55:58.760 | INFO     | AI:__init__:57 - orange's AI init
+2023-08-08 16:55:58.762 | INFO     | AI:__init__:58 - infos:
+2023-08-08 16:55:58.764 | INFO     | AI:__init__:59 -     -id: orange_AI
+2023-08-08 16:55:58.768 | INFO     | petC:hide:199 - orange hide
+2023-08-08 16:55:58.787 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- yellow
+2023-08-08 16:55:58.792 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 16:55:58.796 | INFO     | petC:initAI:445 - yellow initAI running
+2023-08-08 16:55:58.798 | INFO     | AI:__init__:57 - yellow's AI init
+2023-08-08 16:55:58.800 | INFO     | AI:__init__:58 - infos:
+2023-08-08 16:55:58.802 | INFO     | AI:__init__:59 -     -id: yellow_AI
+2023-08-08 16:55:58.809 | INFO     | petC:hide:199 - yellow hide
+2023-08-08 16:55:58.826 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- green
+2023-08-08 16:55:58.830 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 16:55:58.833 | INFO     | petC:initAI:445 - green initAI running
+2023-08-08 16:55:58.835 | INFO     | AI:__init__:57 - green's AI init
+2023-08-08 16:55:58.837 | INFO     | AI:__init__:58 - infos:
+2023-08-08 16:55:58.839 | INFO     | AI:__init__:59 -     -id: green_AI
+2023-08-08 16:55:58.842 | INFO     | petC:hide:199 - green hide
+2023-08-08 16:55:58.861 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- blue
+2023-08-08 16:55:58.863 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 16:55:58.867 | INFO     | petC:initAI:445 - blue initAI running
+2023-08-08 16:55:58.869 | INFO     | AI:__init__:57 - blue's AI init
+2023-08-08 16:55:58.871 | INFO     | AI:__init__:58 - infos:
+2023-08-08 16:55:58.873 | INFO     | AI:__init__:59 -     -id: blue_AI
+2023-08-08 16:55:58.877 | INFO     | petC:hide:199 - blue hide
+2023-08-08 16:55:58.897 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- purple
+2023-08-08 16:55:58.901 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 16:55:58.903 | INFO     | petC:initAI:445 - purple initAI running
+2023-08-08 16:55:58.906 | INFO     | AI:__init__:57 - purple's AI init
+2023-08-08 16:55:58.908 | INFO     | AI:__init__:58 - infos:
+2023-08-08 16:55:58.910 | INFO     | AI:__init__:59 -     -id: purple_AI
+2023-08-08 16:55:58.914 | INFO     | petC:hide:199 - purple hide
+2023-08-08 16:55:58.919 | INFO     | __main__:initCtrlWindow:158 - init CtrlWindow
+2023-08-08 16:55:59.748 | INFO     | ctrlWindow:__init__:21 - <__main__.Main object at 0x0000028FA7DFD3F0>
+2023-08-08 16:55:59.751 | INFO     | ctrlWindow:initEvents:31 - init Events
+2023-08-08 16:55:59.755 | INFO     | __main__:initSysMenu:172 - initSysMenu
+2023-08-08 16:56:02.995 | INFO     | petC:show:205 - green show
+2023-08-08 16:56:03.589 | INFO     | petC:speak:434 - green speaking,text:{'text': ''}

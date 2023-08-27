@@ -1,0 +1,2445 @@
+2023-08-09 16:01:57.507 | INFO     | __main__:__init__:135 - all init start
+2023-08-09 16:01:57.535 | INFO     | __main__:initTimerThread:167 - timer started
+2023-08-09 16:01:57.754 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- slime
+2023-08-09 16:01:57.756 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 16:01:57.758 | INFO     | petC:initAI:448 - slime initAI running
+2023-08-09 16:01:57.760 | INFO     | AI:__init__:57 - slime's AI init
+2023-08-09 16:01:57.762 | INFO     | AI:__init__:58 - infos:
+2023-08-09 16:01:57.765 | INFO     | AI:__init__:59 -     -id: slime_AI
+2023-08-09 16:01:57.801 | INFO     | petC:hide:199 - slime hide
+2023-08-09 16:01:57.824 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- red
+2023-08-09 16:01:57.827 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 16:01:57.830 | INFO     | petC:initAI:448 - red initAI running
+2023-08-09 16:01:57.832 | INFO     | AI:__init__:57 - red's AI init
+2023-08-09 16:01:57.835 | INFO     | AI:__init__:58 - infos:
+2023-08-09 16:01:57.837 | INFO     | AI:__init__:59 -     -id: red_AI
+2023-08-09 16:01:57.841 | INFO     | petC:hide:199 - red hide
+2023-08-09 16:01:57.876 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- orange
+2023-08-09 16:01:57.879 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 16:01:57.882 | INFO     | petC:initAI:448 - orange initAI running
+2023-08-09 16:01:57.884 | INFO     | AI:__init__:57 - orange's AI init
+2023-08-09 16:01:57.886 | INFO     | AI:__init__:58 - infos:
+2023-08-09 16:01:57.889 | INFO     | AI:__init__:59 -     -id: orange_AI
+2023-08-09 16:01:57.893 | INFO     | petC:hide:199 - orange hide
+2023-08-09 16:01:57.915 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- yellow
+2023-08-09 16:01:57.919 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 16:01:57.923 | INFO     | petC:initAI:448 - yellow initAI running
+2023-08-09 16:01:57.930 | INFO     | AI:__init__:57 - yellow's AI init
+2023-08-09 16:01:57.933 | INFO     | AI:__init__:58 - infos:
+2023-08-09 16:01:57.935 | INFO     | AI:__init__:59 -     -id: yellow_AI
+2023-08-09 16:01:57.939 | INFO     | petC:hide:199 - yellow hide
+2023-08-09 16:01:57.962 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- green
+2023-08-09 16:01:57.965 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 16:01:57.969 | INFO     | petC:initAI:448 - green initAI running
+2023-08-09 16:01:57.976 | INFO     | AI:__init__:57 - green's AI init
+2023-08-09 16:01:57.981 | INFO     | AI:__init__:58 - infos:
+2023-08-09 16:01:57.983 | INFO     | AI:__init__:59 -     -id: green_AI
+2023-08-09 16:01:57.987 | INFO     | petC:hide:199 - green hide
+2023-08-09 16:01:58.017 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- blue
+2023-08-09 16:01:58.020 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 16:01:58.025 | INFO     | petC:initAI:448 - blue initAI running
+2023-08-09 16:01:58.028 | INFO     | AI:__init__:57 - blue's AI init
+2023-08-09 16:01:58.031 | INFO     | AI:__init__:58 - infos:
+2023-08-09 16:01:58.033 | INFO     | AI:__init__:59 -     -id: blue_AI
+2023-08-09 16:01:58.038 | INFO     | petC:hide:199 - blue hide
+2023-08-09 16:01:58.058 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- purple
+2023-08-09 16:01:58.061 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-09 16:01:58.072 | INFO     | petC:initAI:448 - purple initAI running
+2023-08-09 16:01:58.074 | INFO     | AI:__init__:57 - purple's AI init
+2023-08-09 16:01:58.077 | INFO     | AI:__init__:58 - infos:
+2023-08-09 16:01:58.079 | INFO     | AI:__init__:59 -     -id: purple_AI
+2023-08-09 16:01:58.083 | INFO     | petC:hide:199 - purple hide
+2023-08-09 16:01:58.089 | INFO     | __main__:initMoveThread:161 - Move started
+2023-08-09 16:01:58.089 | INFO     | __main__:run:112 - move thread start
+2023-08-09 16:01:58.092 | INFO     | __main__:initGenerator:154 - NLP started
+2023-08-09 16:01:58.097 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:58.104 | INFO     | __main__:initCtrlWindow:173 - init CtrlWindow
+2023-08-09 16:01:58.108 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.062 | INFO     | ctrlWindow:__init__:21 - <__main__.Main object at 0x00000250E28E3880>
+2023-08-09 16:01:59.065 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.069 | INFO     | ctrlWindow:initEvents:31 - init Events
+2023-08-09 16:01:59.071 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.074 | INFO     | __main__:initSysMenu:187 - initSysMenu
+2023-08-09 16:01:59.076 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.140 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.142 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.145 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.148 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.151 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.153 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.155 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.158 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.165 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.168 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.171 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.173 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.180 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.183 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.185 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.188 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.198 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.203 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.213 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.216 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.225 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.231 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.236 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.247 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.253 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.277 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.284 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.290 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.294 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.297 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.301 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.309 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.312 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.316 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.323 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.327 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.330 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.339 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.343 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.346 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.352 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.356 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.359 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.367 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.374 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.377 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.383 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.387 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.389 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.392 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.398 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.401 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.405 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.408 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.416 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.419 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.421 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.424 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.427 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.431 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.433 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.436 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.438 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.440 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.448 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.452 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.463 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.469 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.474 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.484 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.489 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.493 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.495 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.497 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.498 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.500 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.502 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.504 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.511 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.514 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.517 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.520 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.525 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.527 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.529 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.531 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.533 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.535 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.537 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.543 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.546 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.548 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.550 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.552 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.556 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.560 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.563 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.566 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.568 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.575 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.577 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.579 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.581 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.584 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.588 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.590 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.592 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.595 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.598 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.600 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.607 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.610 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.613 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.618 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.620 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.622 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.624 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.626 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.628 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.630 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.637 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.638 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.640 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.642 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.644 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.646 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.651 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.653 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.655 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.657 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.660 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.662 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.669 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.671 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.672 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.674 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.676 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.681 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.683 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.685 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.687 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.689 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.691 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.692 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.699 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.701 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.703 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.704 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.706 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.708 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.713 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.715 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.717 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.719 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.721 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.723 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.730 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.732 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.734 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.736 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.738 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.740 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.745 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.747 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.749 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.751 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.753 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.755 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.757 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.763 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.765 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.768 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.770 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.771 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.777 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.779 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.781 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.783 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.785 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.787 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.796 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.799 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.802 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.803 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.808 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.810 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.812 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.814 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.816 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.818 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.820 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.826 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.829 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.831 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.833 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.835 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.836 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.841 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.843 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.845 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.847 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.850 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.852 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.860 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.862 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.865 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.867 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.870 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.874 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.877 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.879 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.881 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.883 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.885 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.891 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.893 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.895 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.897 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.899 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.902 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.906 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.908 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.910 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.912 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.914 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.916 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.924 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.926 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.928 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.931 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.938 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.940 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.942 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.945 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.948 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.956 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.959 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.961 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.964 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.970 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.972 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.975 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.978 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.980 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.988 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.991 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.993 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:01:59.995 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.001 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.003 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.005 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.008 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.011 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.019 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.022 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.025 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.028 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.034 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.036 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.039 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.042 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.050 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.052 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.055 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.057 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.062 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.066 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.068 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.071 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.073 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.083 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.085 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.088 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.090 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.097 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.100 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.103 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.105 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.108 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.114 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.116 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.119 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.121 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.124 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.132 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.134 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.137 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.141 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.143 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.146 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.148 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.151 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.153 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.159 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.162 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.164 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.167 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.169 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.178 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.180 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.183 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.185 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.190 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.193 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.196 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.199 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.202 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.207 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.210 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.213 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.215 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.218 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.225 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.227 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.230 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.232 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.237 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.238 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.240 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.242 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.245 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.248 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.252 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.255 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.258 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.260 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.263 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.265 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.270 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.272 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.275 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.278 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.280 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.284 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.287 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.290 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.293 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.296 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.300 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.304 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.307 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.309 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.312 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.320 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.323 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.325 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.328 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.333 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.336 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.338 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.341 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.343 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.345 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.350 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.352 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.354 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.356 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.359 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.361 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.368 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.371 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.373 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.376 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.385 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.387 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.390 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.392 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.398 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.401 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.404 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.407 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.416 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.418 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.421 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.426 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.429 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.432 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.434 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.437 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.439 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.443 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.446 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.449 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.451 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.453 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.456 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.463 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.465 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.468 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.470 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.478 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.481 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.483 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.486 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.489 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.494 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.496 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.498 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.501 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.503 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.510 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.512 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.515 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.517 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.520 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.527 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.529 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.532 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.535 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.544 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.546 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.550 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.554 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.558 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.561 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.564 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.567 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.577 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.580 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.586 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.591 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.593 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.598 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.607 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.610 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.613 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.615 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.621 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.623 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.626 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.629 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.637 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.639 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.642 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.645 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.647 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.654 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.656 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.659 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.662 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.672 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.674 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.677 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.683 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.686 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.688 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.691 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.694 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.701 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.703 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.706 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.708 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.715 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.718 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.721 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.723 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.725 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.732 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.735 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.737 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.739 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.741 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.747 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.750 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.754 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.757 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.766 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.768 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.770 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.773 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.779 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.783 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.785 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.787 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.797 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.800 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.802 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.807 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.811 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.814 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.816 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.818 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.820 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.829 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.832 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.834 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.838 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.842 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.845 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.848 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.850 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.859 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.862 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.865 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.867 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.874 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.877 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.880 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.882 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.891 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.894 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.896 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.899 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.904 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.907 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.910 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.912 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.915 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.921 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.924 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.927 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.930 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.936 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.942 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.955 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.958 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.960 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.963 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.969 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.972 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.975 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.978 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.986 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.989 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.991 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.994 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:00.999 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.002 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.005 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.008 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.010 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.017 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.020 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.023 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.026 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.033 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.036 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.039 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.042 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.049 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.052 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.055 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.058 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.062 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.067 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.069 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.072 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.081 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.084 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.087 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.092 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.095 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.098 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.101 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.103 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.110 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.112 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.114 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.117 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.119 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.127 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.129 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.132 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.136 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.142 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.145 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.147 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.151 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.154 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.157 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.160 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.162 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.165 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.170 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.175 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.177 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.180 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.189 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.191 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.194 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.197 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.201 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.205 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.207 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.210 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.213 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.221 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.224 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.226 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.230 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.237 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.239 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.242 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.244 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.247 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.254 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.256 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.258 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.261 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.267 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.269 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.272 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.274 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.277 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.279 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.286 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.288 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.291 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.293 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.301 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.305 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.308 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.311 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.315 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.317 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.320 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.322 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.324 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.327 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.334 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.337 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.339 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.342 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.355 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.375 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.402 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.407 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.413 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.417 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.421 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.430 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.433 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.435 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.438 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.446 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.449 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.452 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.454 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.457 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.460 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.462 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.464 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.467 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.480 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.482 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.484 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.490 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.492 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.495 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.497 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.500 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.504 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.507 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.509 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.512 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.514 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.518 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.521 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.523 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.526 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.529 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.536 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.538 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.540 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.543 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.545 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.549 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.551 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.553 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.555 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.557 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.559 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.562 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.567 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.569 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.571 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.577 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.594 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.602 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.613 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.634 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.647 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.653 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.662 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.668 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.679 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.683 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.689 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.693 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.697 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.700 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.706 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.712 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.727 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.732 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.738 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.743 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.746 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.749 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.755 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.758 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.760 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.762 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.765 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.767 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.773 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.776 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.778 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.781 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.783 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.790 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.793 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.796 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.804 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.806 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.808 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.810 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.813 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.816 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.820 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.822 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.824 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.827 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.829 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.836 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.839 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.842 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.846 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.852 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.854 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.856 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.859 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.862 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.870 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.872 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.874 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.877 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.885 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.887 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.890 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.893 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.901 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.904 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.906 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.908 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.912 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.916 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.918 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.921 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.923 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.925 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.933 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.937 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.940 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.949 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.952 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.955 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.958 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.966 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.972 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.979 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.981 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.984 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.987 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.993 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.996 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:01.998 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.000 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.002 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.009 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.011 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.013 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.015 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.017 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.020 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.026 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.028 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.030 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.032 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.034 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.041 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.043 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.046 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.048 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.051 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.057 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.059 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.061 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.064 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.066 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.073 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.076 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.079 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.081 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.085 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.090 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.092 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.096 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.098 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.104 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.106 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.108 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.111 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.113 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.117 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.120 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.122 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.125 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.127 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.129 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.137 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.139 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.141 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.144 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.146 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.152 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.153 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.156 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.159 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.161 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.168 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.171 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.174 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.178 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.185 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.187 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.191 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.200 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.205 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.210 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.216 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.219 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.223 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.234 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.238 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.241 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.248 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.252 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.256 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.267 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.271 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.277 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.284 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.288 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.297 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.301 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.304 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.308 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.311 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.313 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.316 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.319 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.327 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.331 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.334 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.341 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.343 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.345 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.348 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.357 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.359 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.362 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.365 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.367 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.375 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.378 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.381 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.383 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.390 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.392 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.395 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.398 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.407 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.409 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.412 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.414 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.420 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.422 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.425 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.427 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.435 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.438 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.443 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.446 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.452 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.458 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.461 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.464 | INFO     | petC:show:205 - green show
+2023-08-09 16:02:02.471 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.519 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.533 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.536 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.539 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.542 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.552 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.675 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.683 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.699 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.706 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.715 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.724 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.728 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.739 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.750 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.756 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.759 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.778 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.789 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.797 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.801 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.807 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.810 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.819 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.824 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.834 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.837 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.839 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.842 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-09 16:02:02.846 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.853 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:02.865 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.883 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:02.884 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:02.892 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.901 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:02.909 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:02.914 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:02.920 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.931 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:02.943 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:02.953 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:02.973 | WARNING  | AI:init:17 - generator [96minited[0m~~~~~~~~~~~~~~~~~~~~~
+2023-08-09 16:02:02.973 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:02.975 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:02.981 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:02.995 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:02.998 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.006 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.010 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.013 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.015 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.021 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.023 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.028 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.031 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.037 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.040 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.042 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.044 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.049 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.054 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.056 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.058 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.060 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.062 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.071 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.073 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.075 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.077 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.079 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.085 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.089 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.091 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.093 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.096 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.104 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.105 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.109 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.111 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.118 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.120 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.122 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.124 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.130 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.137 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.139 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.141 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.143 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.149 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.153 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.155 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.157 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.159 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.168 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.170 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.173 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.180 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.182 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.185 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.188 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.197 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.203 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.210 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.213 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.215 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.218 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.221 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.231 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.233 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.235 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.241 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.244 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.247 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.252 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.261 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.264 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.266 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.268 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.274 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.278 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.281 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.284 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.293 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.296 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.300 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.310 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.312 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.314 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.321 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.323 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.326 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.330 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.333 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.338 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.340 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.343 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.345 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.350 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.355 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.357 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.359 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.362 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.366 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.375 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.379 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.386 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.388 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.390 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.393 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.397 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.400 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.403 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.405 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.407 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.411 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.419 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.421 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.424 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.431 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.433 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.435 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.440 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.443 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.448 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.451 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.453 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.455 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.460 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.466 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.469 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.471 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.473 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.479 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.484 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.487 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.489 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.496 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.498 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.500 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.504 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.506 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.512 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.514 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.517 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.519 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.524 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.529 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.531 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.534 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.538 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.539 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.550 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.553 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.559 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.562 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.564 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.566 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.571 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.576 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.578 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.580 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.583 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.585 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.593 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.596 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.598 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.600 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.603 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.608 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.612 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.614 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.617 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.627 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.629 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.631 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.637 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.639 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.641 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.644 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.646 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.649 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.655 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.657 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.660 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.663 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.665 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.671 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.675 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.678 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.680 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.687 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.689 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.691 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.695 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.699 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.705 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.707 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.711 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.720 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.726 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.732 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.737 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.740 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.743 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.752 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.758 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.764 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.766 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.769 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.771 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.773 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.778 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.783 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.785 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.787 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.789 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.791 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.801 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.804 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.806 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.813 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.815 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.817 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.821 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.823 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.829 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.831 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.833 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.835 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.839 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.846 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.848 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.850 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.855 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.856 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.863 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.867 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.869 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.871 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.877 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.879 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.881 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.885 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.889 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.892 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.894 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.896 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.898 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.902 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.907 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.909 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.913 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.915 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.922 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.928 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.931 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.938 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.941 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.943 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.945 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.950 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.955 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.957 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.959 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.962 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.965 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.969 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.971 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.973 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:03.975 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.978 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:03.984 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:03.988 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:03.990 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:03.993 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.000 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.003 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.005 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.012 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.018 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.021 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.023 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.032 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.034 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.038 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.040 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.044 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.046 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.049 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.051 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.055 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.061 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.063 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.066 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.069 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.077 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.081 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.084 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.086 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.089 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.094 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.096 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.100 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.103 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.110 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.112 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.115 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.117 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.122 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.126 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.128 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.131 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.133 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.136 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.146 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.149 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.151 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.156 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.158 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.161 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.165 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.167 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.174 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.177 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.179 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.181 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.186 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.190 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.193 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.195 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.197 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.199 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.212 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.215 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.218 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.220 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.222 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.224 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.229 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.231 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.238 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.240 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.242 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.245 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.249 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.254 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.256 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.259 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.261 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.263 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.269 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.273 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.276 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.279 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.288 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.291 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.298 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.302 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.305 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.307 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.310 | INFO     | petC:speak:437 - green speaking,text:{'text': ''}
+2023-08-09 16:02:04.312 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.316 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.318 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.321 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.324 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.326 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.330 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.334 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.336 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.340 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.343 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.350 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.353 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.355 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.359 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.367 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.369 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.373 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.375 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.384 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.386 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.390 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.397 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.399 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.401 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.403 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.406 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.411 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.413 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.415 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.418 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.420 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.421 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.427 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.431 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.433 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.435 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.437 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.439 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.448 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.450 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.452 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.454 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.461 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.463 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.467 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.470 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.475 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.478 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.480 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.482 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.486 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.493 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.496 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.500 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.503 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.510 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.515 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.517 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.525 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.527 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.530 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.532 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.537 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.543 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.545 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.547 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.549 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.556 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.560 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.563 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.566 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.574 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.578 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.580 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.584 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.589 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.592 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.594 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.596 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.598 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.606 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.608 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.611 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.613 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.615 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.622 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.626 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.628 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.630 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.638 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.642 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.645 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.653 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.655 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.657 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.659 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.661 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.668 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.672 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.675 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.677 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.684 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.686 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.688 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.693 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.695 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.701 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.703 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.705 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.708 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.719 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.721 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.724 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.727 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.733 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.735 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.740 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.742 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.748 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.751 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.753 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.755 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.759 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.765 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.767 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.769 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.772 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.775 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.787 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.790 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.796 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.798 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.800 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.803 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.808 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.813 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.815 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.817 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.819 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.821 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.829 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.832 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.834 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.836 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.838 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.845 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.850 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.853 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.860 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.862 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.864 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.867 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.872 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.878 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.880 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.883 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.885 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.891 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.895 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.898 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.900 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.907 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.910 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.913 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.921 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.924 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.927 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.930 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.932 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.936 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.940 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.942 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.945 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.947 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.954 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.956 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.960 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.964 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.970 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:04.972 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.974 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:04.976 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:04.981 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:04.991 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:04.997 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.004 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.006 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.008 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.014 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.017 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.019 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.021 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.026 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.027 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.033 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.037 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.039 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.041 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.050 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.052 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.055 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.060 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.064 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.067 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.071 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.075 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.077 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.082 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.084 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.086 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.088 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.094 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.097 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.101 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.103 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.110 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.112 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.114 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.116 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.120 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.127 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.129 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.132 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.135 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.143 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.148 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.151 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.153 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.159 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.161 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.164 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.168 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.174 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.177 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.179 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.181 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.183 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.190 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.193 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.195 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.197 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.200 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.210 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.215 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.222 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.224 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.227 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.229 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.231 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.237 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.240 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.242 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.245 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.247 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.250 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.257 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.259 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.261 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.263 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.270 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.272 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.277 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.279 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.284 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.287 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.290 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.292 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.298 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.304 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.306 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.308 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.310 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.313 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.322 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.324 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.326 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.328 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.334 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.336 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.340 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.342 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.345 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.352 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.355 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.360 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.369 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.371 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.373 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.375 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.382 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.384 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.388 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.391 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.393 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.399 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.402 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.404 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.408 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.415 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.417 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.420 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.422 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.424 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.435 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.437 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.439 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.447 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.450 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.452 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.456 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.462 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.465 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.467 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.470 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.473 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.482 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.484 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.486 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.489 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.497 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.501 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.507 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.513 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.517 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.519 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.523 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.530 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.534 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.537 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.543 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.546 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.548 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.550 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.556 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.561 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.563 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.566 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.568 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.578 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.583 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.589 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.591 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.594 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.596 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.599 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.603 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.610 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.613 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.615 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.618 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.623 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.627 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.629 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.631 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.640 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.643 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.646 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.650 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.656 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.658 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.661 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.663 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.670 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.675 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.678 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.680 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.686 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.688 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.690 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.694 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.701 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.704 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.710 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.707 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.721 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.724 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.726 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.734 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.736 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.738 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.743 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.745 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.747 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.749 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.752 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.754 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.758 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.765 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.767 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.769 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.771 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.773 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.784 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.787 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.791 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.796 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.798 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.801 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.804 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.811 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.814 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.816 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.818 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.820 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.827 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.830 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.832 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.834 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.836 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.844 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.848 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.852 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.856 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.859 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.862 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.864 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.869 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.876 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.878 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.880 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.883 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.890 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.894 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.896 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.898 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.905 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.907 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.909 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.913 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.920 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.924 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.927 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.931 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.937 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.941 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.944 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.946 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.954 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.956 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.958 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.963 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.969 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.971 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:05.973 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.975 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:05.978 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:05.988 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:05.990 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:05.994 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.003 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.005 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.007 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.014 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.018 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.021 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.023 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.025 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.029 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.034 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.036 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.038 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.040 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.042 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.050 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.054 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.056 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.059 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.069 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.071 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.073 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.083 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.087 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.089 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.098 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.101 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.103 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.107 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.115 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.117 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.119 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.121 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.124 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.128 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.131 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.133 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.135 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.146 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.148 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.153 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.159 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.161 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.164 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.166 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.168 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.174 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.176 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.178 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.181 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.183 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.190 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.194 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.196 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.198 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.205 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.207 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.210 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.217 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.219 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.222 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.224 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.227 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.229 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.234 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.240 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.242 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.245 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.247 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.253 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.257 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.260 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.262 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.265 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.267 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.269 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.274 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.277 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.279 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.287 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.289 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.292 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.298 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.301 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.303 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.305 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.308 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.310 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.316 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.319 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.321 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.322 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.325 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.327 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.336 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.338 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.340 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.342 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.351 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.354 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.360 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.367 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.370 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.372 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.374 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.381 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.385 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.388 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.390 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.392 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.399 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.402 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.406 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.414 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.416 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.419 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.423 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.432 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.436 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.438 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.446 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.448 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.450 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.452 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.457 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.463 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.465 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.467 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.469 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.475 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.479 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.481 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.484 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.486 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.497 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.499 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.505 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.512 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.514 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.517 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.521 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.523 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.528 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.530 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.532 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.539 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.541 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.543 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.548 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.550 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.556 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.560 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.562 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.567 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.574 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.576 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.578 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.581 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.587 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.589 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.593 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.595 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.599 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.604 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.606 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.608 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.612 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.619 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.622 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.626 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.633 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.637 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.642 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.645 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.651 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.653 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.655 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.657 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.662 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.664 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.666 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.668 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.670 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.673 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.679 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.683 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.685 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.688 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.698 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.701 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.709 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.714 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.717 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.719 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.723 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.728 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.733 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.736 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.743 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.746 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.748 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.750 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.755 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.762 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.765 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.769 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.777 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.779 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.783 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.790 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.793 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.795 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.797 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.799 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.807 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.810 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.812 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.814 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.821 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.823 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.828 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.831 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.841 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.845 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.848 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.855 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.862 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.875 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.878 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.885 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.887 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.890 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.894 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.903 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.906 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.910 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.918 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.922 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.931 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.936 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.939 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.944 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.951 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.956 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.968 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.971 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.974 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:06.979 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:06.982 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:06.985 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:06.991 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:06.997 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.000 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.003 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.010 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.013 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.017 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.020 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.024 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.027 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.030 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.033 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.039 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.041 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.044 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.048 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.051 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.054 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.058 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.060 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.063 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.065 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.072 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.075 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.079 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.087 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.089 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.092 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.094 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.096 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.105 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.108 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.110 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.120 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.125 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.136 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.141 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.150 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.154 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.157 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.162 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.166 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.176 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.185 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.196 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.199 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.203 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.207 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.213 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.216 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.219 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.228 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.231 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.234 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.245 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.247 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.250 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.255 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.258 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.263 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.270 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.278 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.282 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.291 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.294 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.297 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.303 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.306 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.308 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.311 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.318 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.322 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.329 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.336 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.338 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.341 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.343 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.348 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.353 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.356 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.359 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.366 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.368 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.370 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.374 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.383 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.385 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.388 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.390 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.393 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.397 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.399 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.401 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.403 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.405 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.409 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.416 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.418 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.420 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.422 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.428 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.430 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.434 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.437 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.439 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.446 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.450 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.453 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.464 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.466 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.468 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.472 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.477 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.479 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.483 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.485 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.491 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.493 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.495 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.498 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.501 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.509 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.512 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.515 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.518 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.523 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.528 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.530 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.532 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.536 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.540 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.542 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.546 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.548 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.554 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.556 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.558 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.560 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.564 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.574 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.576 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.578 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.581 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.587 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.590 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.593 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.595 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.598 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.603 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.606 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.610 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.612 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.619 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.621 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.623 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.625 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.631 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.639 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.642 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.644 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.650 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.652 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.656 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.658 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.662 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.664 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.666 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.668 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.672 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.674 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.681 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.683 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.685 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.687 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.692 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.700 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.703 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.705 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.713 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.716 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.720 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.722 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.728 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.731 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.733 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.735 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.739 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.745 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.747 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.749 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.751 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.753 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.761 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.765 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.768 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.770 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.777 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.779 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.783 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.785 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.792 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.795 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.797 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.800 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.805 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.810 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.812 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.814 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.817 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.825 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.831 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.836 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.838 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.841 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.844 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.849 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.861 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.863 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.870 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.872 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.874 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.877 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.882 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.885 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.886 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.889 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.894 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.896 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.902 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.906 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.908 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.910 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.920 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.923 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.927 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.936 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.938 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.940 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.942 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.948 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.950 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.954 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.956 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.960 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.962 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.964 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.966 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.969 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:07.971 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.975 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:07.981 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:07.984 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:07.987 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:07.998 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.000 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.003 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.005 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.012 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.014 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.018 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.020 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.027 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.029 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.031 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.033 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.038 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.044 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.046 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.048 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.050 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.053 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.064 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.067 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.074 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.077 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.079 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.081 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.086 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.091 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.094 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.096 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.098 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.100 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.109 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.112 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.114 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.116 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.122 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.125 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.131 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.139 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.142 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.144 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.146 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.149 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.158 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.161 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.174 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.164 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.194 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.201 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.204 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.209 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.211 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.217 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.219 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.221 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.224 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.233 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.236 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.239 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.242 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.246 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.249 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.254 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.256 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.259 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.263 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.265 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.268 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.272 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.276 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.281 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.284 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.286 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.288 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.301 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.304 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.314 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.317 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.320 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.327 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.331 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.334 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.336 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.343 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.346 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.348 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.352 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.359 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.361 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.363 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.365 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.367 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.379 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.382 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.384 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.390 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.392 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.394 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.398 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.400 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.404 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.406 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.409 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.411 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.414 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.419 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.423 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.426 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.428 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.431 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.441 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.444 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.446 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.450 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.455 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.457 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.462 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.464 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.470 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.472 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.475 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.477 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.483 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.489 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.491 | DEBUG    | petC:move:424 - moving green
+2023-08-09 16:02:08.494 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.501 | DEBUG    | petC:move:401 - moving green
+2023-08-09 16:02:08.503 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.508 | WARNING  | petC:inRect:294 - in rect
+2023-08-09 16:02:08.511 | DEBUG    | __main__:run:124 - moveSignal emit
+2023-08-09 16:02:08.517 | ERROR    | petC:move:419 - move out
+2023-08-09 16:02:08.519 | DEBUG    | __main__:run:125 - move thread running
+2023-08-09 16:02:08.521 | ERROR    | petC:move:420 - nowPos:pos(x=-4, y=540),Δx:1924,Δy:540

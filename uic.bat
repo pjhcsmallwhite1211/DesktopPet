@@ -1,0 +1,1 @@
+D:\Desktop\python\DesktopPet\venv\Scripts\pyuic5.exe %1.ui -o %1.py

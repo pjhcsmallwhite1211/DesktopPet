@@ -1,346 +1,214 @@
-import random
-import threading
+from pprint import pprint
+import sys
 import time
-from dataclasses import dataclass
-
-from PyQt5.QtCore import pyqtSignal, QObject
+from PyQt5.QtCore import pyqtSignal, QObject, QThread
 from PyQt5.QtGui import QCursor, QMouseEvent
 from PyQt5.QtWidgets import QMainWindow
 from loguru import logger
-from PyQt5 import Qt, QtGui  # PyQt5 相关
-
+from PyQt5 import Qt, QtGui  # type: ignore # PyQt5 相关
 import pet
-import signalBin
-import AI
-import speak_box
-
-
-class SpeakBox(object):
-    def __init__(self, str, parent):
-        self.mainWindow = QMainWindow()
-        self.ui = speak_box.Ui_Form()
-        self.ui.setupUi(self.mainWindow)
-        self.parent = parent
-        self.mainWindow.setWindowFlags(Qt.Qt.FramelessWindowHint)
-        self.mainWindow.setAttribute(Qt.Qt.WA_TranslucentBackground)
-        self.ui.text.setText(str)
-        self.mainWindow.closeEvent=self.hide
-        self.ui.textEdit.textChanged.connect(lambda :self.input(self.ui.textEdit.text()))
-    def getText(self):
-
-        if "/end/" in self.ui.textEdit.text():
-            return self.ui.textEdit.text().replace("/end/","")
-        return self.ui.textEdit.text()
-
-    def input(self,text):
-        if "/end/" in text:
-            self.parent.speak(0, text=text.replace("/end/", ""))
-            logger.info(f"type:{type(text)},text:{text}")
-            return
-        logger.info(f"type:{type(text)},text:{text}")
-
-    def alignment(self):
-
-        self.mainWindow.move(int(self.parent.nowPos.x),
-                             int(self.parent.nowPos.y - self.mainWindow.height()))
-    def show(self):
-        self.alignment()
-        self.mainWindow.show()
-
-    def hide(self,a=0):
-        self.mainWindow.hide()
-
+from libs import *
+from NLP import *
 
 class Pet(QObject):
-    # 使用 dataclass 装饰器来定义一个简单的类，包含 x 和 y 属性
-    @dataclass
-    class pos:
-        """
-        主界面坐标信息
-        """
-        x: float = 0
-        y: float = 0
-
-    @dataclass
-    class rect:
-        left_top_x: float
-        left_top_y: float
-        right_bottom_x: float
-        right_bottom_y: float
-    returnSignal = pyqtSignal(str)
-
-    def __init__(self):
+    returnSignal=pyqtSignal(str)
+    def __init__(self, id, num,):
         super().__init__()
+        # cache
+        self.mousePos_toWindow = pos(0, 0)
+        self.mouseButtonDown = False
+        center=getattr(values, "CENTER")
+        self.isSpeaking = False
+        # attribute
+        self.item = ""
+        self.face = "face_happy"
+        self.feet="foot_stand"
+        self.status="stand"
+        self.pos = pos(center.x, center.y)
+        self.isLive = True
+        self.taskList:list[task] = []
+        self.runTime=0
+        self.generator=Generator()
+        # init
         self.mainWindow = QMainWindow()
         self.ui = pet.Ui_Form()
         self.ui.setupUi(self.mainWindow)
-        self.main = None
-        signalBin.signalBin.getMain.emit(self)
-        self.id = ["slime", "red", "orange", "yellow", "green", "blue", "purple"][len(self.main.pets)]
-        self.width = self.main.app.desktop().size().width()
-        self.height = self.main.app.desktop().size().height()
-        self.nowPos = self.pos(int(self.width / 2), int(self.height / 2))  # 当前位置
-        self.home = self.pos(0, 0)  # 固定在左上角的位置
-        self.center = self.pos(int(self.width / 2), int(self.height / 2))  # 屏幕中心位置
-        self.__bottom = self.pos(0, self.height - 120)  # 屏幕底部位置
-
+        self.id = id
+        self.ui.pet.setPixmap(
+            QtGui.QPixmap(
+                f"resources/image/{['icon.png', 'icon1.png', 'icon2.png', 'icon3.png', 'icon4.png', 'icon5.png', 'icon6.png'][num]}"
+                # type: ignore
+            )
+        )  # type: ignore # type: ignore
         self.mainWindow.setWindowFlags(Qt.Qt.FramelessWindowHint)
         self.mainWindow.setAttribute(Qt.Qt.WA_TranslucentBackground)
-        self.ui.pet.setPixmap(QtGui.QPixmap(
-            f"resources/image/{['icon.png', 'icon1.png', 'icon2.png', 'icon3.png', 'icon4.png', 'icon5.png', 'icon6.png'][len(self.main.pets)]}"))
-        self.face = "face_happy"
-        self.feet = "foot_stand"
+
+        self.mainWindow.mousePressEvent = self.mousePressEvent  # type: ignore
+        self.mainWindow.mouseMoveEvent = self.mouseMoveEvent  # type: ignore
+        self.mainWindow.mouseReleaseEvent = self.mouseReleaseEvent  # type: ignore
+
         self.mainWindow.show()
-        self.setMouseEvent()
-        self.active = True
-        self.speed = 5
-        self.initAI()
-        self.now_status = "stand"
-
-        # 创建屏幕角落的坐标
-        self.bottom_left = self.pos(0, self.height)
-        self.bottom_right = self.pos(self.width, self.height)
-        self.top_left = self.pos(0, 0)
-        self.top_right = self.pos(self.width, 0)
-        # 生成rect
-        self.rect_bottom_left = self.rect(self.bottom_left.x, self.bottom_left.y - 180, self.bottom_left.x + 180,
-                                          self.bottom_left.y)
-        self.rect_bottom_right = self.rect(self.bottom_right.x - 180, self.bottom_right.y - 180, self.bottom_right.x,
-                                           self.bottom_right.y)
-        self.rect_top_left = self.rect(self.top_left.x, self.top_left.y, self.top_left.x + 180, self.top_left.y + 180)
-        self.rect_top_right = self.rect(self.top_right.x - 180, self.top_right.y, self.top_right.x,
-                                        self.top_right.y + 180)
-        self.all = self.rect(0, 0, self.width, self.height)
-        self.speakBox = SpeakBox("hello /end/", self)
+        self.move(center)
+        self.taskList.append(task(self.moveLogic,type="moveLogic",tag="logicCalculator"))
+        self.taskList.append(task(self.speakLogic,type="speakLogic",tag="logicCalculator"))
+        self.returnSignal.connect(self.speak)
+        self.generator.init()
+    def speak(self,text):
+        logger.info(f"speak {text}")
         self.isSpeaking=False
-    def changeStatus(self, status):
-        self.now_status = status
+    def speakLogic(self,_task=None):
+        if random.randint(0,1000)>=10 and self.isSpeaking:
+            return
+        self.isSpeaking=True
+        
+        nlpSystem.addNLPTask("hello",self.returnSignal,self.generator)
+    def moveLogic(self,_task=None):
+        a=random.randint(0,1000)
+        existingTypes=[]
+        for i in self.taskList:
+            existingTypes.append(i.infos["tag"])
+        if a!=0 and ("playMode"in existingTypes or "stand" in existingTypes):
+            return
+        # print(bool(self.taskList))
+        # print(not self.taskList)
+        width:int = getattr(values,'SCREEN_WIDTH')
+        height:int = getattr(values,"SCREEN_HEIGHT")
+        rect_bottom_left=getattr(values, "RECT_BOTTOM_LEFT")
+        rect_bottom_right = getattr(values, "RECT_BOTTOM_RIGHT")
+        if self.status == "playMode":
+            self.taskList.extend(changeTo_move_step(task(self.moveTaskFunction,
+                                      lambda task: task.infos['distance']<=0,
+                                      type="move_endpoint",
+                                      speed=2,
+                                      endpoint=pos(random.randint(0, width), random.randint(0, height)),
+                                      tag = "playMode"
+                                      ),self))
 
-    def changeItem(self, item):
-        """
-        切换 item 图片
-        """
+        elif self.status == "stand":
+            if not inRect(self,rect_bottom_left) or inRect(self,rect_bottom_right):
+                self.taskList.extend(changeTo_move_step(task(self.moveTaskFunction,
+                                      lambda task: task.infos['distance']<=0,
+                                      type="move_endpoint",
+                                      speed=2,
+                                      endpoint=random.choice([
+                                        pos(0, height - 50 - 120),
+                                        pos(width - 120, height - 50 - 120)
+                                        ]),
+                                      tag="stand"
+                                      ),self))
+        
 
-        self.ui.item.setPixmap(QtGui.QPixmap(f":/image/image/{item}"))  # 切换 item 图片
+    def awaken(self):
+        if self.mouseButtonDown:
+            return 
+        # if self.runTime%10==5:
+            # logger.info("")
+            # pprint(self.taskList)
+            # print(len(self.taskList))
+        executedTypes=[]
+        for task in self.taskList:
+            if task.infos['type'] in executedTypes:
+                continue
+            task.run_(task,) # type: ignore
+            # logger.debug(task.ifRemove(task,))
+            if task.ifRemove(task,):
+                self.taskList.remove(task)
+                # logger.debug("run del")
+                # pprint(self.taskList)
+                continue
+            executedTypes.append(task.infos["type"])
+        # pprint(self.taskList)
 
-    def updataFace(self):
-        self.ui.face.setPixmap(QtGui.QPixmap(f"resources/image/{self.face}.png"))
 
-    def setFace(self, face):
+
+        self.runTime+=1
+    def moveTaskFunction(self,task:task):
+        type=task.infos["type"]
+        speed = task.infos["speed"]
+        if type == "move_step":
+            distance = task.infos["distance"]
+            direction = task.infos["direction"]
+            if distance>=speed:
+                direction_dict = {
+                    "north": (0, -speed),
+                    "south": (0, speed),
+                    "east": (speed, 0),
+                    "west": (-speed, 0),
+                }
+                self.pos.x += direction_dict[direction][0]
+                self.pos.y += direction_dict[direction][1]
+                distance-=speed
+            elif distance <= speed:
+                direction_dict = {
+                    "north": (0, -distance),
+                    "south": (0, distance),
+                    "east": (distance, 0),
+                    "west": (-distance, 0),
+                }
+                self.pos.x += direction_dict[direction][0]
+                self.pos.y += direction_dict[direction][1]
+                distance = 0
+            task.infos["distance"] = distance
+        self.move(self.pos)
+
+            
+    def changeStatus(self, status:str):
+        self.status = status
+        
+
+
+
+
+    def changeFace(self, face:str):
+        if face == "cmd-updata":
+            self.ui.face.setPixmap(QtGui.QPixmap(f"resources/image/{self.face}.png"))
+            return
         self.face = face
-        self.updataFace()
-
-    def updataFeet(self):
-        self.ui.feet.setPixmap(QtGui.QPixmap(f"resources/image/{self.feet}.png"))
-
-    def setFeet(self, feet):
+        self.ui.face.setPixmap(QtGui.QPixmap(f"resources/image/{face}.png"))
+    def changeFeet(self, feet:str):
+        if feet == "cmd-updata":
+            self.ui.feet.setPixmap(QtGui.QPixmap(f"resources/image/{self.feet}.png"))
+            return
         self.feet = feet
-        self.updataFeet()
+        self.ui.feet.setPixmap(QtGui.QPixmap(f"resources/image/{feet}.png"))
+                                                                    
+    def changeItem(self, item:str):
+        self.item = item
+        if item.split(".")[-1] == "png":
+            self.ui.item.setPixmap(QtGui.QPixmap(f"resources/image/{item}"))
+        elif item.split(".")[-1] != "png":
+            self.ui.item.setPixmap(QtGui.QPixmap(f"resources/image/{item}.png"))
 
-    def mainWindow_re__mousePressEvent(self, event: QMouseEvent = None):
-        logger.info(f"mainWindow_re__mousePressEvent running--- {self.id}")
-        #
-        self.mouseButtonDown = True
-        self.mousePos_toWindow = self.pos(event.pos().x(), event.pos().y())
-        self.setFace("face___")
-        #
-        logger.info(
-            f"{self.id} mouseButtonDown changed: {self.mouseButtonDown}, mousePos_toWindow changed: {self.pos(event.pos().x(), event.pos().y())}\n")
-
-    def mainWindow_re__mouseReleaseEvent(self, event: QMouseEvent = None):
-        logger.info(f"mainWindow_re__mouseReleaseEvent running--- {self.id}")
-        #
-        self.mouseButtonDown = False
-        self.mousePos_toWindow = self.pos(0, 0)
-        pos = QCursor.pos()
-        self.nowPos = self.pos(pos.x() - self.mousePos_toWindow.x, pos.y() - self.mousePos_toWindow.y)
-        self.setFace("face_happy")
-
-        logger.info(f"{self.id} mouseButtonDown changed: {self.mouseButtonDown}\n")
-
-    def mainWindow_re__mouseMoveEvent(self, event):
-        logger.info(f"mainWindow_re__mouseMoveEvent running--- {self.id}")
-        #
-        self.mouseButtonDown = False
-        pos = QCursor.pos()
-        window_pos = self.mousePos_toWindow
-        logger.info(f"mouse pos: ({pos.x()}, {pos.y()}) id: {self.id}")
-        logger.info(f"mouse pos window: ({window_pos.x}, {window_pos.y}) id: {self.id}")
-        logger.info(f"mouse pos move to: ({pos.x() - window_pos.x}, {pos.y() - window_pos.y}) id: {self.id}")
-        self.moveMainWindow(self.pos(pos.x() - window_pos.x, pos.y() - window_pos.y))
-
-        logger.info(f"{self.id} mouseButtonDown changed: {self.mouseButtonDown}\n")
-
-    def setMouseEvent(self):
-        logger.info(f"setMouseEvent running--- {self.id}")
-        self.mousePos_toWindow = self.pos(0, 0)
-        self.mainWindow.mousePressEvent = self.mainWindow_re__mousePressEvent
-        self.mainWindow.mouseMoveEvent = self.mainWindow_re__mouseMoveEvent
-        self.mainWindow.mouseReleaseEvent = self.mainWindow_re__mouseReleaseEvent
-        logger.info("\n")
-
-    def hide(self):
-        logger.info(f"{self.id} hide")
-        self.mainWindow.hide()
-        self.speakBox.hide()
-        self.active = False
+    def move(self, pos:pos):
+        self.mainWindow.move(int(pos.x), int(pos.y))
+        self.pos=pos
 
     def show(self):
-        logger.info(f"{self.id} show")
+        self.isLive = True
         self.mainWindow.show()
-        self.speakBox.show()
-        self.active = True
 
-    def moveMainWindow(self, pos):
-        # logger.info(f"moveMainWindow running --- {self.id}, move to: {pos}, time: {time.time()}")
-        self.mainWindow.move(int(pos.x), int(pos.y))
-        self.nowPos = self.pos(pos.x, pos.y)
-        # logger.info(f"\n time: {time.time()}")
+    def hide(self):
+        self.isLive = False
+        self.mainWindow.hide()
 
-    def walkFlash(self, var):
-        if var % 5 == 0:
-            self.setFeet("foot_right")
-            self.ui.feet.repaint()
-        elif var % 5 == 3:
-            self.setFeet("foot_left")
-            self.ui.feet.repaint()
+    # override
+    def mousePressEvent(self, event: QMouseEvent) -> None:
+        self.mouseButtonDown = True
+        self.mousePos_toWindow = pos(event.pos().x(), event.pos().y())
+        self.changeFace("face___")
 
-    def moveStep(self, direction, distance, command):
-        # logger.info(
-        #     f"""moveStep running --- {self.id}:
-        #             direction: {direction},
-        #             distance: {distance}
-        #             cycle:{self.speed * distance},
-        #             Δ_plus:{1 / self.speed},
-        #             time: {time.time()},
-        #             speed:  {self.speed},
-        #             nowPos: {self.nowPos},
-        #             height: {self.height},
-        #             width: {self.width},
-        #             status: {self.now_status},
-        #             command: {command}
-        #
-        #
-        #     """)
-        aStep = 0
+    # override
+    def mouseMoveEvent(self, event: QMouseEvent) -> None:
+        curPos = QCursor.pos()
+        windowPos = self.mousePos_toWindow
+        self.move(pos(curPos.x() - windowPos.x, curPos.y() - windowPos.y))
 
-        direction_dict = {
-            "north": (0, -1 / self.speed),
-            "south": (0, 1 / self.speed),
-            "east": (1 / self.speed, 0),
-            "west": (-1 / self.speed, 0)
-        }
-        for i in range(int(self.speed * distance)):
-            self.nowPos.x += direction_dict[direction][0]
-            self.nowPos.y += direction_dict[direction][1]
-            self.nowPos.x = round(self.nowPos.x, 1)
-            self.nowPos.y = round(self.nowPos.y, 1)
-
-            aStep += 1
-            # time.sleep(0.000001)
-            self.moveMainWindow(self.nowPos)
-            self.walkFlash(aStep)
-        # logger.info(
-        #     f"aStep:{aStep},move:{(direction_dict[direction][0] * aStep, direction_dict[direction][1] * aStep)},change:{aStep // 5}")
-
-        if not self.inRect(self.all):
-            logger.error("move out")
-            logger.error(f"nowPos:{self.nowPos},Δx:{1920 - self.nowPos.x},Δy:{self.nowPos.y}")
-            raise Exception(f"Out of range")
-
-    def bottomPosUpdate(self):
-        self.__bottom = self.pos(self.nowPos.x, self.height - 120)
-        return self.__bottom
-
-    def inRect(self, rect):
-        # logger.info(f"""
-        #     inRect running --- {self.id}, {rect}:
-        #         rect.left_top_x: {rect.left_top_x},
-        #         self.nowPos.x: {self.nowPos.x},
-        #         rect.right_bottom_x: {rect.right_bottom_x},
-        #         rect.left_top_y: {rect.left_top_y},
-        #         self.nowPos.y: {self.nowPos.y},
-        #         rect.right_bottom_y: {rect.right_bottom_y}
-        #         rect.id: {id(rect)}
-        #         self.all.id: {id(self.all)},
-        #         self.rect_top_right.id: {id(self.rect_top_right)},
-        #         self.rect_bottom_left.id: {id(self.rect_bottom_left)}
-        #         self.rect_top_left.id: {id(self.rect_top_right)}
-        #         self.rect_bottom_right.id: {id(self.rect_bottom_right)}
-        # """)
-        # logger.info(f"""
-        #         rect.left_top_x <= self.nowPos.x <= rect.right_bottom_x 的值: {rect.left_top_x <= self.nowPos.x <= rect.right_bottom_x},
-        #         rect.left_top_y <= self.nowPos.y <= rect.right_bottom_y 的值: {rect.left_top_y <= self.nowPos.y <= rect.right_bottom_y}
-        # """)
-        if rect.left_top_x <= self.nowPos.x <= rect.right_bottom_x and rect.left_top_y <= self.nowPos.y <= rect.right_bottom_y:
-            return True
-
-    def walk(self, actuator):
-        logger.info(f'{self.id} walking')
-        if self.now_status == "playMode":
-            logger.debug(f"playing mode,{self.now_status}")
-            self.moveStep(random.choice(["east", 'south', 'north', 'west']), int(random.randint(700, 800)), 'p1')
-        elif self.now_status == "stand":
-            logger.debug(f"standing still,{self.now_status}")
-            if not self.inRect(self.rect_bottom_left) or self.inRect(self.rect_bottom_right):
-                self.moveStep("south", (self.height - 120) - self.nowPos.y, 's1')
-                self.moveStep("west", self.nowPos.x, 's2')
-        elif self.now_status == "workingMode":
-            logger.debug(f"working mode,{self.now_status}")
-            if self.inRect(self.rect_bottom_left):
-                direction = random.choice(["east", "north"])
-                self.moveStep(direction, random.randint({"north": 600, "east": 700}[direction],
-                                                        {"north": self.height, "east": self.width}[direction]), 'w1')
-            elif self.inRect(self.rect_bottom_right):
-                direction = random.choice(["west", "north"])
-                self.moveStep(direction, random.randint({"north": 600, "west": 700}[direction],
-                                                        {"north": self.height, "west": self.width}[direction]), 'w2')
-            elif self.inRect(self.rect_top_left) or self.inRect(self.rect_top_right):
-                self.moveStep("south", random.randint(int((self.height - self.nowPos.y) - 100 - 121),
-                                                      int((self.height - self.nowPos.y) - 121)), 'w3')
-            else:
-                self.moveStep("south", (self.height - 120) - self.nowPos.y, 'w4')
-                self.moveStep("west", self.nowPos.x, 'w5')
-        elif self.now_status=='stop':
-            pass
-        self.speakBox.alignment()
-
-    #
-    # @dataclass
-    # class rect:
-    #     left_top_x: float
-    #     left_top_y: float
-    #     left_bottom_x: float
-    #     left_bottom_y: float
-    #     right_bottom_x: float
-    #     right_bottom_y: float
-    #     right_top_x: float
-    #     right_top_y: float
-    def walk_condition(self, actuator):
-        if random.randint(0, 10) == 0:
-            return True
-
-    def speak_condition(self, actuator):
-        logger.debug(f"isSpeaking:{self.isSpeaking},isGeneratorOK:{self.main.isGeneratorOK}")
-        if random.randint(0, 50) == 0 and not self.isSpeaking and self.main.isGeneratorOK:
-            return True
-
-    def speak(self, actuator,**text):
-        if text=={}:
-            text['text']=self.speakBox.getText()
-        logger.info(f"{self.id} speaking,text:{text}")
-        self.isSpeaking=True
-        # self.threadSpeak = self.main.threadPool.submit(self.main.generator.generateText, self,"hello")
-        self.speak_UI(self.main.generator.generateText(self, text['text']))
-    def speak_UI(self, str):
-        logger.info(f"{self.id} speak_UI,\033[7;44m{str}\033[0m")
-        self.speakBox.ui.text.setText(str)
-        self.speakBox.show()
-
-    def initAI(self):
-        logger.info(f"{self.id} initAI running")
-        self.AI = AI.AI(self)
-        self.AI.add(AI.Actuators(self.walk, self.walk_condition, self.AI))
-        self.AI.add(AI.Actuators(self.speak, self.speak_condition, self.AI))
-        self.main.timerFuncs.append(self.main.Func(self.AI.makeDecisions, self))
-        self.returnSignal.connect(self.speak_UI)
+    # override
+    def mouseReleaseEvent(self, event: QMouseEvent) -> None:
+        self.mouseButtonDown = False
+        self.mousePos_toWindow = pos(0, 0)
+        curPos = QCursor.pos()
+        self.pos = pos(
+            curPos.x() - self.mousePos_toWindow.x, curPos.y() - self.mousePos_toWindow.y
+        )
+        self.changeFace("face_happy")

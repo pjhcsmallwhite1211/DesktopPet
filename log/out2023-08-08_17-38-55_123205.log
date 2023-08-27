@@ -1,0 +1,67 @@
+2023-08-08 17:38:55.133 | INFO     | __main__:__init__:127 - all init start
+2023-08-08 17:38:55.156 | INFO     | __main__:initTimerThread:158 - timer started
+2023-08-08 17:38:55.322 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- slime
+2023-08-08 17:38:55.325 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 17:38:55.327 | INFO     | petC:initAI:445 - slime initAI running
+2023-08-08 17:38:55.330 | INFO     | AI:__init__:57 - slime's AI init
+2023-08-08 17:38:55.332 | INFO     | AI:__init__:58 - infos:
+2023-08-08 17:38:55.334 | INFO     | AI:__init__:59 -     -id: slime_AI
+2023-08-08 17:38:55.365 | INFO     | petC:hide:199 - slime hide
+2023-08-08 17:38:55.384 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- red
+2023-08-08 17:38:55.388 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 17:38:55.391 | INFO     | petC:initAI:445 - red initAI running
+2023-08-08 17:38:55.393 | INFO     | AI:__init__:57 - red's AI init
+2023-08-08 17:38:55.396 | INFO     | AI:__init__:58 - infos:
+2023-08-08 17:38:55.398 | INFO     | AI:__init__:59 -     -id: red_AI
+2023-08-08 17:38:55.404 | INFO     | petC:hide:199 - red hide
+2023-08-08 17:38:55.422 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- orange
+2023-08-08 17:38:55.426 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 17:38:55.428 | INFO     | petC:initAI:445 - orange initAI running
+2023-08-08 17:38:55.433 | INFO     | AI:__init__:57 - orange's AI init
+2023-08-08 17:38:55.436 | INFO     | AI:__init__:58 - infos:
+2023-08-08 17:38:55.439 | INFO     | AI:__init__:59 -     -id: orange_AI
+2023-08-08 17:38:55.444 | INFO     | petC:hide:199 - orange hide
+2023-08-08 17:38:55.464 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- yellow
+2023-08-08 17:38:55.467 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 17:38:55.470 | INFO     | petC:initAI:445 - yellow initAI running
+2023-08-08 17:38:55.473 | INFO     | AI:__init__:57 - yellow's AI init
+2023-08-08 17:38:55.476 | INFO     | AI:__init__:58 - infos:
+2023-08-08 17:38:55.480 | INFO     | AI:__init__:59 -     -id: yellow_AI
+2023-08-08 17:38:55.486 | INFO     | petC:hide:199 - yellow hide
+2023-08-08 17:38:55.504 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- green
+2023-08-08 17:38:55.508 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 17:38:55.511 | INFO     | petC:initAI:445 - green initAI running
+2023-08-08 17:38:55.514 | INFO     | AI:__init__:57 - green's AI init
+2023-08-08 17:38:55.517 | INFO     | AI:__init__:58 - infos:
+2023-08-08 17:38:55.520 | INFO     | AI:__init__:59 -     -id: green_AI
+2023-08-08 17:38:55.524 | INFO     | petC:hide:199 - green hide
+2023-08-08 17:38:55.573 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- blue
+2023-08-08 17:38:55.578 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 17:38:55.585 | INFO     | petC:initAI:445 - blue initAI running
+2023-08-08 17:38:55.590 | INFO     | AI:__init__:57 - blue's AI init
+2023-08-08 17:38:55.598 | INFO     | AI:__init__:58 - infos:
+2023-08-08 17:38:55.602 | INFO     | AI:__init__:59 -     -id: blue_AI
+2023-08-08 17:38:55.607 | INFO     | petC:hide:199 - blue hide
+2023-08-08 17:38:55.638 | INFO     | petC:setMouseEvent:191 - setMouseEvent running--- purple
+2023-08-08 17:38:55.642 | INFO     | petC:setMouseEvent:196 - 
+
+2023-08-08 17:38:55.647 | INFO     | petC:initAI:445 - purple initAI running
+2023-08-08 17:38:55.653 | INFO     | AI:__init__:57 - purple's AI init
+2023-08-08 17:38:55.659 | INFO     | AI:__init__:58 - infos:
+2023-08-08 17:38:55.662 | INFO     | AI:__init__:59 -     -id: purple_AI
+2023-08-08 17:38:55.671 | INFO     | petC:hide:199 - purple hide
+2023-08-08 17:38:55.680 | INFO     | __main__:initMoveThread:151 - Move started
+2023-08-08 17:38:56.176 | INFO     | __main__:initGenerator:145 - NLP started
+2023-08-08 17:38:56.635 | INFO     | __main__:initCtrlWindow:164 - init CtrlWindow
+2023-08-08 17:38:58.113 | INFO     | ctrlWindow:__init__:21 - <__main__.Main object at 0x000001A71723A950>
+2023-08-08 17:38:58.642 | INFO     | ctrlWindow:initEvents:31 - init Events
+2023-08-08 17:38:59.672 | INFO     | __main__:initSysMenu:178 - initSysMenu
+2023-08-08 17:39:06.411 | INFO     | petC:show:205 - green show
+2023-08-08 17:39:06.943 | DEBUG    | petC:getLogic:316 - standing still,stand
+2023-08-08 17:39:07.129 | WARNING  | petC:inRect:294 - in rect

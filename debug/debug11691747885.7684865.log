@@ -1,0 +1,17 @@
+Source path:... D:\Desktop\python\DesktopPet\main.py
+Starting var:.. self = <__main__.EventThread object at 0x000002B8185FE3B0>
+17:58:05.798610 call        29     def run(self):
+17:58:05.957613 line        30         while self.isLive:
+17:58:05.981613 line        31             self.getTasks.emit(self)
+17:58:05.983612 line        34             for task in self.tasks:
+17:58:06.007613 line        30         while self.isLive:
+17:58:06.039830 line        31             self.getTasks.emit(self)
+17:58:06.041829 line        34             for task in self.tasks:
+17:58:06.072829 line        30         while self.isLive:
+17:58:06.074829 line        31             self.getTasks.emit(self)
+17:58:06.099829 line        34             for task in self.tasks:
+17:58:06.106830 line        30         while self.isLive:
+17:58:06.816136 line        31             self.getTasks.emit(self)
+17:58:06.817135 line        34             for task in self.tasks:
+17:58:06.818137 line        30         while self.isLive:
+17:58:06.819134 line        31             self.getTasks.emit(self)

@@ -53,7 +53,7 @@
   <include location="resources/test.qrc"/>
   <include location="resources/test.qrc"/>
   <include location="resources/test.qrc"/>
-  <include location="C:/Users/feibai/.designer/backup/resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
  </resources>
  <connections/>
 </ui>

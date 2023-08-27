@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>268</width>
-    <height>134</height>
+    <width>382</width>
+    <height>221</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,105 +17,13 @@
    <iconset resource="resources/test.qrc">
     <normaloff>:/icon/image/icon.png</normaloff>:/icon/image/icon.png</iconset>
   </property>
-  <widget class="QLabel" name="box_r">
+  <widget class="QTextEdit" name="textEdit">
    <property name="geometry">
     <rect>
-     <x>240</x>
-     <y>20</y>
-     <width>20</width>
-     <height>80</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="pixmap">
-    <pixmap resource="resources/test.qrc">:/ui/image/speak_box_r_h.png</pixmap>
-   </property>
-   <property name="scaledContents">
-    <bool>true</bool>
-   </property>
-  </widget>
-  <widget class="QLabel" name="box_l">
-   <property name="geometry">
-    <rect>
-     <x>20</x>
-     <y>20</y>
-     <width>21</width>
-     <height>80</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="pixmap">
-    <pixmap resource="resources/test.qrc">:/ui/image/speak_box_l_h.png</pixmap>
-   </property>
-   <property name="scaledContents">
-    <bool>true</bool>
-   </property>
-  </widget>
-  <widget class="QLabel" name="box_b">
-   <property name="geometry">
-    <rect>
-     <x>39</x>
-     <y>20</y>
-     <width>201</width>
-     <height>80</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="pixmap">
-    <pixmap resource="resources/test.qrc">:/ui/image/speak_box.png</pixmap>
-   </property>
-   <property name="scaledContents">
-    <bool>true</bool>
-   </property>
-  </widget>
-  <widget class="QLabel" name="text">
-   <property name="geometry">
-    <rect>
-     <x>40</x>
-     <y>28</y>
-     <width>201</width>
-     <height>56</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <weight>75</weight>
-     <bold>true</bold>
-     <stylestrategy>NoAntialias</stylestrategy>
-    </font>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">color: rgb(0, 0, 255);</string>
-   </property>
-   <property name="midLineWidth">
-    <number>11</number>
-   </property>
-   <property name="text">
-    <string>askdjijaiooooisdijaijdijoajaodijsijaoijdoiajo</string>
-   </property>
-   <property name="textFormat">
-    <enum>Qt::MarkdownText</enum>
-   </property>
-   <property name="alignment">
-    <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
-   </property>
-   <property name="wordWrap">
-    <bool>true</bool>
-   </property>
-  </widget>
-  <widget class="QLineEdit" name="textEdit">
-   <property name="geometry">
-    <rect>
-     <x>20</x>
-     <y>100</y>
-     <width>241</width>
-     <height>31</height>
+     <x>0</x>
+     <y>0</y>
+     <width>381</width>
+     <height>221</height>
     </rect>
    </property>
   </widget>
@@ -123,7 +31,7 @@
  <resources>
   <include location="resources/test.qrc"/>
   <include location="resources/test.qrc"/>
-  <include location="C:/Users/feibai/.designer/backup/resources/test.qrc"/>
+  <include location="resources/test.qrc"/>
  </resources>
  <connections/>
 </ui>

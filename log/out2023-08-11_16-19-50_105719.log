@@ -1,0 +1,6 @@
+2023-08-11 16:19:50.113 | INFO     | __main__:__init__:120 - all init start
+2023-08-11 16:19:50.337 | INFO     | petC:setMouseEvent:219 - setMouseEvent running--- slime
+2023-08-11 16:19:50.345 | INFO     | petC:setMouseEvent:224 - 
+
+2023-08-11 16:19:50.345 | INFO     | petC:initAI:419 - slime initAI running
+2023-08-11 16:19:50.385 | INFO     | petC:hide:227 - slime hide

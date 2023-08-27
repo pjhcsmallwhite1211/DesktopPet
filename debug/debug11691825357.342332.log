@@ -1,0 +1,1278 @@
+Source path:... D:\Desktop\python\DesktopPet\main.py
+Starting var:.. self = <__main__.EventThread object at 0x000001DFBBFAE3B0>
+15:29:17.369332 call        29     def run(self):
+15:29:17.473168 line        30         while self.isLive:
+15:29:17.474170 line        31             self.getTasks.emit(self)
+15:29:17.474170 line        34             for task in self.tasks:
+15:29:17.475163 line        30         while self.isLive:
+15:29:17.475163 line        31             self.getTasks.emit(self)
+15:29:17.493163 line        34             for task in self.tasks:
+15:29:17.495170 line        30         while self.isLive:
+15:29:17.496162 line        31             self.getTasks.emit(self)
+15:29:17.506164 line        34             for task in self.tasks:
+15:29:17.507165 line        30         while self.isLive:
+15:29:17.507165 line        31             self.getTasks.emit(self)
+15:29:17.508165 line        34             for task in self.tasks:
+15:29:17.509163 line        30         while self.isLive:
+15:29:17.509163 line        31             self.getTasks.emit(self)
+15:29:17.510163 line        34             for task in self.tasks:
+15:29:17.510163 line        30         while self.isLive:
+15:29:17.511164 line        31             self.getTasks.emit(self)
+15:29:17.512163 line        34             for task in self.tasks:
+15:29:17.513164 line        30         while self.isLive:
+15:29:17.522163 line        31             self.getTasks.emit(self)
+15:29:17.522163 line        34             for task in self.tasks:
+15:29:17.523174 line        30         while self.isLive:
+15:29:17.524166 line        31             self.getTasks.emit(self)
+15:29:17.525164 line        34             for task in self.tasks:
+15:29:17.525164 line        30         while self.isLive:
+15:29:17.526165 line        31             self.getTasks.emit(self)
+15:29:17.527165 line        34             for task in self.tasks:
+15:29:17.527165 line        30         while self.isLive:
+15:29:17.528162 line        31             self.getTasks.emit(self)
+15:29:17.529162 line        34             for task in self.tasks:
+15:29:17.530163 line        30         while self.isLive:
+15:29:17.530163 line        31             self.getTasks.emit(self)
+15:29:17.539163 line        34             for task in self.tasks:
+15:29:17.539163 line        30         while self.isLive:
+15:29:17.540165 line        31             self.getTasks.emit(self)
+15:29:17.541165 line        34             for task in self.tasks:
+15:29:17.541165 line        30         while self.isLive:
+15:29:17.542166 line        31             self.getTasks.emit(self)
+15:29:17.542166 line        34             for task in self.tasks:
+15:29:17.543163 line        30         while self.isLive:
+15:29:17.543163 line        31             self.getTasks.emit(self)
+15:29:17.544163 line        34             for task in self.tasks:
+15:29:17.544163 line        30         while self.isLive:
+15:29:17.546163 line        31             self.getTasks.emit(self)
+15:29:17.547162 line        34             for task in self.tasks:
+15:29:17.547162 line        30         while self.isLive:
+15:29:17.550162 line        31             self.getTasks.emit(self)
+15:29:17.559163 line        34             for task in self.tasks:
+15:29:17.560163 line        30         while self.isLive:
+15:29:17.561163 line        31             self.getTasks.emit(self)
+15:29:17.561163 line        34             for task in self.tasks:
+15:29:17.562165 line        30         while self.isLive:
+15:29:17.563165 line        31             self.getTasks.emit(self)
+15:29:17.564164 line        34             for task in self.tasks:
+15:29:17.564164 line        30         while self.isLive:
+15:29:17.565163 line        31             self.getTasks.emit(self)
+15:29:17.566163 line        34             for task in self.tasks:
+15:29:17.566163 line        30         while self.isLive:
+15:29:17.577163 line        31             self.getTasks.emit(self)
+15:29:17.577163 line        34             for task in self.tasks:
+15:29:17.578165 line        30         while self.isLive:
+15:29:17.579164 line        31             self.getTasks.emit(self)
+15:29:17.579164 line        34             for task in self.tasks:
+15:29:17.580163 line        30         while self.isLive:
+15:29:17.581164 line        31             self.getTasks.emit(self)
+15:29:17.581164 line        34             for task in self.tasks:
+15:29:17.582163 line        30         while self.isLive:
+15:29:17.583164 line        31             self.getTasks.emit(self)
+15:29:17.583164 line        34             for task in self.tasks:
+15:29:17.595164 line        30         while self.isLive:
+15:29:17.596164 line        31             self.getTasks.emit(self)
+15:29:17.596164 line        34             for task in self.tasks:
+15:29:17.597165 line        30         while self.isLive:
+15:29:17.598164 line        31             self.getTasks.emit(self)
+15:29:17.598164 line        34             for task in self.tasks:
+15:29:17.599164 line        30         while self.isLive:
+15:29:17.599164 line        31             self.getTasks.emit(self)
+15:29:17.600162 line        34             for task in self.tasks:
+15:29:17.600162 line        30         while self.isLive:
+15:29:17.601165 line        31             self.getTasks.emit(self)
+15:29:17.601165 line        34             for task in self.tasks:
+15:29:17.602165 line        30         while self.isLive:
+15:29:17.604164 line        31             self.getTasks.emit(self)
+15:29:17.604164 line        34             for task in self.tasks:
+15:29:17.605164 line        30         while self.isLive:
+15:29:17.608168 line        31             self.getTasks.emit(self)
+15:29:17.608168 line        34             for task in self.tasks:
+15:29:17.609164 line        30         while self.isLive:
+15:29:17.609164 line        31             self.getTasks.emit(self)
+15:29:18.159674 line        34             for task in self.tasks:
+15:29:18.160675 line        30         while self.isLive:
+15:29:18.161676 line        31             self.getTasks.emit(self)
+15:29:18.162677 line        34             for task in self.tasks:
+15:29:18.162677 line        30         while self.isLive:
+15:29:18.163675 line        31             self.getTasks.emit(self)
+15:29:18.164675 line        34             for task in self.tasks:
+15:29:18.164675 line        30         while self.isLive:
+15:29:18.165675 line        31             self.getTasks.emit(self)
+15:29:18.165675 line        34             for task in self.tasks:
+15:29:18.166675 line        30         while self.isLive:
+15:29:18.166675 line        31             self.getTasks.emit(self)
+15:29:18.167674 line        34             for task in self.tasks:
+15:29:18.167674 line        30         while self.isLive:
+15:29:18.168675 line        31             self.getTasks.emit(self)
+15:29:18.198674 line        34             for task in self.tasks:
+New var:....... task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.199674 line        35                 if task.condition():
+15:29:18.200674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.201675 line        35                 if task.condition():
+15:29:18.202675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.202675 line        35                 if task.condition():
+15:29:18.203674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.203674 line        35                 if task.condition():
+15:29:18.204675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.205677 line        35                 if task.condition():
+15:29:18.206675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.206675 line        35                 if task.condition():
+15:29:18.207684 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.208675 line        35                 if task.condition():
+15:29:18.209677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.209677 line        35                 if task.condition():
+15:29:18.210675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.211674 line        35                 if task.condition():
+15:29:18.212675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.212675 line        35                 if task.condition():
+15:29:18.213675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.214674 line        35                 if task.condition():
+15:29:18.214674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.215676 line        35                 if task.condition():
+15:29:18.216674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.216674 line        35                 if task.condition():
+15:29:18.217674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.217674 line        35                 if task.condition():
+15:29:18.218675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.218675 line        35                 if task.condition():
+15:29:18.219674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.220674 line        35                 if task.condition():
+15:29:18.220674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.221674 line        35                 if task.condition():
+15:29:18.222675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.222675 line        35                 if task.condition():
+15:29:18.223676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.224676 line        35                 if task.condition():
+15:29:18.225677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.226676 line        35                 if task.condition():
+15:29:18.227675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.228674 line        35                 if task.condition():
+15:29:18.228674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.229675 line        35                 if task.condition():
+15:29:18.230674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.230674 line        35                 if task.condition():
+15:29:18.231674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.231674 line        35                 if task.condition():
+15:29:18.232674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.233674 line        35                 if task.condition():
+15:29:18.233674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.234674 line        35                 if task.condition():
+15:29:18.235674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.235674 line        35                 if task.condition():
+15:29:18.236674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.236674 line        35                 if task.condition():
+15:29:18.237674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.237674 line        35                 if task.condition():
+15:29:18.238674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.239675 line        35                 if task.condition():
+15:29:18.240676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.240676 line        35                 if task.condition():
+15:29:18.243676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.244675 line        35                 if task.condition():
+15:29:18.245677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.245677 line        35                 if task.condition():
+15:29:18.246674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.247675 line        35                 if task.condition():
+15:29:18.248679 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.249677 line        35                 if task.condition():
+15:29:18.249677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.250675 line        35                 if task.condition():
+15:29:18.251675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.251675 line        35                 if task.condition():
+15:29:18.252675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.253675 line        35                 if task.condition():
+15:29:18.253675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.254674 line        35                 if task.condition():
+15:29:18.255674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.255674 line        35                 if task.condition():
+15:29:18.256675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.256675 line        35                 if task.condition():
+15:29:18.257675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.258677 line        35                 if task.condition():
+15:29:18.259677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.259677 line        35                 if task.condition():
+15:29:18.260674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.260674 line        35                 if task.condition():
+15:29:18.261674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.262674 line        35                 if task.condition():
+15:29:18.262674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.263674 line        35                 if task.condition():
+15:29:18.264674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.264674 line        35                 if task.condition():
+15:29:18.265675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.265675 line        35                 if task.condition():
+15:29:18.266674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.266674 line        35                 if task.condition():
+15:29:18.267675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.268674 line        35                 if task.condition():
+15:29:18.269674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.269674 line        35                 if task.condition():
+15:29:18.270674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.270674 line        35                 if task.condition():
+15:29:18.271674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.272674 line        35                 if task.condition():
+15:29:18.272674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.273676 line        35                 if task.condition():
+15:29:18.274677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.275675 line        35                 if task.condition():
+15:29:18.276674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.276674 line        35                 if task.condition():
+15:29:18.277675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.277675 line        35                 if task.condition():
+15:29:18.278675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.279674 line        35                 if task.condition():
+15:29:18.279674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.280674 line        35                 if task.condition():
+15:29:18.281674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.281674 line        35                 if task.condition():
+15:29:18.282674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.282674 line        35                 if task.condition():
+15:29:18.283674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.284674 line        35                 if task.condition():
+15:29:18.285674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.285674 line        35                 if task.condition():
+15:29:18.286675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.286675 line        35                 if task.condition():
+15:29:18.287674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.288675 line        35                 if task.condition():
+15:29:18.289674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.289674 line        35                 if task.condition():
+15:29:18.290675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.291676 line        35                 if task.condition():
+15:29:18.292676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.292676 line        35                 if task.condition():
+15:29:18.293675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.294674 line        35                 if task.condition():
+15:29:18.295674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.295674 line        35                 if task.condition():
+15:29:18.296675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.296675 line        35                 if task.condition():
+15:29:18.297674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.298674 line        35                 if task.condition():
+15:29:18.299674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.299674 line        35                 if task.condition():
+15:29:18.300674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.300674 line        35                 if task.condition():
+15:29:18.301675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.302674 line        35                 if task.condition():
+15:29:18.303674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.303674 line        35                 if task.condition():
+15:29:18.304674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.304674 line        35                 if task.condition():
+15:29:18.306675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.306675 line        35                 if task.condition():
+15:29:18.307676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.308676 line        35                 if task.condition():
+15:29:18.308676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.309674 line        35                 if task.condition():
+15:29:18.310674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.310674 line        35                 if task.condition():
+15:29:18.311673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.312675 line        35                 if task.condition():
+15:29:18.312675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.313673 line        35                 if task.condition():
+15:29:18.314673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.314673 line        35                 if task.condition():
+15:29:18.315673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.315673 line        35                 if task.condition():
+15:29:18.316675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.317675 line        35                 if task.condition():
+15:29:18.317675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.318675 line        35                 if task.condition():
+15:29:18.319676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.319676 line        35                 if task.condition():
+15:29:18.320674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.320674 line        35                 if task.condition():
+15:29:18.321674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.322675 line        35                 if task.condition():
+15:29:18.323674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.323674 line        35                 if task.condition():
+15:29:18.324678 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.325677 line        35                 if task.condition():
+15:29:18.326676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.327675 line        35                 if task.condition():
+15:29:18.327675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.328676 line        35                 if task.condition():
+15:29:18.329677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.329677 line        35                 if task.condition():
+15:29:18.330677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.330677 line        35                 if task.condition():
+15:29:18.331677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.332677 line        35                 if task.condition():
+15:29:18.332677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.333677 line        35                 if task.condition():
+15:29:18.334679 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.334679 line        35                 if task.condition():
+15:29:18.335677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.335677 line        35                 if task.condition():
+15:29:18.336677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.337677 line        35                 if task.condition():
+15:29:18.338677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.338677 line        35                 if task.condition():
+15:29:18.339676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.339676 line        35                 if task.condition():
+15:29:18.340680 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.341682 line        35                 if task.condition():
+15:29:18.342679 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.342679 line        35                 if task.condition():
+15:29:18.343678 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.344678 line        35                 if task.condition():
+15:29:18.345679 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.345679 line        35                 if task.condition():
+15:29:18.346677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.346677 line        35                 if task.condition():
+15:29:18.347678 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.348678 line        35                 if task.condition():
+15:29:18.349678 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.349678 line        35                 if task.condition():
+15:29:18.350678 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.351678 line        35                 if task.condition():
+15:29:18.352678 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.352678 line        35                 if task.condition():
+15:29:18.353678 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.354713 line        35                 if task.condition():
+15:29:18.355676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.355676 line        35                 if task.condition():
+15:29:18.356711 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.357675 line        35                 if task.condition():
+15:29:18.358677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.359678 line        35                 if task.condition():
+15:29:18.360676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.360676 line        35                 if task.condition():
+15:29:18.361675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.362676 line        35                 if task.condition():
+15:29:18.363674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.363674 line        35                 if task.condition():
+15:29:18.364675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.365674 line        35                 if task.condition():
+15:29:18.365674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.366675 line        35                 if task.condition():
+15:29:18.367674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.367674 line        35                 if task.condition():
+15:29:18.368675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.369675 line        35                 if task.condition():
+15:29:18.370675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.370675 line        35                 if task.condition():
+15:29:18.371674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.372675 line        35                 if task.condition():
+15:29:18.373675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.373675 line        35                 if task.condition():
+15:29:18.375678 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.375678 line        35                 if task.condition():
+15:29:18.376675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.377676 line        35                 if task.condition():
+15:29:18.378676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.378676 line        35                 if task.condition():
+15:29:18.379674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.380675 line        35                 if task.condition():
+15:29:18.381676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.381676 line        35                 if task.condition():
+15:29:18.382676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.383675 line        35                 if task.condition():
+15:29:18.384675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.384675 line        35                 if task.condition():
+15:29:18.385675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.385675 line        35                 if task.condition():
+15:29:18.386676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.387675 line        35                 if task.condition():
+15:29:18.388675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.388675 line        35                 if task.condition():
+15:29:18.389674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.390676 line        35                 if task.condition():
+15:29:18.391677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.392680 line        35                 if task.condition():
+15:29:18.393675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.393675 line        35                 if task.condition():
+15:29:18.394676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.395674 line        35                 if task.condition():
+15:29:18.396675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.396675 line        35                 if task.condition():
+15:29:18.397675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.398676 line        35                 if task.condition():
+15:29:18.398676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.399676 line        35                 if task.condition():
+15:29:18.400675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.401677 line        35                 if task.condition():
+15:29:18.402677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.402677 line        35                 if task.condition():
+15:29:18.403674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.404675 line        35                 if task.condition():
+15:29:18.405676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.405676 line        35                 if task.condition():
+15:29:18.407676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.407676 line        35                 if task.condition():
+15:29:18.409676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.409676 line        35                 if task.condition():
+15:29:18.411675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.411675 line        35                 if task.condition():
+15:29:18.412675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.413675 line        35                 if task.condition():
+15:29:18.414675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.414675 line        35                 if task.condition():
+15:29:18.415675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.416675 line        35                 if task.condition():
+15:29:18.417674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.417674 line        35                 if task.condition():
+15:29:18.418676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.419675 line        35                 if task.condition():
+15:29:18.420675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.420675 line        35                 if task.condition():
+15:29:18.421675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.422674 line        35                 if task.condition():
+15:29:18.423674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.423674 line        35                 if task.condition():
+15:29:18.424676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.424676 line        35                 if task.condition():
+15:29:18.425676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.426675 line        35                 if task.condition():
+15:29:18.427677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.427677 line        35                 if task.condition():
+15:29:18.428676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.429674 line        35                 if task.condition():
+15:29:18.429674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.430674 line        35                 if task.condition():
+15:29:18.431674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.431674 line        35                 if task.condition():
+15:29:18.432674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.433677 line        35                 if task.condition():
+15:29:18.434677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.434677 line        35                 if task.condition():
+15:29:18.435676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.436675 line        35                 if task.condition():
+15:29:18.437675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.437675 line        35                 if task.condition():
+15:29:18.438675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.439674 line        35                 if task.condition():
+15:29:18.440676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.440676 line        35                 if task.condition():
+15:29:18.441677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.442677 line        35                 if task.condition():
+15:29:18.443676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.444675 line        35                 if task.condition():
+15:29:18.445676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.445676 line        35                 if task.condition():
+15:29:18.446675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.447675 line        35                 if task.condition():
+15:29:18.448677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.448677 line        35                 if task.condition():
+15:29:18.449675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.450676 line        35                 if task.condition():
+15:29:18.451676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.451676 line        35                 if task.condition():
+15:29:18.453675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.453675 line        35                 if task.condition():
+15:29:18.455675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.455675 line        35                 if task.condition():
+15:29:18.456675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.457675 line        35                 if task.condition():
+15:29:18.458677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.459676 line        35                 if task.condition():
+15:29:18.460675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.460675 line        35                 if task.condition():
+15:29:18.461675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.462675 line        35                 if task.condition():
+15:29:18.463676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.463676 line        35                 if task.condition():
+15:29:18.464675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.464675 line        35                 if task.condition():
+15:29:18.465676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.466676 line        35                 if task.condition():
+15:29:18.467675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.467675 line        35                 if task.condition():
+15:29:18.468675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.469675 line        35                 if task.condition():
+15:29:18.470676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.470676 line        35                 if task.condition():
+15:29:18.471675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.472675 line        35                 if task.condition():
+15:29:18.473681 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.474676 line        35                 if task.condition():
+15:29:18.475676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.476675 line        35                 if task.condition():
+15:29:18.477675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.477675 line        35                 if task.condition():
+15:29:18.478675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.478675 line        35                 if task.condition():
+15:29:18.479674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.480674 line        35                 if task.condition():
+15:29:18.481676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.481676 line        35                 if task.condition():
+15:29:18.482676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.482676 line        35                 if task.condition():
+15:29:18.483676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.484674 line        35                 if task.condition():
+15:29:18.485674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.485674 line        35                 if task.condition():
+15:29:18.486674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.486674 line        35                 if task.condition():
+15:29:18.487674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.487674 line        35                 if task.condition():
+15:29:18.488674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.489674 line        35                 if task.condition():
+15:29:18.490675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.490675 line        35                 if task.condition():
+15:29:18.491687 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.492674 line        35                 if task.condition():
+15:29:18.493674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.493674 line        35                 if task.condition():
+15:29:18.494674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.494674 line        35                 if task.condition():
+15:29:18.495673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.496674 line        35                 if task.condition():
+15:29:18.497677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.497677 line        35                 if task.condition():
+15:29:18.498677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.498677 line        35                 if task.condition():
+15:29:18.499673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.500675 line        35                 if task.condition():
+15:29:18.501674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.501674 line        35                 if task.condition():
+15:29:18.502676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.503675 line        35                 if task.condition():
+15:29:18.504673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.504673 line        35                 if task.condition():
+15:29:18.505673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.505673 line        35                 if task.condition():
+15:29:18.506676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.507680 line        35                 if task.condition():
+15:29:18.508676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.508676 line        35                 if task.condition():
+15:29:18.509675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.510676 line        35                 if task.condition():
+15:29:18.511673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.511673 line        35                 if task.condition():
+15:29:18.512675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.512675 line        35                 if task.condition():
+15:29:18.513674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.514674 line        35                 if task.condition():
+15:29:18.514674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.515674 line        35                 if task.condition():
+15:29:18.516675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.516675 line        35                 if task.condition():
+15:29:18.517673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.517673 line        35                 if task.condition():
+15:29:18.518673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.518673 line        35                 if task.condition():
+15:29:18.519674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.520673 line        35                 if task.condition():
+15:29:18.521673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.521673 line        35                 if task.condition():
+15:29:18.522674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.522674 line        35                 if task.condition():
+15:29:18.523675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.524674 line        35                 if task.condition():
+15:29:18.524674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.525674 line        35                 if task.condition():
+15:29:18.526675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.526675 line        35                 if task.condition():
+15:29:18.527675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.528675 line        35                 if task.condition():
+15:29:18.529675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.529675 line        35                 if task.condition():
+15:29:18.530690 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.530690 line        35                 if task.condition():
+15:29:18.531674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.532674 line        35                 if task.condition():
+15:29:18.533674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.533674 line        35                 if task.condition():
+15:29:18.534674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.535675 line        35                 if task.condition():
+15:29:18.535675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.536675 line        35                 if task.condition():
+15:29:18.537674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.537674 line        35                 if task.condition():
+15:29:18.538674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.539674 line        35                 if task.condition():
+15:29:18.540674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.540674 line        35                 if task.condition():
+15:29:18.541675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.541675 line        35                 if task.condition():
+15:29:18.542674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.543673 line        35                 if task.condition():
+15:29:18.544673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.544673 line        35                 if task.condition():
+15:29:18.545674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.546675 line        35                 if task.condition():
+15:29:18.547674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.547674 line        35                 if task.condition():
+15:29:18.548673 line        34             for task in self.tasks:
+15:29:18.548673 line        30         while self.isLive:
+15:29:18.549674 line        31             self.getTasks.emit(self)
+15:29:18.549674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.550674 line        35                 if task.condition():
+15:29:18.551674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.551674 line        35                 if task.condition():
+15:29:18.552673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.553673 line        35                 if task.condition():
+15:29:18.554674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.554674 line        35                 if task.condition():
+15:29:18.555675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.555675 line        35                 if task.condition():
+15:29:18.556675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.557674 line        35                 if task.condition():
+15:29:18.558674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.558674 line        35                 if task.condition():
+15:29:18.559674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.560674 line        35                 if task.condition():
+15:29:18.561674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.561674 line        35                 if task.condition():
+15:29:18.562674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.563675 line        35                 if task.condition():
+15:29:18.564674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.564674 line        35                 if task.condition():
+15:29:18.565676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.565676 line        35                 if task.condition():
+15:29:18.566675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.567675 line        35                 if task.condition():
+15:29:18.567675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.568674 line        35                 if task.condition():
+15:29:18.569674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.569674 line        35                 if task.condition():
+15:29:18.570675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.571687 line        35                 if task.condition():
+15:29:18.572674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.572674 line        35                 if task.condition():
+15:29:18.573675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.573675 line        35                 if task.condition():
+15:29:18.574675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.574675 line        35                 if task.condition():
+15:29:18.575675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.576675 line        35                 if task.condition():
+15:29:18.577674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.577674 line        35                 if task.condition():
+15:29:18.578674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.579676 line        35                 if task.condition():
+15:29:18.580677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.581675 line        35                 if task.condition():
+15:29:18.582675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.582675 line        35                 if task.condition():
+15:29:18.583676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.584675 line        35                 if task.condition():
+15:29:18.584675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.585675 line        35                 if task.condition():
+15:29:18.586674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.586674 line        35                 if task.condition():
+15:29:18.587676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.588674 line        35                 if task.condition():
+15:29:18.589677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.589677 line        35                 if task.condition():
+15:29:18.590675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.591676 line        35                 if task.condition():
+15:29:18.592678 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.593680 line        35                 if task.condition():
+15:29:18.594676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.594676 line        35                 if task.condition():
+15:29:18.595675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.596675 line        35                 if task.condition():
+15:29:18.597674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.597674 line        35                 if task.condition():
+15:29:18.598674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.598674 line        35                 if task.condition():
+15:29:18.599675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.600675 line        35                 if task.condition():
+15:29:18.601674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.601674 line        35                 if task.condition():
+15:29:18.602676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.602676 line        35                 if task.condition():
+15:29:18.603675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.604675 line        35                 if task.condition():
+15:29:18.605674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.605674 line        35                 if task.condition():
+15:29:18.606675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.606675 line        35                 if task.condition():
+15:29:18.607676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.608675 line        35                 if task.condition():
+15:29:18.609674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.609674 line        35                 if task.condition():
+15:29:18.610675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.611675 line        35                 if task.condition():
+15:29:18.611675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.612674 line        35                 if task.condition():
+15:29:18.613674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.613674 line        35                 if task.condition():
+15:29:18.614674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.615674 line        35                 if task.condition():
+15:29:18.615674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.616675 line        35                 if task.condition():
+15:29:18.617674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.617674 line        35                 if task.condition():
+15:29:18.618674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.618674 line        35                 if task.condition():
+15:29:18.619675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.620674 line        35                 if task.condition():
+15:29:18.621674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.621674 line        35                 if task.condition():
+15:29:18.622674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.623675 line        35                 if task.condition():
+15:29:18.624675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.624675 line        35                 if task.condition():
+15:29:18.625674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.625674 line        35                 if task.condition():
+15:29:18.626675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.627675 line        35                 if task.condition():
+15:29:18.628674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.628674 line        35                 if task.condition():
+15:29:18.629674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.629674 line        35                 if task.condition():
+15:29:18.630675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.631674 line        35                 if task.condition():
+15:29:18.632674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.632674 line        35                 if task.condition():
+15:29:18.633674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.633674 line        35                 if task.condition():
+15:29:18.634674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.635674 line        35                 if task.condition():
+15:29:18.636674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.636674 line        35                 if task.condition():
+15:29:18.637674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.637674 line        35                 if task.condition():
+15:29:18.638674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.639674 line        35                 if task.condition():
+15:29:18.640675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.641674 line        35                 if task.condition():
+15:29:18.642674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.642674 line        35                 if task.condition():
+15:29:18.643674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.644675 line        35                 if task.condition():
+15:29:18.645674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.645674 line        35                 if task.condition():
+15:29:18.646675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.646675 line        35                 if task.condition():
+15:29:18.647675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.648674 line        35                 if task.condition():
+15:29:18.649674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.649674 line        35                 if task.condition():
+15:29:18.650674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.650674 line        35                 if task.condition():
+15:29:18.651674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.652674 line        35                 if task.condition():
+15:29:18.653674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.653674 line        35                 if task.condition():
+15:29:18.654674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.654674 line        35                 if task.condition():
+15:29:18.656676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.656676 line        35                 if task.condition():
+15:29:18.657677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.658676 line        35                 if task.condition():
+15:29:18.659676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.659676 line        35                 if task.condition():
+15:29:18.660676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.661675 line        35                 if task.condition():
+15:29:18.661675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.662675 line        35                 if task.condition():
+15:29:18.663675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.663675 line        35                 if task.condition():
+15:29:18.664674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.665675 line        35                 if task.condition():
+15:29:18.665675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.666675 line        35                 if task.condition():
+15:29:18.667674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.667674 line        35                 if task.condition():
+15:29:18.668674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.668674 line        35                 if task.condition():
+15:29:18.669674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.670675 line        35                 if task.condition():
+15:29:18.670675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.671675 line        35                 if task.condition():
+15:29:18.672675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.673675 line        35                 if task.condition():
+15:29:18.674675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.674675 line        35                 if task.condition():
+15:29:18.675674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.675674 line        35                 if task.condition():
+15:29:18.676674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.677674 line        35                 if task.condition():
+15:29:18.678676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.678676 line        35                 if task.condition():
+15:29:18.679674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.679674 line        35                 if task.condition():
+15:29:18.680674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.681674 line        35                 if task.condition():
+15:29:18.681674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.682674 line        35                 if task.condition():
+15:29:18.683674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.683674 line        35                 if task.condition():
+15:29:18.684674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.684674 line        35                 if task.condition():
+15:29:18.685675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.686676 line        35                 if task.condition():
+15:29:18.687674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.687674 line        35                 if task.condition():
+15:29:18.688676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.689675 line        35                 if task.condition():
+15:29:18.690674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.690674 line        35                 if task.condition():
+15:29:18.691674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.691674 line        35                 if task.condition():
+15:29:18.692674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.693674 line        35                 if task.condition():
+15:29:18.694674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.694674 line        35                 if task.condition():
+15:29:18.695675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.695675 line        35                 if task.condition():
+15:29:18.696674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.697674 line        35                 if task.condition():
+15:29:18.698674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.698674 line        35                 if task.condition():
+15:29:18.699677 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.700675 line        35                 if task.condition():
+15:29:18.701674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.701674 line        35                 if task.condition():
+15:29:18.702676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.703675 line        35                 if task.condition():
+15:29:18.703675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.704674 line        35                 if task.condition():
+15:29:18.705674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.705674 line        35                 if task.condition():
+15:29:18.706675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.707674 line        35                 if task.condition():
+15:29:18.707674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.708674 line        35                 if task.condition():
+15:29:18.709674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.709674 line        35                 if task.condition():
+15:29:18.710674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.711673 line        35                 if task.condition():
+15:29:18.711673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.712674 line        35                 if task.condition():
+15:29:18.713673 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.713673 line        35                 if task.condition():
+15:29:18.714674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.715675 line        35                 if task.condition():
+15:29:18.715675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.716674 line        35                 if task.condition():
+15:29:18.717674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.717674 line        35                 if task.condition():
+15:29:18.718675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.719676 line        35                 if task.condition():
+15:29:18.720675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.720675 line        35                 if task.condition():
+15:29:18.721674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.722675 line        35                 if task.condition():
+15:29:18.722675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.723675 line        35                 if task.condition():
+15:29:18.724674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.724674 line        35                 if task.condition():
+15:29:18.725674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.725674 line        35                 if task.condition():
+15:29:18.726674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.726674 line        35                 if task.condition():
+15:29:18.727674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.728674 line        35                 if task.condition():
+15:29:18.729675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.729675 line        35                 if task.condition():
+15:29:18.730674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.730674 line        35                 if task.condition():
+15:29:18.731674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.731674 line        35                 if task.condition():
+15:29:18.732674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.733674 line        35                 if task.condition():
+15:29:18.734674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.734674 line        35                 if task.condition():
+15:29:18.735674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.735674 line        35                 if task.condition():
+15:29:18.736676 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.737674 line        35                 if task.condition():
+15:29:18.738675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=gr...tive=False,now_status=stand>>, id='green.doTask')
+15:29:18.738675 line        35                 if task.condition():
+15:29:18.739674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=bl...ctive=False,now_status=stand>>, id='blue.doTask')
+15:29:18.739674 line        35                 if task.condition():
+15:29:18.740675 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=pu...ive=False,now_status=stand>>, id='purple.doTask')
+15:29:18.741674 line        35                 if task.condition():
+15:29:18.741674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=sl...tive=False,now_status=stand>>, id='slime.doTask')
+15:29:18.742674 line        35                 if task.condition():
+15:29:18.743674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=re...active=False,now_status=stand>>, id='red.doTask')
+15:29:18.743674 line        35                 if task.condition():
+15:29:18.744674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=or...ive=False,now_status=stand>>, id='orange.doTask')
+15:29:18.745674 line        35                 if task.condition():
+15:29:18.745674 line        34             for task in self.tasks:
+Modified var:.. task = Func(func=<bound method Pet.doTask of <pet id=ye...ive=False,now_status=stand>>, id='yellow.doTask')
+15:29:18.746674 line        35                 if task.condition():
+15:29:18.747674 line        34             for task in self.tasks:
