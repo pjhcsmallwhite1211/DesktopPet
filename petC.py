@@ -9,6 +9,7 @@ from PyQt5 import Qt, QtGui  # type: ignore # PyQt5 相关
 import pet
 from libs import *
 from NLP import *
+from speakbox import speakBox
 
 class Pet(QObject):
     returnSignal=pyqtSignal(str)
@@ -19,6 +20,7 @@ class Pet(QObject):
         self.mouseButtonDown = False
         center=getattr(values, "CENTER")
         self.isSpeaking = False
+        self.inputText = "hello"
         # attribute
         self.item = ""
         self.face = "face_happy"
@@ -29,6 +31,7 @@ class Pet(QObject):
         self.taskList:list[task] = []
         self.runTime=0
         self.generator=Generator()
+        self.speakBox=speakBox()
         # init
         self.mainWindow = QMainWindow()
         self.ui = pet.Ui_Form()
@@ -52,16 +55,30 @@ class Pet(QObject):
         self.taskList.append(task(self.moveLogic,type="moveLogic",tag="logicCalculator"))
         self.taskList.append(task(self.speakLogic,type="speakLogic",tag="logicCalculator"))
         self.returnSignal.connect(self.speak)
-        self.generator.init()
+        self.speakBox.ui.textEdit.textChanged.connect(lambda :self.answer(self.speakBox.ui.textEdit.toPlainText())) # type: ignore
+    def answer(self,text):
+        if text==""or text == "\n":
+            pass
+        elif text.split('//')[-1] == "e":
+            print(text.split('//')[-2])
+            self.inputText=text.split('//')[-2]
+            self.speakBox.text+="usr:"+self.inputText+"\n"
+            nlpSystem.addNLPTask(text.split('//')[-2],self.returnSignal,self.generator)
+            self.isSpeaking=True
+            
+        else:
+            self.isSpeaking=True
     def speak(self,text):
         logger.info(f"speak {text}")
         self.isSpeaking=False
+        self.speakBox.show()
+        self.speakBox.addText(f"{self.id}:"+text+"//\n")
+
     def speakLogic(self,_task=None):
-        if random.randint(0,1000)>=10 and self.isSpeaking:
-            return
-        self.isSpeaking=True
-        
-        nlpSystem.addNLPTask("hello",self.returnSignal,self.generator)
+        if (not self.isSpeaking) and random.randint(0,10000) ==0:
+            nlpSystem.addNLPTask(self.inputText,self.returnSignal,self.generator)
+            self.isSpeaking=True
+            
     def moveLogic(self,_task=None):
         a=random.randint(0,1000)
         existingTypes=[]

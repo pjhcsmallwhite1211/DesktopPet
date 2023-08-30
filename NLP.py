@@ -7,12 +7,15 @@ from transformers import pipeline
 class Generator(object):
 
     def __init__(self):
-        pass
+        self.isOK=False
     def init(self):
         self.model = 'gpt2'
         self._generateText = pipeline("text-generation", model=self.model)  # 文本生成
         logger.warning("generator \033[96minited\033[0m~~~~~~~~~~~~~~~~~~~~~")
+        self.isOK=True
     def generateText(self,prompt):
+        if not self.isOK:
+            self.init()
         result=self._generateText(prompt)
         # parent.returnSignal.emit(result[0]['generated_text'])
         return result[0]['generated_text'] # type: ignore
